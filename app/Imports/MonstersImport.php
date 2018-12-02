@@ -15,6 +15,7 @@ class MonstersImport implements ToModel
     public function model(array $row)
     {
         return new Monster([
+            //'name' => str_replace(","," ", $row[0]),
             'name' => $row[0],
             'cr' => $row[1],
             'size' => $row[2],
