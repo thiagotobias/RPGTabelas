@@ -1,0 +1,1810 @@
+"Archon, Owl",11,Large,"outsider(archon, extraplanar, good, lawful)",10,LG,,Any,Celestia,159, Book of Exalted Deeds,1
+"Archon, Sword",11,Large,"outsider(archon, extraplanar, good, lawful)",11,LG,,Any,Celestia,160, Book of Exalted Deeds,1
+"Archon, Throne",15,Large,"outsider(archon, extraplanar, good, lawful)",14,LG,,Any,Celestia,162, Book of Exalted Deeds,1
+"Archon, Warden",8,Large,"outsider(archon, extraplanar, good, lawful)",8,LG,,Any,Celestia,163, Book of Exalted Deeds,1
+Asura,8,Medium,"outsider(chaotic, extraplanar, good)",8,CG,,Any,Any Upper,164, Book of Exalted Deeds,1
+Bariaur,3,Large,"outsider(chaotic, extraplanar, good)",3,CG,,Any,Ysgard,166, Book of Exalted Deeds,1
+Bariaur Defender Of Ysgard (ranger 6),9,Large,"outsider(chaotic, extraplanar, good)",9,CG,,Any,Ysgard,166, Book of Exalted Deeds,1
+Crypt Warden,8,Medium,deathless,9,LG,, Underground,Material,168, Book of Exalted Deeds,1
+Eladrin: Coure,2,Tiny,"outsider(chaotic, extraplanar, good)",2,CG,,Any,Arborea,168, Book of Exalted Deeds,1
+Eladrin: Firre,10,Medium,"outsider(chaotic, extraplanar, good)",8,CG,,Any,Arborea,169, Book of Exalted Deeds,1
+Eladrin: Shiradi,14,Large,"outsider(chaotic, extraplanar, good)",12,CG,,Any,Arborea,170, Book of Exalted Deeds,1
+Eladrin: Tulani,18,Medium,"outsider(chaotic, extraplanar, good)",18,CG,,Any,Arborea,171, Book of Exalted Deeds,1
+Guardinal: Equinal,6,Large,"outsider(extraplanar, good)",6,NG,,Any,Elysium,173, Book of Exalted Deeds,1
+Guardinal: Musteval,2,Tiny,"outsider(extraplanar, good)",2,NG,,Any,Elysium,174, Book of Exalted Deeds,1
+Guardinal: Ursinal,10,Large,"outsider(extraplanar, good)",10,NG,,Any,Elysium,174, Book of Exalted Deeds,1
+"Hollyphant, Winged Elephant Form",8,Small,"outsider(extraplanar, good)",6,NG,,Any,Beastlands,176, Book of Exalted Deeds,1
+"Hollyphant, Winged Mastodon Form",8,Large,"outsider(extraplanar, good)",6,NG,,Any,Beastlands,176, Book of Exalted Deeds,1
+Leskylor,7,Large,magical beast,6,NG,,Any,Elysium,178, Book of Exalted Deeds,1
+"Leskylor, Three-headed",10,Large,magical beast,10,NG,,Any,Elysium,178, Book of Exalted Deeds,1
+Moon Dog,12,Medium,"outsider(extraplanar, good)",9,NG,,Any,Elysium,179, Book of Exalted Deeds,1
+Quesar,7,Medium,construct(extraplanar),8,NG,,Any,Elysium,180, Book of Exalted Deeds,1
+Rhek,4,Medium,monstrous humanoid(extraplanar),5,LG,,Any,Arcadia,182, Book of Exalted Deeds,1
+Rhek Chaosgrinder (monk 8),12,Medium,monstrous humanoid(extraplanar),13,LG,,Any,Arcadia,182, Book of Exalted Deeds,1
+Sacred Watcher,7,Medium,deathless(augmented humanoid),5,G,,Any,Material,182, Book of Exalted Deeds,1
+Saint,9,Medium,"outsider(augmented humanoid, native)",7,LG,,Any,Material,184, Book of Exalted Deeds,1
+Sanctified Young Red Dragon,6,Large,"dragon(fire,AUGMENTED)",10,CG,Warm, Mountains,Material,186, Book of Exalted Deeds,1
+Apocalypse Frog Swarm (Divine Wrath),4,Diminutive,magical beast(swarm),5,N,,Any,Material,188, Book of Exalted Deeds,1
+Bronze Locust Swarm (Divine Wrath),17,Fine,construct(swarm),15,N,,Any,Material,188, Book of Exalted Deeds,1
+Deathraven Swarm (Divine Wrath),20,Tiny,magical beast(swarm),18,N,,Any,Material,189, Book of Exalted Deeds,1
+Sunfly Swarm (Divine Wrath),10,Diminutive,"outsider(extraplanar, good, swarm)",9,N,,Any,Material,190, Book of Exalted Deeds,1
+Demon: Bar-lgura (tanar'ri),5,Medium,"outsider(chaotic, evil)",6,CE,,Any/Underground,Material,170, Book of Vile Darkness,1
+Demon: Mane (tanar'ri),1,Small,"outsider(chaotic, evil)",1,CE,,Any/Underground,Material,170, Book of Vile Darkness,1
+Demon: Rutterkin (tanar'ri),3,Medium,"outsider(chaotic, evil)",5,CE,,Any/Underground,Material,170, Book of Vile Darkness,1
+Demon: Babau (tanar'ri),7,Medium,"outsider(chaotic, evil)",7,CE,,Any/Underground,Material,172, Book of Vile Darkness,1
+Demon: Chasme (tanar'ri),10,Large,"outsider(chaotic, evil)",9,CE,,Any/Underground,Material,172, Book of Vile Darkness,1
+Demon: Shadow Demon,8,Medium,"outsider(chaotic, evil, incorporeal)",10,CE,,Any/Underground,Material,172, Book of Vile Darkness,1
+Devil: Ghargatula (baatezu),16,Huge,"outsider(evil, lawful)",24,LE,,Any/Underground,Material,175, Book of Vile Darkness,1
+Devil: Kocrachon (baatezu),6,Medium,"outsider(evil, lawful)",6,LE,,Any/Underground,Material,175, Book of Vile Darkness,1
+Eye Of Fear And Flame,8,Medium,undead,12,CE,,Any/Underground,Material,177, Book of Vile Darkness,1
+Kython Broodling,1,Small,aberration,2,NE,,Any/Underground,Material,179, Book of Vile Darkness,1
+"Kython, Adult",5,Medium,aberration,10,NE,,Any/Underground,Material,179, Book of Vile Darkness,1
+"Kython, Juvenile",3,Medium,aberration,6,NE,,Any/Underground,Material,179, Book of Vile Darkness,1
+Kython Impaler,8,Medium,aberration,12,NE,,Any/Underground,Material,180, Book of Vile Darkness,1
+Kython Slaughterking,13,Large,aberration,18,NE,,Any/Underground,Material,180, Book of Vile Darkness,1
+Kython Slaymaster,11,Large,aberration,15,NE,,Any/Underground,Material,180, Book of Vile Darkness,1
+Vaath,4,Large,outsider,6,NE,,Any/Underground,Material,182, Book of Vile Darkness,1
+Vilewight,8,Medium,undead,12,NE,,Any/Underground,Material,183, Book of Vile Darkness,1
+"Bugbear, Bone",7,Medium,undead(AUGMENTED),8,CE,,Underground,Material,184, Book of Vile Darkness,1
+Corpse Barbarian,4,Medium,undead(AUGMENTED),3,CE,,Any,Material,185, Book of Vile Darkness,1
+"Wolf, Corrupted",2,Medium,aberration(AUGMENTED),2,NE,,Forests/Hills/Mountains/Plains,Material,186, Book of Vile Darkness,1
+"Devil: Imp, Filth",2,Tiny,"outsider(evil, extraplanar, lawful)",2,LE,,Any/Underground,Baator (Nine Hells),100,Fiend Folio,1
+Indricothere,9,Huge,animal,16,N,,Forests/Hills/Plains,Material,100,Fiend Folio,1
+Inevitable: Quarut,17,Medium,"construct(extraplanar, lawful)",18,LN,,Any/Underground,Mechanus,102,Fiend Folio,1
+Inevitable: Varakhut,19,Large,"construct(extraplanar, lawful)",22,LN,,Any/Underground,Mechanus,103,Fiend Folio,1
+Iron Cobra,2,Medium,construct,2,N,,Any,Material,103,Fiend Folio,1
+Ironmaw,13,Huge,plant(extraplanar),12,NE,,Temperate/Warm Forests/Hills/Marshes,Abyss,104,Fiend Folio,1
+Jackal Lord,8,Medium,monstrous humanoid,8,LE,,Deserts/Underground,Material,105,Fiend Folio,1
+Jackalwere,2,Medium,magical beast(shapechanger),4,CE,Temperate,any,Material,107,Fiend Folio,1
+Kaorti,1,Medium,"outsider(evil, extraplanar)",2,NE,,Any,Any Evil,108,Fiend Folio,1
+Keeper,7,Medium,outsider(extraplanar),4,N,,Any,,111,Fiend Folio,1
+Kelp Angler,9,Large,plant,11,N,,Aquatic,Material,113,Fiend Folio,1
+Kelpie,10,Large,fey(aquatic),10,CE,,Aquatic/ANY,Material,114,Fiend Folio,1
+Khaasta,3,Medium,"monstrous humanoid(extraplanar, reptilian)",3,CE,,Any/Underground,Outlands,115,Fiend Folio,1
+Kuldurath,8,Large,magical beast(extraplanar),9,N,,Hills/Plains,Outlands,116,Fiend Folio,1
+Living Holocaust,13,Small,"elemental(air, extraplanar, fire)",15,CE,Temperate/Warm,ANY/Underground,Abyss,117,Fiend Folio,1
+Lucent Worm,17,Gargantuan,magical beast,22,N,,Aquatic/Mountains/Underground,Material,118,Fiend Folio,1
+Abrian,1,Medium,magical beast(extraplanar),2,CE,,Hills/Plains,Abyss,12,Fiend Folio,1
+"Ghoul, Abyssal",10,Medium,undead(extraplanar),16,CE,,Any/Underground,Abyss,12,Fiend Folio,1
+Maelephant,10,Large,"outsider(evil, extraplanar, lawful)",8,LE,,Any/Underground,Baator (Nine Hells),120,Fiend Folio,1
+Maug,3,Large,construct(extraplanar),2,LN,,Any/Underground,Acheron,121,Fiend Folio,1
+Maulgoth,17,Huge,aberration(earth),20,NE,,Underground,Material,123,Fiend Folio,1
+Megatherium,8,Huge,animal,13,N,,Forests/Hills/Plains,Material,124,Fiend Folio,1
+Mongrelfolk,1/3,Medium,humanoid,1,LN,,Any/Underground,Material,125,Fiend Folio,1
+Necrophidius,2,Medium,construct,2,N,,Any/Underground,Material,126,Fiend Folio,1
+Nerra Kalareem,3,Medium,outsider(extraplanar),3,N,,Any/Underground,Mirrors,128,Fiend Folio,1
+Nerra Sillit,6,Medium,outsider(extraplanar),7,N,,Any/Underground,Negative Energy,129,Fiend Folio,1
+Nerra Varoot,1,Medium,outsider(extraplanar),1,N,,Any/Underground,Negative Energy,130,Fiend Folio,1
+Octopus Tree,12,Huge,plant,14,NE,,Temperate Aquatic,Material,130,Fiend Folio,1
+Ocularon,12,Large,aberration,12,CE,Temperate/Warm,Hills/Marshes/Underground,Material,132,Fiend Folio,1
+Ophidian,2,Medium,monstrous humanoid(reptilian),3,CN,Warm,Forests/Underground,Material,133,Fiend Folio,1
+Oread,7,Medium,fey(earth),7,LN,,Mountains,Material,134,Fiend Folio,1
+Phiuhl,11,Large,aberration(extraplanar),9,NE,,Any/Underground,Gehenna,135,Fiend Folio,1
+Planetouched: Maeluth,1/2,Medium,outsider(native),1,LE,,Underground,Material,136,Fiend Folio,1
+Planetouched: Mechantrix,1/2,Medium,outsider(native),1,LN,,Any/Underground,Material,137,Fiend Folio,1
+Planetouched: Shyft,1,Medium,outsider(native),1,N,,Any/Underground,Material,138,Fiend Folio,1
+Planetouched: Wispling,1/2,Small,outsider(native),1,E,,Any,Material,139,Fiend Folio,1
+Quth-Maren,7,Medium,undead,10,CE,,Underground,Material,139,Fiend Folio,1
+Ahuizotl,6,Large,aberration(aquatic),7,CE,Warm,Aquatic,Material,14,Fiend Folio,1
+Rilmani Aurumach,17,Large,outsider(extraplanar),16,N,,Any/Underground,Outlands,141,Fiend Folio,1
+Rilmani Cuprilach,12,Medium,outsider(extraplanar),12,N,,Any/Underground,Outlands,142,Fiend Folio,1
+Rilmani Ferrumach,9,Medium,outsider(extraplanar),8,N,,Any/Underground,Outlands,143,Fiend Folio,1
+Rukanyr,9,Large,aberration,7,NE,,Any/Underground,Material,144,Fiend Folio,1
+Sarkrith Spelleater,13,Large,monstrous humanoid,15,LE,Warm,Forests/Underground,Material,145,Fiend Folio,1
+Sarkrith Thane,11,Large,monstrous humanoid,11,LE,Warm,Forests/Underground,Material,146,Fiend Folio,1
+Sea Drake,15,Gargantuan,dragon(aquatic),12,N,,Aquatic,Material,147,Fiend Folio,1
+Selkie,1,Medium,"humanoid(aquatic, shapechanger)",3,N,Cold,Aquatic,Material,148,Fiend Folio,1
+Senmurv,3,Large,magical beast,3,LG,,Forests/Mountains,Material,149,Fiend Folio,1
+Aoa Droplet,3,Medium,outsider(extraplanar),3,N,,Any/Underground,"Astral, Ethereal",15,Fiend Folio,1
+Shadar-Kai,1,Medium,fey(extraplanar),3,N,,Forests/Underground,Shadow,150,Fiend Folio,1
+Shadow Asp,1,Tiny,magical beast,1,N,,Underground,Material,152,Fiend Folio,1
+Shedu,10,Large,magical beast,9,LG,,Any/Underground,Material,153,Fiend Folio,1
+Skulk,2,Medium,humanoid,2,CE,,Any/Underground,Material,154,Fiend Folio,1
+Skybleeder,12,Huge,aberration,12,NE,,Hills/Mountains,Material,155,Fiend Folio,1
+"Slaad, Mud",6,Medium,"outsider(chaotic, extraplanar)",6,CN,,Any/Underground,Limbo,157,Fiend Folio,1
+Slasrath,7,Large,aberration(extraplanar),8,N,,Any/Underground,Hades,158,Fiend Folio,1
+Spectral Lurker,17,Huge,aberration(incorporeal),16,NE,,Any/Underground,Material,158,Fiend Folio,1
+Aoa Sphere,15,Huge,outsider,13,N,,Any/Underground,"Astral, Ethereal",16,Fiend Folio,1
+Bloodbloater,1,Medium,"ooze(aquatic, swarm)",2,N,,Aquatic,Material,16,Fiend Folio,1
+Spirit of the Air,11,Large,magical beast(air),11,N,,Any,Material,160,Fiend Folio,1
+Sporebat,10,Medium,plant,15,N,Temperate,Hills/Plains,Material,161,Fiend Folio,1
+Spriggan,3,Small,fey,5,C,,Forests,Material,162,Fiend Folio,1
+Steel Predator,13,Large,outsider(extraplanar),12,N,,Any,Acheron,163,Fiend Folio,1
+Sunwyrm,14,Large,dragon,12,CN,Warm,Deserts/Plains,Material,164,Fiend Folio,1
+Abyssal Ant Swarm,16,Medium,"aberration(extraplanar, swarm)",20,CE,,Any/Underground,Abyss,166,Fiend Folio,1
+"Cranium Rat Swarm, Lesser Pack",2,Medium,"magical beast(extraplanar, swarm)",6,NE,,Any/Underground,Any Outer,167,Fiend Folio,1
+Plague Ant Swarm,5,Medium,vermin(swarm),10,N,Warm,ANY/Underground,Material,167,Fiend Folio,1
+"Cranium Rat Swarm, Average Pack",5,Medium,"magical beast(extraplanar, swarm)",12,NE,,Any/Underground,Any Outer,168,Fiend Folio,1
+"Cranium Rat Swarm, Greater Pack",11,Medium,"magical beast(extraplanar, swarm)",24,NE,,Any/Underground,Any Outer,169,Fiend Folio,1
+Flotsam Ooze,2,Medium,ooze(aquatic),2,N,,Aquatic,Material,17,Fiend Folio,1
+"Locust Swarm, Bloodfiend",8,Medium,"vermin(extraplanar, swarm)",14,CE,,Any/Underground,Abyss,170,Fiend Folio,1
+"Locust Swarm, Rapture",6,Medium,vermin(swarm),10,NE,,Any,Material,170,Fiend Folio,1
+Scarab Beetle Swarm,10,Medium,vermin(swarm),15,N,,Deserts/Underground,Material,171,Fiend Folio,1
+Viper Swarm,3,Medium,animal(swarm),5,N,Warm,ANY/Underground,Material,172,Fiend Folio,1
+Swordwraith,7,Medium,undead(AUGMENTED),5,LE,,Any/Underground,Material,173,Fiend Folio,1
+Tarlen,2,Medium,magical beast(extraplanar),4,NE,,Aquatic/Land,"Carceri, Gehenna, Hades",174,Fiend Folio,1
+Terror Bird,4,Large,animal,7,N,,Forests/Hills/Plains,Material,175,Fiend Folio,1
+Thunder Worm,21,Colossal,magical beast,48,N,Temperate,ANY,Material,176,Fiend Folio,1
+Ti-Khana Deinonychus,5,Large,magical beast,4,CE,Warm,Forests/Underground,Material,177,Fiend Folio,1
+Tunnel Terror,15,Huge,aberration,18,NE,,Underground,Material,179,Fiend Folio,1
+Bacchae,2,Medium,outsider(extraplanar),2,CN,,Any/Underground,Arborea,18,Fiend Folio,1
+Reekmurk,6,Huge,ooze(aquatic),5,N,Cold,Aquatic,Material,18,Fiend Folio,1
+Ulgurstasta,11,Gargantuan,undead,17,CE,,Any/Underground,Material,180,Fiend Folio,1
+Varrangoin Arcanist,11,Medium,magical beast(extraplanar),8,CE,,Any/Underground,Abyss,182,Fiend Folio,1
+"Varrangoin, Lesser",6,Medium,magical beast(extraplanar),5,CE,,Any/Underground,Abyss,183,Fiend Folio,1
+Varrangoin Rager,10,Medium,magical beast(extraplanar),8,CE,,Any/Underground,Abyss,184,Fiend Folio,1
+Vine Horror,4,Medium,plant(aquatic),5,NE,,Aquatic/Marshes,Material,185,Fiend Folio,1
+Vorr,4,Medium,"outsider(cold, evil, extraplanar)",3,CE,,Any/Underground,Abyss,186,Fiend Folio,1
+magical beast(AUGMENTED),6,Medium,fey(cold),4,CE,Cold,Forests,Material,186,Fiend Folio,1
+DRAGONKIN,3,LARGE,MONSTROUS HUMANOID (REPTILIAN),7,CE,,ANY ,MATERIAL,45,Monsters of Faerun,1
+Wicker Man,11,Huge,construct,12,N,,Any,Material,188,Fiend Folio,1
+Yellow Musk Creeper,4,Huge,plant,6,N,,Any/Underground,Material,190,Fiend Folio,1
+Yellow Musk Zombie Orc,1/2,Medium,plant(AUGMENTED),1,N,,Any/Underground,Material,191,Fiend Folio,1
+Yuan-Ti Anathema,18,Huge,aberration,22,CE,Warm,Forests/Underground,Material,193,Fiend Folio,1
+Yugoloth: Piscoloth,9,Medium,"outsider(evil, extraplanar)",9,NE,,Any/Underground,Gehenna,196,Fiend Folio,1
+Yugoloth: Skeroloth,3,Small,"outsider(evil, extraplanar)",4,NE,,Any/Underground,Gehenna,197,Fiend Folio,1
+Yurian,1,Medium,monstrous humanoid(aquatic),3,N,Temperate/Warm, Aquatic,Material,198,Fiend Folio,1
+Zodar,16,Medium,construct,16,CN,,Any,Material,199,Fiend Folio,1
+Bhut,9,Medium,undead(incorporeal),8,NE,,Any,Material,20,Fiend Folio,1
+Blackstone Gigant,18,Gargantuan,construct,32,NE,,Any,Material,21,Fiend Folio,1
+Blood Hawk,1/2,Small,magical beast,1,N,,Forests/Hills/Mountains/Plains,Material,22,Fiend Folio,1
+Bonespear,12,Large,vermin(extraplanar),15,N,,Any/Underground,Acheron,24,Fiend Folio,1
+"Canomorph, Haraknin",5,Medium,"outsider(evil, extraplanar, fire, lawful, shapechanger)",6,LE,,Any/Underground,Baator (Nine Hells),25,Fiend Folio,1
+"Canomorph, Shadurakul",11,Medium,"outsider(evil, extraplanar, shapechanger)",10,NE,,Any/Underground,Gehenna,27,Fiend Folio,1
+"Canomorph, Vultivor",9,Medium,outsider,8,CE,,Any/Underground,Abyss,28,Fiend Folio,1
+Caryatid Column,6,Medium,construct,6,N,,Any,Material,30,Fiend Folio,1
+Century Worm,19,Gargantuan,vermin,40,N,,Any/Underground,Material,31,Fiend Folio,1
+Chronotyryn,19,Large,magical beast(extraplanar),17,LE,,Any/Underground,Acheron,33,Fiend Folio,1
+Chwidencha,9,Large,aberration,12,N,,Underground,Material,34,Fiend Folio,1
+Crawling Head,20,Huge,undead,28,CE,,Deserts/Underground,Material,35,Fiend Folio,1
+Crypt Thing,3,Medium,undead,6,N,,Underground,Material,36,Fiend Folio,1
+Dark Creeper,3,Small,humanoid,1,CN,,Underground,Material,38,Fiend Folio,1
+Dark Stalker,4,Medium,humanoid,3,CN,,Underground,Material,38,Fiend Folio,1
+Darkweaver,10,Medium,aberration(extraplanar),9,NE,,Any,Shadow,39,Fiend Folio,1
+Death Dog,2,Medium,magical beast,2,NE,,Deserts/Hills/Mountains/Plains/Underground,Material,41,Fiend Folio,1
+Demodand: Farastu,11,Medium,"outsider(evil, extraplanar)",11,NE,,Any/Underground,Carceri,42,Fiend Folio,1
+Demodand: Kelubar,13,Medium,"outsider(evil, extraplanar)",13,NE,,Any/Underground,Carceri,44,Fiend Folio,1
+Demodand: Shator,16,Large,"outsider(evil, extraplanar)",15,NE,,Any/Underground,Carceri,45,Fiend Folio,1
+Demon: Alkilith (Tanar'ri),14,Medium,"outsider(chaotic, evil, extraplanar)",11,CE,,Any/Underground,Abyss,46,Fiend Folio,1
+Demon: Blood Fiend,14,Large,undead(extraplanar),12,CE,,Any/Underground,Abyss,47,Fiend Folio,1
+Demon: Klurichir (Tanar'ri),25,Huge,"outsider(chaotic, evil, extraplanar)",20,CE,,Any/Underground,Abyss,48,Fiend Folio,1
+Demon: Maurezhi (Tanar'ri),9,Medium,"outsider(chaotic, evil, extraplanar)",5,CE,,Any/Underground,Abyss,50,Fiend Folio,1
+Demon: Myrmyxicus (Tanar'ri),21,Huge,"outsider(aquatic, chaotic, evil, extraplanar)",18,CE,,Aquatic,Abyss,52,Fiend Folio,1
+Demon: Skulvyn,4,Large,"outsider(aquatic, chaotic, evil, extraplanar)",4,CE,,Aquatic,Abyss,54,Fiend Folio,1
+Demon: Wastrilith,17,Huge,"outsider(aquatic, chaotic, evil, extraplanar)",15,CE,, Aquatic,Abyss,54,Fiend Folio,1
+"Angel, Monadic Deva",12,Medium,"outsider(extraplanar, good)",10,G,,Any/Underground,Any Upper,56,Fiend Folio,1
+"Angel, Movanic Deva",9,Medium,"outsider(extraplanar, good)",6,G,,Any/Underground,Any Upper,57,Fiend Folio,1
+Devil: Paeliryon (Baatezu),22,Huge,"outsider(evil, extraplanar, lawful)",18,LE,,Any/Underground,Baator (Nine Hells),58,Fiend Folio,1
+Devil: Xerfilstyx (Baatezu),18,Huge,"outsider(aquatic, evil, extraplanar, lawful)",15,LE,,Any/Underground,Baator (Nine Hells),59,Fiend Folio,1
+Dire Rhinoceros,9,Huge,animal,17,N,Cold/Temperate,Plains,Material,61,Fiend Folio,1
+Disenchanter,17,Huge,magical beast,16,N,,Any/Underground,Material,62,Fiend Folio,1
+Ethereal Ooze,10,Huge,"ooze(extraplanar, incorporeal)",12,N,,Any,Ethereal,63,Fiend Folio,1
+"Ethergaunt, Black",17,Medium,aberration(extraplanar),16,NE,,Any/Underground,Ethereal,65,Fiend Folio,1
+"Ethergaunt, Red",9,Medium,aberration(extraplanar),5,NE,,Any/Underground,Ethereal,66,Fiend Folio,1
+"Ethergaunt, White",13,Medium,aberration(extraplanar),11,NE,,Any/Underground,Ethereal,67,Fiend Folio,1
+Fensir,5,Large,giant(extraplanar),4,CN,,Any,Ysgard,69,Fiend Folio,1
+Rakka (Fensir),8,Huge,giant(extraplanar),12,CN,,Any,Ysgard,70,Fiend Folio,1
+Fhorge,9,Large,animal(extraplanar),12,N,Temperate/Warm,Forests,Outlands,72,Fiend Folio,1
+"Flame Snake, Minor",1,Small,magical beast(fire),1,E,,Any/Underground,Material,73,Fiend Folio,1
+"Flame Snake, Lesser",7,Medium,magical beast(fire),8,E,,Any/Underground,Material,74,Fiend Folio,1
+"Flame Snake, Greater",16,Huge,magical beast(fire),17,E,,Any/Underground,Material,75,Fiend Folio,1
+Formian Armadon,8,Large,"outsider(extraplanar, lawful)",8,LN,,Any/Underground,Mechanus,77,Fiend Folio,1
+Formian Observer,11,Medium,"outsider(extraplanar, lawful)",9,LN,,Any/Underground,Mechanus,77,Fiend Folio,1
+Formian Winged Warrior,6,Medium,"outsider(extraplanar, lawful)",6,LN,,Any/Underground,Mechanus,78,Fiend Folio,1
+Fossergrim,5,Medium,fey(aquatic),5,N,,Any,Material,79,Fiend Folio,1
+Gathra,10,Large,magical beast(extraplanar),9,LE,,Any/Underground,Baator (Nine Hells),80,Fiend Folio,1
+"Giant, Bog",6,Large,giant(aquatic),8,N,,Aquatic/ANY/Underground,Material,81,Fiend Folio,1
+"Giant, Shadow",18,Huge,giant,18,LE,,Any/Underground,Material,82,Fiend Folio,1
+"Golem, Blood",8,Large,construct,10,LE,,Any/Underground,Material,84,Fiend Folio,1
+"Golem, Brain",10,Large,construct,12,LE,,Underground,Material,85,Fiend Folio,1
+"Golem, Demonflesh",18,Huge,construct(extraplanar),24,CE,,Any/Underground,Abyss,86,Fiend Folio,1
+"Golem, Hellfire",17,Large,construct(extraplanar),20,LE,,Any/Underground,Baator (Nine Hells),88,Fiend Folio,1
+Half-Fey Centaur,4,Large,fey,4,C,Temperate,Forests,Material,89,Fiend Folio,1
+Half-Illithid Lizardfolk,4,Medium,"aberration(reptilian,AUGMENTED)",2,NE,,Underground,Material,90,Fiend Folio,1
+Half-Troll Barbazu,9,Medium,"giant(extraplanar,AUGMENTED)",6,LE,,Any/Underground,Baator (Nine Hells),92,Fiend Folio,1
+Huecuva,7,Medium,undead(AUGMENTED),5,NE,,Any/Underground,Material,94,Fiend Folio,1
+Hullathoin,15,Huge,undead,16,NE,,Any/Underground,Material,96,Fiend Folio,1
+"Devil: Imp, Bloodbag",3,Tiny,"outsider(evil, extraplanar, lawful)",4,LE,,Any/Underground,Baator (Nine Hells),98,Fiend Folio,1
+"Devil: Imp, Euphoric",3,Tiny,"outsider(evil, extraplanar, lawful)",4,LE,,Any/Underground,Baator (Nine Hells),99,Fiend Folio,1
+Forsaken Shell,6,Medium,undead,14,CE,,Any,Material,100,Libris Mortis,1
+Ghost Brute Hound,3,Medium,"undead(augmented animal, incorporeal)",2,N,,Any ,Material,101,Libris Mortis,1
+Gravetouched Ghoul 6th-level Human Monk,7,Medium,undead(augmented humanoid),6,N,,Any,Material,104,Libris Mortis,1
+"Golem, Grave Dirt",9,Large,construct,11,N,,Any,Material,105,Libris Mortis,1
+"Half-Vampire, 1st-level Gnoll Barbarian",3,Medium,humanoid(AUGMENTED),3,CE,Warm,Plains,Material,106,Libris Mortis,1
+"Ettin, Hooded Pupil",7,Large,giant(AUGMENTED),10,CE,Cold,Hills,Material,108,Libris Mortis,1
+Hulking Corpse,9,Large,undead,20,CE,,Any,Material,109,Libris Mortis,1
+"Ogre, Mummified",5,Large,undead(augmented giant),4,LE,,Deserts/Underground,Material,110,Libris Mortis,1
+Murk,3,Medium,undead(incorporeal),3,CE,,Any,Material,112,Libris Mortis,1
+"Necromental, Earth, Large",6,Large,"undead(augmented elemental, earth, extraplanar)",8,NE,,Any,Elemental Earth,112,Libris Mortis,1
+"Necropolitan, 5th-level Human Wizard",5,Medium,undead(augmented humanoid),5,N,,Any,Material,114,Libris Mortis,1
+Plague Blight,6,Medium,undead(evil),6,E,,Any,Material,115,Libris Mortis,1
+Quell,3,Medium,undead(incorporeal),5,LE,,Any,Material,116,Libris Mortis,1
+Raiment,1,Small,undead,3,CE,,Any,Material,117,Libris Mortis,1
+Revived Fossil Megaraptor,10,Huge,undead(augmented animal),8,NE,Warm,Forests,Material,118,Libris Mortis,1
+Skin Kite,3,Small,undead,4,NE,Cold, Hills,Material,119,Libris Mortis,1
+Skirr,7,Huge,undead,9,NE,Cold,Hills,Material,120,Libris Mortis,1
+Skulking Cyst,4,Small,undead,4,CE,,Any,Material,120,Libris Mortis,1
+Slaughter Wight,8,Medium,undead,18,CE,,Any,Material,121,Libris Mortis,1
+Slaymate,2,Small,undead,4,LE,,Any,Material,122,Libris Mortis,1
+Spectral Lyrist,4,Medium,undead(incorporeal),6,CE,,Any,Material,123,Libris Mortis,1
+Swarm-shifter 13th-level Mummy King Druid,16,Medium,"undead(shapechanger,AUGMENTED)",21,NE,,Any,Material,124,Libris Mortis,1
+"Displacer Beast, Umbral",6,Large,"undead(augmented magical beast, incorporeal)",6,CE,,Any/Underground,Material,128,Libris Mortis,1
+Tomb Mote,2,Tiny,undead,3,CE,,Underground,Material,128,Libris Mortis,1
+Visage,9,Medium,"undead(chaotic, evil, extraplanar)",12,CE,,Any,Abyss,130,Libris Mortis,1
+Voidwraith,6,Medium,"undead(air, incorporeal)",6,NE,,Any,Material,131,Libris Mortis,1
+Wheep,11,Medium,undead,9,LE,Cold, Mountains,Material,132,Libris Mortis,1
+Angel Of Decay,15,Large,undead,26,CE,,Any/Underground,Material,83,Libris Mortis,1
+Atropal Scion,11,Medium,undead,9,CE,,Any,Material,84,Libris Mortis,1
+Blaspheme,9,Medium,undead,18,NE,Cold,Hills/Plains,Material,85,Libris Mortis,1
+Bleakborn,7,Medium,undead,8,NE,,Any,Material,86,Libris Mortis,1
+Blood Amniote,9,Huge,undead,10,N,,Underground,Material,87,Libris Mortis,1
+Bloodmote Cloud,6,Fine,undead(swarm),10,NE,,Any,Material,88,Libris Mortis,1
+Boneyard,14,Huge,undead,17,CE,,Any,Material,89,Libris Mortis,1
+Carcass Eater,1/2,Small,animal,1,N,Temperate,Forests,Material,91,Libris Mortis,1
+Cinderspawn,6,Large,undead(fire),10,CE,,Any,Material,91,Libris Mortis,1
+Corpse Rat Swarm,4,Tiny,undead(swarm),8,NE,,Any,Material,92,Libris Mortis,1
+Crypt Chanter,7,Medium,undead(incorporeal),7,CE,,Any/Underground,Material,93,Libris Mortis,1
+Deathlock,3,Medium,undead,3,NE,,Any,Material,94,Libris Mortis,1
+Desiccator,2,Small,undead(water),4,NE,,Any,Material,94,Libris Mortis,1
+Dire Maggot,2,Small,vermin,6,N,,Underground,Material,95,Libris Mortis,1
+Dream Vestige,16,Huge,undead(incorporeal),17,CE,,Any,Material,96,Libris Mortis,1
+Entomber,5,Medium,undead,8,LE,,Any,Material,97,Libris Mortis,1
+Entropic Reaper,12,Medium,"undead(chaotic, extraplanar)",19,CE,,Any,Limbo,98,Libris Mortis,1
+"Wraith, Evolved",6,Medium,"undead(incorporeal,AUGMENTED)",5,LE,,Any,Material,99,Libris Mortis,1
+"Beholderkin, Hive Mother",16,Huge,aberration,20,LE,Cold,Hills,Material,135,Lord of Madness,1
+"Beholderkin, Director",8,Large,aberration,8,LE,Cold,Hills,Material,137,Lord of Madness,1
+"Beholderkin, Eye Of The Deep",8,Large,aberration(aquatic),12,LE,Cold,Aquatic,Material,138,Lord of Madness,1
+"Beholderkin, Overseer",15,Large,aberration,14,LE,Cold,Hills,Material,139,Lord of Madness,1
+Cildabrin,7,Large,aberration,11,NE,,Underground,Material,141,Lord of Madness,1
+"Cloaker, Shadowcloak Elder",11,Huge,aberration(extraplanar),17,NE,,Any,Shadow,142,Lord of Madness,1
+"Brain, Elder",25,Large,aberration,26,LE,,Underground,Material,144,Lord of Madness,1
+"Kraken, Elder Eidolon",15,Gargantuan,construct(AUGMENTED),20,N,,Any,Material,146,Lord of Madness,1
+Gas Spore,3,Large,plant,10,N,Cold,Hills,Material,148,Lord of Madness,1
+Gibbering Mouther,5,Medium,aberration,4,N,,Underground,Material,150,Lord of Madness,1
+"Gray Render, Half-Farspawn",10,Large,"outsider(native,AUGMENTED)",10,CE,Temperate,Marshes,Material,151,Lord of Madness,1
+Hound Of The Gloom,9,Large,aberration,12,NE,,Underground,Material,153,Lord of Madness,1
+Embrac (Illithidae),7,Large,aberration,11,N,,Underground,Material,154,Lord of Madness,1
+Kigrid (Illithidae),5,Medium,aberration,9,N,,Underground,Material,155,Lord of Madness,1
+Saltor (Illithidae),3,Small,aberration,5,NE,,Underground,Material,156,Lord of Madness,1
+"Mind Flayer, Alhoon",18,Medium,undead(augmented abberation),20,LE,,Underground,Material,157,Lord of Madness,1
+"Mind Flayer, Ulitharid",12,Large,aberration,12,LE,,Underground,Material,158,Lord of Madness,1
+"Mind Flayer, Vampire",9,Medium,undead,8,CE,,Underground,Material,159,Lord of Madness,1
+"Hippogriff, Pseudonatural",2,Large,outsider(AUGMENTED),3,N,,Any/Underground,Material,161,Lord of Madness,1
+"Psurlon, Average",5,Medium,aberration,7,NE,Warm,Deserts,Material,163,Lord of Madness,1
+"Psurlon, Elder",8,Medium,aberration,12,NE,Warm,Deserts,Material,164,Lord of Madness,1
+"Psurlon, Giant",11,Large,aberration,18,NE,Warm, Deserts,Material,165,Lord of Madness,1
+"Golem, Shaboath",10,Large,construct(cold),11,N,,Underground,Material,166,Lord of Madness,1
+Silthilar,7,Fine,"aberration(shapechanger, swarm)",9,CG,Temperate, Forests,Material,168,Lord of Madness,1
+Urophion,13,Large,aberration,12,LE,,Underground,Material,170,Lord of Madness,1
+Zeugalak,12,Huge,aberration,16,CN,Warm,Mountains,Material,171,Lord of Madness,1
+Eagle,1/2,Small,animal,1,N,Temperate,Mountains,Material,272,Monster Manual,1
+Aarakocra,1/2,Medium,monstrous humanoid,1,NG,Temperate/Warm,Mountains,Material,11,Monster of Faerun,1
+Aballin,4,Large,ooze,3,N,Temperate/Warm,ANY/Underground,Material,11,Monster of Faerun,1
+"Devil: Abishai, Black (Baatezu)",5,Medium,"outsider(evil, extraplanar, lawful)",5,LE,,Any/Underground,Baator (Nine Hells),12,Monster of Faerun,1
+"Devil: Abishai, Green (Baatezu)",6,Medium,"outsider(evil, extraplanar, lawful)",6,LE,,Any/Underground,Baator (Nine Hells),12,Monster of Faerun,1
+"Devil: Abishai, White (Baatezu)",5,Medium,"outsider(evil, extraplanar, lawful)",4,LE,,Any/Underground,Baator (Nine Hells),12,Monster of Faerun,1
+"Devil: Abishai, Blue (Baatezu)",7,Medium,"outsider(evil, extraplanar, lawful)",7,LE,,Any/Underground,Baator (Nine Hells),13,Monster of Faerun,1
+"Devil: Abishai, Red (Baatezu)",8,Medium,"outsider(evil, extraplanar, lawful)",8,LE,,Any/Underground,Baator (Nine Hells),13,Monster of Faerun,1
+Alaghi,4,Medium,monstrous humanoid,9,N,Temperate,Forests/Mountains,Material,14,Monster of Faerun,1
+Asabi ,1,Medium,humanoid(reptilian),3,LE,Temperate,Deserts,Material,15,Monster of Faerun,1
+Asabi Stingtail,3,Medium,humanoid(reptilian),7,LE,Temperate,Deserts,Material,15,Monster of Faerun,1
+Banedead,3,Medium,undead,6,LE,,Any,Material,16,Monster of Faerun,1
+Baneguard,2,Medium,undead,4,NE,,Any/Underground,Material,17,Monster of Faerun,1
+Banelar,5,Huge,magical beast,7,LE,Temperate/Warm,Aquatic/ANY,Material,18,Monster of Faerun,1
+"Bat, Deep, Bonebat",2,Medium,undead,4,NE,,Any/Underground,Material,18,Monster of Faerun,1
+"Bat, Deep, Night Hunter",1,Medium,BEAST,2,NE,,Any/Underground,Material,18,Monster of Faerun,1
+"BAT,DEEP,SINISTER",,Large,MAGICAL BEAST,4,LN,,Any/Underground,Material,18,Monster of Faerun,1
+Beast of Malar,11,Medium,magical beast(shapechanger),9,CE,,Any,Material,20,Monster of Faerun,1
+"Beholderkin, Death Kiss",11,Large,aberration,12,NE,,Any,Material,22,Monster of Faerun,1
+"Beholderkin, Eyeball",1/2,Tiny,aberration,1,NE,,Underground,Material,23,Monster of Faerun,1
+"Beholderkin, Gouger",11,Large,aberration,14,NE,,Underground,Material,24,Monster of Faerun,1
+Bullywug,1,Medium,humanoid(aquatic),1,CE,Temperate/Warm,Aquatic/Marshes,Material,25,Monster of Faerun,1
+CHOLRITH,4,Large,ABERRATION,4,CE,,UNDERGROUND,Material,27,Monster of Faerun,1
+Chitine,1,Small,monstrous humanoid,2,CE,,Underground,Material,26,Monster of Faerun,1
+Cloaker Lord,7,Huge,aberration,9,CN,,Underground,Material,28,Monster of Faerun,1
+Crawling Claw,1/3,Diminutive,construct,1,N,,Any/Underground,Material,29,Monster of Faerun,1
+Darkenbeast,4,Medium,magical beast,5,NE,,Any,Material,30,Monster of Faerun,1
+Dark Tree,7,Huge,plant,10,NE,Warm,Forests,Material,31,Monster of Faerun,1
+Deepspawn,8,Large,aberration,14,CE,,Underground,Material,32,Monster of Faerun,1
+Demon: Ghour,12,Huge,"outsider(chaotic, evil, extraplanar)",12,CE,,Any/Underground,Abyss,33,Monster of Faerun,1
+Demon: Yochlol,5,Medium,"outsider(chaotic, evil, extraplanar)",6,CE,,Any/Underground,Abyss,34,Monster of Faerun,1
+"Doppelganger, Greater",12,Medium,monstrous humanoid(shapechanger),9,NE,,Any/Underground,Material,35,Monster of Faerun,1
+Dread Warrior,3,Medium,undead,4,NE,,Any,Material,46,Monster of Faerun,1
+Firenewt,1,Medium,"monstrous humanoid(fire, reptilian)",2,NE,Warm,Mountains,Material,48,Monster of Faerun,1
+Ghaunadan,5,Medium,magical beast(shapechanger),5,CE,,Underground,Material,49,Monster of Faerun,1
+"Giant, Fog",8,Huge,giant(air),14,"NG, NE",Temperate,Forests/Marshes,Material,50,Monster of Faerun,1
+"Giant, Phaerlin",3,Huge,giant(earth),8,NE,,Underground,Material,50,Monster of Faerun,1
+Giant Strider,1,Large,magical beast(fire),2,N,Warm,Mountains,Material,51,Monster of Faerun,1
+Gibberling,1/3,Small,humanoid,1,CN,Temperate,Forests/Underground,Material,52,Monster of Faerun,1
+"Goblin, Dekanter",1,Medium,humanoid,2,LE,Cold/Temperate, Mountains/Underground,Material,53,Monster of Faerun,1
+"Golem, Gemstone, Diamond",12,Large,construct,14,N,,Any/Underground,Material,53,Monster of Faerun,1
+"Golem, Gemstone, Emerald",12,Large,construct,12,N,,Any/Underground,Material,53,Monster of Faerun,1
+"Golem, Gemstone, Ruby",11,Large,construct,10,N,,Any/Underground,Material,53,Monster of Faerun,1
+"Golem, Thayan",8,Medium,construct,7,N,,Any/Underground,Material,56,Monster of Faerun,1
+Green Warder,4,Medium,plant,4,CG,Temperate, Forests/Underground,Material,57,Monster of Faerun,1
+Groundling,2,Medium,monstrous humanoid,3,LE,,Any/Underground,Material,57,Monster of Faerun,1
+Gulguthydra,12,Huge,aberration,15,N,,Forests/Marshes/Underground,Material,58,Monster of Faerun,1
+Half-Fiend Draegloth,5,Large,"outsider(chaotic, evil, native)",6,CE,,Underground,Material,59,Monster of Faerun,1
+Helmed Horror,10,Medium,construct,13,N,,Any,Material,60,Monster of Faerun,1
+Hybsil,1,Small,fey,1,NG,Temperate, Forests/Plains,Material,61,Monster of Faerun,1
+Ibrandlin,5,Gargantuan,dragon(fire),10,LN,,Any/Underground,Material,62,Monster of Faerun,1
+Ice Serpent,3,Large,"elemental(air, cold)",6,N,Cold,Plains,Material,62,Monster of Faerun,1
+Leucrotta,4,Large,magical beast,6,CE,Temperate, Hills/Mountains,Material,63,Monster of Faerun,1
+Malaugrym,4,Medium,magical beast(shapechanger),5,CE,,Any/Underground,Material,64,Monster of Faerun,1
+Meazel,4,Medium,monstrous humanoid,4,CE,,Marshes/Underground,Material,65,Monster of Faerun,1
+Myrlochar,4,Medium,"outsider(chaotic, evil, extraplanar)",6,CE,,Any,Abyss,66,Monster of Faerun,1
+Nishruu,6,Large,outsider(chaotic),9,CN,,Any,Limbo,67,Monster of Faerun,1
+Nyth,5,Small,aberration,7,LE,,Any,Material,68,Monster of Faerun,1
+Parython,5,Medium,magical beast,5,CE,Temperate,Forests/Hills/Mountains,Material,69,Monster of Faerun,1
+Phaerimm,5,Large,aberration,5,NE,,Underground,Material,70,Monster of Faerun,1
+"Planetouched, Genasi: EARTH",1/2,Medium,outsider,1,N,,ANY,Material,71,Monster of Faerun,1
+"Planetouched, Genasi: AIR",1/2,Medium,outsider,1,N,,ANY,Material,71,Monster of Faerun,1
+"Planetouched, Genasi: FIRE",1/2,Medium,outsider,1,N,,ANY,Material,71,Monster of Faerun,1
+"Planetouched, Genasi: WATER",1/2,Medium,outsider,1,N,,Aquatic/Any ,Material,71,Monster of Faerun,1
+"Planetouched, Tiefling, Fay'ri",2,Medium,outsider,1,CE,,Any/Underground,Material,72,Monster of Faerun,1
+"Planetouched, Tiefling, Tanarukk",2,Medium,outsider,5,CE,,Any/Underground,Material,72,Monster of Faerun,1
+Pterafolk,3,Large,"magical beast(reptilian, shapechanger)",4,NE,Warm,Forests,Material,74,Monster of Faerun,1
+Quaggoth,3,Medium,monstrous humanoid,3,NE,,Underground,Material,75,Monster of Faerun,1
+Shalarin,1/2,Medium,humanoid(aquatic),1,N,Temperate/Warm, Aquatic,Material,76,Monster of Faerun,1
+Sharn,6,Large,aberration,4,CN,,Any/Underground,Material,76,Monster of Faerun,1
+Siv,1,Medium,humanoid(aquatic),1,LE,,Marshes,Material,78,Monster of Faerun,1
+Spectral Panther,4,Large,magical beast(incorporeal),3,NE,,Any,Material,79,Monster of Faerun,1
+"Spider, Subteranean, Hairy",1/2,Fine,vermin,1/8,N,Temperate/Warm,ANY/Underground,Material,79,Monster of Faerun,1
+"Spider, Subteranean, Sword",5,Large,vermin,5,N,Warm,Forests/Underground,Material,79,Monster of Faerun,1
+Stinger,4,Large,monstrous humanoid,4,NE,Temperate/Warm,Deserts/Mountains/Underground,Material,80,Monster of Faerun,1
+Tall Mouther,5,Large,aberration,7,N,,Forests/Hills/Mountains/Underground,Material,81,Monster of Faerun,1
+Tomb Tapper,14,Huge,construct,12,N,,Underground,Material,82,Monster of Faerun,1
+"Unicorn, Black",3,Large,magical beast,4,CE,,Forests/Plains,Material,83,Monster of Faerun,1
+Wemic,3,Large,monstrous humanoid,5,N,Temperate/Warm, Plains,Material,84,Monster of Faerun,1
+"Zombie, Tyrantfog",3,Medium,undead,4,E,,Any/Underground,Material,85,Monster of Faerun,1
+Allip,3,Medium,undead(incorporeal),4,NE,,Any,Material,10,Monster Manual,1
+"Elemental, Water, Elder",11,Huge,"elemental(extraplanar, water)",24,N,,Any,Elemental Water,100,Monster Manual,1
+"Elemental, Water, Greater",9,Huge,"elemental(extraplanar, water)",21,N,,Any,Elemental Water,100,Monster Manual,1
+"Elemental, Water, Huge",7,Huge,"elemental(extraplanar, water)",16,N,,Any,Elemental Water,100,Monster Manual,1
+"Elemental, Water, Large",5,Large,"elemental(extraplanar, water)",8,N,,Any,Elemental Water,100,Monster Manual,1
+"Elemental, Water, Medium",3,Medium,"elemental(extraplanar, water)",4,N,,Any,Elemental Water,100,Monster Manual,1
+"Elemental, Water, Small",1,Small,"elemental(extraplanar, water)",2,N,,Any,Elemental Water,100,Monster Manual,1
+"DROW, 1ST-LEVEL WARRIOR",1,Medium,HUMANOID (ELF),1,NE,,UNDERGROUND,Material,102,Monster Manual,1
+Ethereal Filcher,3,Medium,aberration,5,N,,Underground,Material,104,Monster Manual,1
+Ethereal Marauder,3,Medium,magical beast(extraplanar),2,N,,Any,Ethereal,105,Monster Manual,1
+Ettercap,3,Medium,aberration,5,NE,Warm,Forests,Material,106,Monster Manual,1
+Ettin,6,Large,giant,10,CE,Cold,Hills,Material,106,Monster Manual,1
+"Dire Rat, Fiendish",1/2,Small,"magical beast(extraplanar,AUGMENTED)",1,LE,,Any,INFINITE LAYERS OF THE ABYSS,107,Monster Manual,1
+Formian Taskmaster,7,Medium,"outsider(extraplanar, lawful)",6,LN,,Any,Mechanus,109,Monster Manual,1
+Formian Warrior,3,Medium,"outsider(extraplanar, lawful)",4,LN,,Any,Mechanus,109,Monster Manual,1
+Formian Worker,1/2,Small,"outsider(extraplanar, lawful)",1,LN,,Any,Mechanus,109,Monster Manual,1
+"Angel, Astral Deva",14,Medium,"outsider(angel, extraplanar, good)",12,G,,Any,Any Good,11,Monster Manual,1
+"Angel, Planetar",16,Large,"outsider(angel, extraplanar, good)",14,G,,Any,Any Good,11,Monster Manual,1
+Formian Myrmarch,10,Large,"outsider(extraplanar, lawful)",12,LN,,Any,Mechanus,110,Monster Manual,1
+Formian Queen,17,Large,"outsider(extraplanar, lawful)",20,LN,,Any,Mechanus,110,Monster Manual,1
+Frost Worm,12,Huge,magical beast(cold),14,N,Cold,Plains,Material,111,Monster Manual,1
+"Fungus, Violet",3,Medium,plant,2,N,,Underground,Material,112,Monster Manual,1
+Fungus: Shrieker,1,Medium,plant,2,N,,Underground,Material,112,Monster Manual,1
+Gargoyle,4,Medium,monstrous humanoid(earth),4,CE,,Any,Material,113,Monster Manual,1
+"Genie, Djinni",5,Large,"outsider(air, extraplanar)",7,CG,,Any,Elemental Air,114,Monster Manual,1
+"Genie, Efreeti",8,Large,"outsider(extraplanar, fire)",10,LE,,Any,Elemental Fire,115,Monster Manual,1
+"Genie, Janni",4,Medium,outsider(native),6,N,Warm,Deserts,Material,116,Monster Manual,1
+GHOST 5TH-LEVEL HUMAN FIGHTER,7,Medium,"UNDEAD (AUGMENTED HUMANOID, INCORPOREAL)",5,any,TEMPERATE,PLAINS,Material,117,Monster Manual,1
+Ghoul,1,Medium,undead,2,CE,,Any,Material,119,Monster Manual,1
+Ghoul: Ghast,3,Medium,undead,4,CE,,Any,Material,119,Monster Manual,1
+"Angel, Solar",23,Large,"outsider(angel, extraplanar, good)",22,G,,Any,Any Good,12,Monster Manual,1
+"Giant, Cloud",11,Huge,giant(air),17,"NG, NE",Temperate, Mountains,Material,120,Monster Manual,1
+"Giant, Fire",10,Large,giant(fire),15,LE,Warm,Mountains,Material,121,Monster Manual,1
+"Giant, Frost",9,Large,giant(cold),14,CE,Cold,Mountains,Material,122,Monster Manual,1
+"Giant, Frost, Jarl, 8th-level Blackguard",17,Large,giant(cold),22,CE,Cold,Mountains,Material,122,Monster Manual,1
+"Giant, Hill",7,Large,giant,12,CE,Temperate,Hills,Material,123,Monster Manual,1
+"Giant, Stone",8,Large,giant(earth),14,N,Temperate, Mountains,Material,124,Monster Manual,1
+"Giant, Stone, Elder",9,Large,giant(earth),14,N,Temperate,Mountains,Material,124,Monster Manual,1
+"Giant, Storm",13,Huge,giant,19,CG,Warm,Mountains,Material,125,Monster Manual,1
+Gibbering Mouther,5,Medium,aberration,4,N,,Underground,Material,126,Monster Manual,1
+Girallon,6,Large,magical beast,7,N,Warm,Forests,Material,126,Monster Manual,1
+Githyanki,1,Medium,humanoid(extraplanar),1,E,,Any,"Astral, Material",127,Monster Manual,1
+Githzerai,1,Medium,humanoid(extraplanar),1,N,,Any/Underground,Limbo,129,Monster Manual,1
+"Animated Object, Medium",2,Medium,construct,2,N,,Any,Material,13,Monster Manual,1
+"Animated Object, Small",1,Small,construct,1,N,,Any,Material,13,Monster Manual,1
+"Animated Object, Tiny",1/2,Tiny,construct,1/2,N,,Any,Material,13,Monster Manual,1
+Gnoll,1,Medium,humanoid,2,CE,Warm,Plains,Material,130,Monster Manual,1
+FOREST GNOME,1/2,Small,HUMANOID (GNOMO),1,NG,TEMPERATE,FORESTS,Material,132,Monster Manual,1
+GNOME 1ST-LEVEL WARRIOR,1/2,Small,HUMANOID (GNOMO),1,NG,TEMPERATE,HILLS,Material,132,Monster Manual,1
+SVIRFNEBLIN 1ST-LEVEL WARRIOR,1,Small,HUMANOID (GNOME),1,N,,Underground,Material,132,Monster Manual,1
+GOBLIN ,1/3,Small,HUMANOID (GOBLINOID),1,NE,TEMPARETE,PLAINS,Material,133,Monster Manual,1
+"Golem, Clay",10,Large,construct,11,N,,Any,Material,134,Monster Manual,1
+"Golem, Flesh",7,Large,construct,9,N,,Any,Material,135,Monster Manual,1
+"Golem, Iron",13,Large,construct,18,N,,Any,Material,136,Monster Manual,1
+"Golem, Stone",11,Large,construct,14,N,,Any,Material,136,Monster Manual,1
+"Golem, Stone, Greater",16,Huge,construct,42,N,,Any,Material,136,Monster Manual,1
+Gorgon,8,Large,magical beast,8,N,Temperate, Plains,Material,137,Monster Manual,1
+Gray Render,8,Large,magical beast,10,N,Temperate,Marshes,Material,138,Monster Manual,1
+Grick,3,Medium,aberration,2,N,,Underground,Material,139,Monster Manual,1
+Griffon,4,Large,magical beast,7,N,Temperate,Hills,Material,139,Monster Manual,1
+"Animated Object, Colossal",10,Colossal,construct,32,N,,Any,Material,14,Monster Manual,1
+"Animated Object, Gargantuan",7,Gargantuan,construct,16,N,,Any,Material,14,Monster Manual,1
+"Animated Object, Huge",5,Huge,construct,8,N,,Any,Material,14,Monster Manual,1
+"Animated Object, Large",3,Large,construct,4,N,,Any,Material,14,Monster Manual,1
+Ankheg,3,Large,animal,3,N,Temperate/Warm, Forests/Plains/Underground,Material,14,Monster Manual,1
+Grimlock,1,Medium,monstrous humanoid,2,NE,,Underground,Material,140,Monster Manual,1
+Guardinal: Avoral,9,Medium,"outsider(extraplanar, good)",7,NG,,Any,Elysium,141,Monster Manual,1
+Guardinal: Leonal,12,Medium,"outsider(extraplanar, good)",12,NG,,Any,Elysium,142,Monster Manual,1
+Hag: Annis,6,Large,monstrous humanoid,7,CE,Cold, Marshes,Material,143,Monster Manual,1
+Hag: Green Hag,5,Medium,monstrous humanoid,9,CE,Temperate,Marshes,Material,143,Monster Manual,1
+Hag: Sea Hag,4,Medium,monstrous humanoid(aquatic),3,CE,Temperate,Aquatic,Material,143,Monster Manual,1
+HALF-CELESTIAL 9TH-LEVEL HUMAN PALADIN,11,Medium,"OUTSIDER (AUGMENTED HUMANOID, NATIVE)",9,LG,Temperate,Plains,Material,145,Monster Manual,1
+HALF-BLACK DRAGON 4TH-LEVEL HUMAN FIGHTER,6,Medium,DRAGON (AUGMENTED HUMANOID),4,CE,Temperate,Plains,Material,146,Monster Manual,1
+HALF-FIEND 7TH-LEVEL HUMAN CLERIC,9,Medium,"OUTSIDER (AUGMENTED HUMANOID, NATIVE)",7,ANY E,Temperate,Plains,Material,147,Monster Manual,1
+HALFLING: DEEP,1/2,Small,HUMANOID (HALFLING),1,N,WARM, HILLS,Material,149,Monster Manual,1
+HALFLING: TALLFELOW,1/2,Small,HUMANOID (HALFLING),1,N,TEMPERATE,FORESTS,Material,149,Monster Manual,1
+HALFLING,1/2,Small,HUMANOID (HALFLING),1,N,Warm,Plains,Material,149,Monster Manual,1
+Aranea,4,Medium,magical beast(shapechanger),3,N,Temperate,Forests,Material,15,Monster Manual,1
+Harpy,4,Medium,monstrous humanoid,7,CE,Temperate,Marshes,Material,151,Monster Manual,1
+"Harpy Archer, 7th-level Fighter",11,Medium,monstrous humanoid,14,CE,Temperate,Marshes,Material,151,Monster Manual,1
+Hell Hound,3,Medium,"outsider(evil, extraplanar, fire, lawful)",4,LE,,Any,Baator (Nine Hells),151,Monster Manual,1
+"Hell Hound, Nessian Warhound",9,Large,"outsider(evil, extraplanar, fire, lawful)",12,LE,,Any,Baator (Nine Hells),152,Monster Manual,1
+Hippogriff,2,Large,magical beast,3,N,Temperate, Hills,Material,152,Monster Manual,1
+HOBGOBLIN,1/2,Medium,HUMANOID (GOBLINOID),1,LE,WARM,HILLS,Material,153,Monster Manual,1
+Homunculus,1,Tiny,construct,2,any,,Any,Material,154,Monster Manual,1
+Howler,3,Large,"outsider(chaotic, evil, extraplanar)",6,CE,,Any,Any Chaotic,154,Monster Manual,1
+"Hydra, 5-headed",4,Huge,magical beast,5,N,Temperate,Marshes,Material,156,Monster Manual,1
+"Hydra, 6-headed",5,Huge,magical beast,6,N,Temperate,Marshes,Material,156,Monster Manual,1
+"Hydra, 7-headed",6,Huge,magical beast,7,N,Temperate,Marshes,Material,156,Monster Manual,1
+"Hydra, cryo/pyro, 5-headed",6,Huge,magical beast,5,N,Cold/Warm,Marshes,Material,156,Monster Manual,1
+"Hydra, cryo/pyro, 6-headed",7,Huge,magical beast,6,N,Cold/Warm,Marshes,Material,156,Monster Manual,1
+"Hydra, cryo/pyro, 7-headed",8,Huge,magical beast,7,N,Cold/Warm,Marshes,Material,156,Monster Manual,1
+"Hydra, 10-headed",9,Huge,magical beast,10,N,Temperate,Marshes,Material,157,Monster Manual,1
+"Hydra, 11-headed",10,Huge,magical beast,11,N,Temperate,Marshes,Material,157,Monster Manual,1
+"Hydra, 12-headed",11,Huge,magical beast,12,N,Temperate,Marshes,Material,157,Monster Manual,1
+"Hydra, 8-headed",7,Huge,magical beast,8,N,Temperate,Marshes,Material,157,Monster Manual,1
+"Hydra, 9-headed",8,Huge,magical beast,9,N,Temperate,Marshes,Material,157,Monster Manual,1
+"Hydra, cryo/pyro, 10-headed",11,Huge,magical beast,10,N,Cold/Warm,Marshes,Material,157,Monster Manual,1
+"Hydra, cryo/pyro, 11-headed",12,Huge,magical beast,11,N,Cold/Warm,Marshes,Material,157,Monster Manual,1
+"Hydra, cryo/pyro, 12-headed",13,Huge,magical beast,12,N,Cold/Warm,Marshes,Material,157,Monster Manual,1
+"Hydra, cryo/pyro, 8-headed",9,Huge,magical beast,8,N,Cold/Warm,Marshes,Material,157,Monster Manual,1
+"Hydra, cryo/pyro, 9-headed",10,Huge,magical beast,9,N,Cold/Warm,Marshes,Material,157,Monster Manual,1
+Inevitable: Kolyarut,12,Medium,"construct(extraplanar, lawful)",13,LN,,Any,Mechanus,159,Monster Manual,1
+Inevitable: Marut,15,Large,"construct(extraplanar, lawful)",15,LN,,Any,Mechanus,159,Monster Manual,1
+Inevitable: Zelekhut,9,Large,"construct(extraplanar, lawful)",8,LN,,Any,Mechanus,159,Monster Manual,1
+"Archon, Lantern Archon",2,Small,"outsider(archon, extraplanar, good, lawful)",1,LG,,Any,Celestia,16,Monster Manual,1
+Invisible Stalker,7,Large,"elemental(air, extraplanar)",8,N,,Any,Elemental Air,160,Monster Manual,1
+KOBOLD,1/4,Small,HUMANOID (REPTILIAN),1,LE,TEMPEREST,FOREST,Material,161,Monster Manual,1
+Kraken,12,Gargantuan,magical beast(aquatic),20,NE,Temperate,Aquatic,Material,162,Monster Manual,1
+Krenshar,1,Medium,magical beast,2,N,Temperate/Warm,Forests/Plains,Material,163,Monster Manual,1
+Kuo-Toa,2,Medium,monstrous humanoid(aquatic),2,NE,,Aquatic/Underground,Material,163,Monster Manual,1
+Lamia,6,Large,magical beast,9,CE,Temperate,Deserts,Material,165,Monster Manual,1
+Lammasu,8,Large,magical beast,7,LG,Temperate,Deserts,Material,166,Monster Manual,1
+"Lammasu, Golden Protector (celestial Half-dragon)",13,Large,dragon(extraplanar),10,LG,,Any,Celestia,166,Monster Manual,1
+LICH,13,Medium,UNDEAD (AUGMENTED HUMANOID),11,NE,Temperate,Plains,Material,166,Monster Manual,1
+Lillend,7,Large,"outsider(chaotic, extraplanar, good)",7,CG,,Any,Any Chaotic,168,Monster Manual,1
+Lizardfolk,1,Medium,humanoid(reptilian),2,N,Temperate,Marshes,Material,169,Monster Manual,1
+Locathah,1/2,Medium,humanoid(aquatic),2,N,Warm,Aquatic,Material,169,Monster Manual,1
+"Archon, Hound Archon",4,Medium,"outsider(archon, extraplanar, good, lawful)",6,LG,,Any,Celestia,17,Monster Manual,1
+"Archon, Hound Archon Hero",16,Medium,"outsider(archon, extraplanar, good, lawful)",17,LG,,Any,Celestia,17,Monster Manual,1
+Werebear (Lycanthrope),5,Medium,"humanoid(AUGMENTED,shapechanger)",7,LG,Cold,Forests,Material,171,Monster Manual,1
+Wereboar (Lycanthrope),4,Medium,"humanoid(AUGMENTED,shapechanger)",4,N,Temperate,Forests,Material,172,Monster Manual,1
+Wererat (Lycanthrope),2,Medium,"humanoid(AUGMENTED,shapechanger)",2,LE,,Any,Material,173,Monster Manual,1
+Weretiger (Lycanthrope),5,Medium,"humanoid(AUGMENTED,shapechanger)",7,N,Warm,Forests,Material,174,Monster Manual,1
+Werewolf (Lycanthrope),3,Medium,"humanoid(AUGMENTED,shapechanger)",3,CE,Temperate,Forests,Material,175,Monster Manual,1
+Werewolf Lord (Lycanthrope),14,Medium,"humanoid(AUGMENTED,shapechanger)",16,CE,Temperate,Forests,Material,176,Monster Manual,1
+Hill Giant Dire Wereboar (Lycanthrope),11,Large,"humanoid(AUGMENTED,shapechanger)",19,N,Temperate,Hills,Material,177,Monster Manual,1
+Magmin,3,Small,"elemental(extraplanar, fire)",2,CN,,Any,Elemental Fire,179,Monster Manual,1
+Manticore,5,Large,magical beast,6,LE,Warm,Marshes,Material,179,Monster Manual,1
+"Archon, Trumpet Archon",14,Medium,"outsider(archon, extraplanar, good, lawful)",12,LG,,Any,Celestia,18,Monster Manual,1
+Medusa,7,Medium,monstrous humanoid,6,LE,Temperate,Marshes,Material,180,Monster Manual,1
+"Mephit, Air",3,Small,"outsider(air, extraplanar)",3,N,,Any,Elemental Air,181,Monster Manual,1
+"Mephit, Dust",3,Small,"outsider(air, extraplanar)",3,N,,Any,Elemental Air,181,Monster Manual,1
+"Mephit, Earth",3,Small,"outsider(earth, extraplanar)",3,N,,Any,Elemental Earth,182,Monster Manual,1
+"Mephit, Fire",3,Small,"outsider(extraplanar, fire)",3,N,,Any,Elemental Fire,182,Monster Manual,1
+"Mephit, Ice",3,Small,"outsider(air, cold, extraplanar)",3,N,,Any,Elemental Air,182,Monster Manual,1
+"Mephit, Magma",3,Small,"outsider(extraplanar, fire)",3,N,,Any,Elemental Fire,183,Monster Manual,1
+"Mephit, Ooze",3,Small,"outsider(extraplanar, water)",3,N,,Any,Elemental Water,183,Monster Manual,1
+"Mephit, Salt",3,Small,"outsider(earth, extraplanar)",3,N,,Any,Elemental Earth,184,Monster Manual,1
+"Mephit, Steam",3,Small,"outsider(extraplanar, fire)",3,N,,Any,Elemental Fire,184,Monster Manual,1
+"Mephit, Water",3,Small,"outsider(extraplanar, water)",3,N,,Any,Elemental Water,185,Monster Manual,1
+MERFOLK,1/2,Medium,HUMANOID (AQUATIC),1,N,TEMPERATE,AQUATIC,Material,185,Monster Manual,1
+Mimic,4,Large,aberration(shapechanger),7,N,,Underground,Material,186,Monster Manual,1
+MIND FLAYER 9TH-LEVEL SORCERER,17,Medium,aberration,17,LE,,UNDERGROUND,Material,187,Monster Manual,1
+Mind Flayer,8,Medium,aberration,8,LE,,UNDERGROUND,Material,187,Monster Manual,1
+Minotaur,4,Large,monstrous humanoid,6,CE,,Underground,Material,188,Monster Manual,1
+Mohrg,8,Medium,undead,14,CE,,Any,Material,189,Monster Manual,1
+"Arrowhawk, Adult",5,Medium,"outsider(air, extraplanar)",7,N,,Any,Elemental Air,19,Monster Manual,1
+"Arrowhawk, Elder",8,Large,"outsider(air, extraplanar)",15,N,,Any,Elemental Air,19,Monster Manual,1
+"Arrowhawk, Juvenile",3,Small,"outsider(air, extraplanar)",3,N,,Any,Elemental Air,19,Monster Manual,1
+Mummy,5,Medium,undead,8,LE,,Any,Material,190,Monster Manual,1
+"Mummy Lord, 10th-level Cleric",15,Medium,undead,18,LE,,Any,Material,190,Monster Manual,1
+Naga: Dark Naga,8,Large,aberration,9,LE,Temperate,Hills,Material,191,Monster Manual,1
+Naga: Guardian Naga,10,Large,aberration,11,LG,Temperate,Plains,Material,191,Monster Manual,1
+Naga: Spirit Naga,9,Large,aberration,9,CE,Temperate,Marshes,Material,191,Monster Manual,1
+Naga: Water Naga,7,Large,aberration(aquatic),7,N,Temperate,Aquatic,Material,193,Monster Manual,1
+Night Hag,9,Medium,"outsider(evil, extraplanar)",8,NE,,Any,Any Evil,193,Monster Manual,1
+Nightmare,5,Large,"outsider(evil, extraplanar)",6,NE,,Any,Any Evil,194,Monster Manual,1
+"Nightmare, Cauchemar",11,Huge,"outsider(evil, extraplanar)",15,NE,,Any,Any Evil,194,Monster Manual,1
+Nightshade: Nightcrawler,18,Gargantuan,undead(extraplanar),25,CE,,Any,Shadow,195,Monster Manual,1
+Nightshade: Nightwalker,16,Huge,undead(extraplanar),21,CE,,Any,Shadow,196,Monster Manual,1
+Nightshade: Nightwing,14,Huge,undead(extraplanar),17,CE,,Any,Shadow,197,Monster Manual,1
+Nymph,7,Medium,fey,6,CG,Temperate,Forests,Material,197,Monster Manual,1
+Ogre,3,Large,giant,4,CE,Temperate,Hills,Material,199,Monster Manual,1
+"Ogre, 4th-level Barbarian",7,Large,giant,8,CE,Temperate,Hills,Material,199,Monster Manual,1
+Assassin Vine,3,Large,plant,4,N,Temperate,Forests,Material,20,Monster Manual,1
+Ogre Mage,8,Large,giant,5,LE,Cold,Hills,Material,200,Monster Manual,1
+OOZE: Black Pudding,7,Huge,ooze,10,N,,Underground,Material,201,Monster Manual,1
+OOZE: Elder Black Pudding,12,Gargantuan,ooze,20,N,,Underground,Material,201,Monster Manual,1
+OOZE: Gelatinous Cube,3,Large,ooze,4,N,,Underground,Material,201,Monster Manual,1
+OOZE: Gray Ooze,4,Medium,ooze,3,N,Cold,Marshes,Material,202,Monster Manual,1
+OZZE: Ochre Jelly,5,Large,ooze,6,N,Temperate,Marshes,Material,202,Monster Manual,1
+ORC,1/2,Medium,HUMANOID (ORC),1,CE,TEMPERATE,HILLS,Material,203,Monster Manual,1
+Otyugh,4,Large,aberration,6,N,,Underground,Material,204,Monster Manual,1
+"Owl, Giant",3,Large,magical beast,4,NG,Temperate,Forests,Material,205,Monster Manual,1
+Owlbear,4,Large,magical beast,5,N,Temperate,Forests,Material,206,Monster Manual,1
+Pegasus,3,Large,magical beast,4,CG,Temperate,Forests,Material,206,Monster Manual,1
+Phantom Fungus,3,Medium,plant,2,N,,Underground,Material,207,Monster Manual,1
+Phase Spider,5,Large,magical beast,5,N,Warm,Hills,Material,207,Monster Manual,1
+Phasm,7,Medium,aberration(shapechanger),15,CN,,Underground,Material,208,Monster Manual,1
+PLANETOUCHED: TIEFLING,1/2,Medium,OUTSIDER (NATIVE),1,ANY E,Temperate,Plains,Material,209,Monster Manual,1
+PLANETOUCHED: AASIMAR,1/2,Medium,OUTSIDER (NATIVE),1,ANY G,Temperate,Plains,Material,209,Monster Manual,1
+Athach,8,Huge,aberration,14,CE,Temperate,Hills,Material,21,Monster Manual,1
+Azer,2,Medium,"outsider(extraplanar, fire)",2,LN,,Any,Elemental Fire,21,Monster Manual,1
+Pseudodragon,1,Tiny,dragon,2,NG,Temperate,Forests,Material,210,Monster Manual,1
+Purple Worm,12,Gargantuan,magical beast,16,N,,Underground,Material,211,Monster Manual,1
+Rakshasa,10,Medium,outsider(native),7,LE,Warm,Marshes,Material,211,Monster Manual,1
+Rast,5,Medium,"outsider(extraplanar, fire)",4,N,,Any,Elemental Fire,213,Monster Manual,1
+Ravid,5,Medium,outsider(extraplanar),3,N,,Any,Positive Energy,213,Monster Manual,1
+Remorhaz,7,Huge,magical beast,7,N,Cold,Deserts,Material,214,Monster Manual,1
+Roc,9,Gargantuan,animal,18,N,Warm,Mountains,Material,215,Monster Manual,1
+Roper,12,Large,magical beast,10,CE,,Underground,Material,215,Monster Manual,1
+Rust Monster,3,Medium,aberration,5,N,,Underground,Material,215,Monster Manual,1
+Sahuagin,2,Medium,monstrous humanoid(aquatic),2,LE,Warm,Aquatic,Material,217,Monster Manual,1
+"Salamander, Average",6,Medium,"outsider(extraplanar, fire)",9,E,,Any,Elemental Fire,219,Monster Manual,1
+"Salamander, Flamebrother",3,Small,"outsider(extraplanar, fire)",4,E,,Any,Elemental Fire,219,Monster Manual,1
+"Salamander, Noble",10,Large,"outsider(extraplanar, fire)",15,E,,Any,Elemental Fire,219,Monster Manual,1
+Satyr (with pipes),4,Medium,fey,5,CN,Temperate,Forests,Material,219,Monster Manual,1
+Satyr (without pipes),2,Medium,fey,5,CN,Temperate,Forests,Material,219,Monster Manual,1
+Sea Cat,4,Large,magical beast,6,N,Temperate,Aquatic,Material,220,Monster Manual,1
+Shadow,3,Medium,undead(incorporeal),3,CE,,Any,Material,221,Monster Manual,1
+"Shadow, Greater",8,Medium,undead(incorporeal),9,CE,,Any,Material,221,Monster Manual,1
+Shadow Mastiff,5,Medium,outsider(extraplanar),4,NE,,Any,Shadow,222,Monster Manual,1
+Shambling Mound,6,Large,plant,8,N,Temperate,Marshes,Material,222,Monster Manual,1
+Shield Guardian,8,Large,construct,15,N,,Any,Material,223,Monster Manual,1
+Shocker Lizard,2,Small,magical beast,2,N,Warm,Marshes,Material,224,Monster Manual,1
+"Skeleton, Human Warrior",1/3,Medium,undead(augmented),1,NE,Temperate,Plains,Material,226,Monster Manual,1
+"Skeleton, Owlbear",2,Large,undead(augmented),5,NE,Temperate,Forests,Material,226,Monster Manual,1
+"Skeleton, Wolf",1,Medium,undead(augmented),2,NE,Temperate,Forests,Material,226,Monster Manual,1
+"Skeleton, Advanced Megaraptor",6,Huge,undead(augmented),12,NE,Warm,Forests,Material,227,Monster Manual,1
+"Skeleton, Chimera",4,Large,undead(augmented),9,NE,Temperate,Hills,Material,227,Monster Manual,1
+"Skeleton, Cloud Giant",7,Huge,undead(augmented),17,NE,Temperate, Mountains,Material,227,Monster Manual,1
+"Skeleton, Ettin",5,Large,undead(augmented),10,NE,Cold,Hills,Material,227,Monster Manual,1
+"Skeleton, Troll",3,Large,undead(augmented),6,NE,Cold,Mountains,Material,227,Monster Manual,1
+"Skeleton, Young Adult Red Dragon",8,Huge,"undead(fire,augmented)",19,NE,Warm,Mountains,Material,227,Monster Manual,1
+Skum,2,Medium,aberration(aquatic),2,LE,,Underground,Material,228,Monster Manual,1
+"Slaad, Red",7,Large,"outsider(chaotic, extraplanar)",7,CN,,Any,Limbo,228,Monster Manual,1
+"Slaad, Blue",8,Large,"outsider(chaotic, extraplanar)",8,CN,,Any,Limbo,229,Monster Manual,1
+Barghest,4,Medium,"outsider(evil, extraplanar, lawful, shapechanger)",6,LE,,Any,Any Evil,23,Monster Manual,1
+"Slaad, Green",9,Large,"outsider(chaotic, extraplanar)",9,CN,,Any,Limbo,230,Monster Manual,1
+"Slaad, Death",13,Medium,"outsider(chaotic, extraplanar)",15,"CN, CE",,Any,Limbo,231,Monster Manual,1
+"Slaad, Gray",10,Medium,"outsider(chaotic, extraplanar)",10,CN,,Any,Limbo,231,Monster Manual,1
+SPHINX: Androsphinx,9,Large,magical beast,12,CG,Warm,Deserts,Material,232,Monster Manual,1
+Spectre,7,Medium,undead(incorporeal),7,LE,,Any/Underground,Material,232,Monster Manual,1
+PHINX: Criosphinx,7,Large,magical beast,10,N,Warm,Deserts,Material,233,Monster Manual,1
+PHINX: Gynosphinx,8,Large,magical beast,8,N,Warm,Deserts,Material,233,Monster Manual,1
+PHINX: Hieracosphinx,5,Large,magical beast,9,CE,Warm,Deserts,Material,234,Monster Manual,1
+Spider Eater,5,Large,magical beast,4,N,Temperate,Forests,Material,234,Monster Manual,1
+Sprite: Grig,1,Tiny,fey,0,NG,Temperate,Forests,Material,235,Monster Manual,1
+Sprite: Nixie,1,Small,fey(aquatic),1,N,Temperate,Aquatic,Material,235,Monster Manual,1
+Sprite: Pixie,5,Small,fey,1,NG,Temperate,Forests,Material,236,Monster Manual,1
+Stirge,1/2,Tiny,magical beast,1,N,Warm,Marshes,Material,236,Monster Manual,1
+"Swarm, Bat",2,Diminutive,animal(swarm),3,N,Temperate,Deserts,Material,237,Monster Manual,1
+"Swarm, Centipede",4,Diminutive,vermin(swarm),9,N,,Underground,Material,238,Monster Manual,1
+"Swarm, Hellwasp",8,Diminutive,"magical beast(evil, extraplanar, swarm)",12,LE,,Any,Any Evil,238,Monster Manual,1
+"Swarm, Locust",3,Diminutive,vermin(swarm),6,N,Temperate,Plains,Material,239,Monster Manual,1
+"Swarm, SPider",1,Diminutive,vermin(swarm),2,N,Warm,Forests,Material,239,Monster Manual,1
+"Swarm, Rat",2,Tiny,animal(swarm),4,N,,Any,Material,239,Monster Manual,1
+Basilisk,5,Medium,magical beast,6,N,Warm,Deserts,Material,24,Monster Manual,1
+"Basilisk, Abyssal Greater",12,Large,"outsider(augmented magical beast, extraplanar)",18,CE,,Any,Abyss,24,Monster Manual,1
+Tarrasque,20,Colossal,magical beast,48,N,,Any,Material,240,Monster Manual,1
+Tendriculos,6,Huge,plant,9,N,Temperate,Forests,Material,241,Monster Manual,1
+Thoqqua,2,Medium,"elemental(earth, extraplanar, fire)",3,N,,Any,Elemental Fire,242,Monster Manual,1
+Titan,21,Huge,"outsider(chaotic, extraplanar)",20,C,,Any,Chaotic Good,242,Monster Manual,1
+"Tojanida, Adult",5,Medium,"outsider(extraplanar, water)",7,N,,Any,Elemental Water,244,Monster Manual,1
+"Tojanida, Elder",9,Large,"outsider(extraplanar, water)",15,N,,Any,Elemental Water,244,Monster Manual,1
+"Tojanida, Juvenile",3,Small,"outsider(extraplanar, water)",3,N,,Any,Elemental Water,244,Monster Manual,1
+Treant,8,Huge,plant,7,NG,Temperate, Forests,Material,244,Monster Manual,1
+Triton,2,Medium,"outsider(native, water)",3,NG,Temperate,Aquatic,Material,245,Monster Manual,1
+Troglodyte,1,Medium,humanoid(reptilian),2,CE,,Underground,Material,246,Monster Manual,1
+Troll,5,Large,giant,6,CE,Cold,Mountains,Material,247,Monster Manual,1
+"Troll Hunter, 6th-level Ranger",11,Large,giant,12,CE,Cold,Mountains,Material,247,Monster Manual,1
+Umber Hulk,7,Large,aberration,8,CE,,Underground,Material,248,Monster Manual,1
+Umber Hulk: Truly Horid,14,Huge,aberration,20,CE,,Underground,Material,249,Monster Manual,1
+Behir,8,Huge,magical beast,9,N,Warm,Hills,Material,25,Monster Manual,1
+Beholder,13,Large,aberration,11,LE,Cold,Hills,Material,25,Monster Manual,1
+UNICORN: CELESTIAL CHARGER,13,Large,magical beast,15,CG,,ANY,SEVEN MOUNTING HEAVENS OF CELESTIA,250,Monster Manual,1
+Unicorn,3,Large,magical beast,4,CG,Temperate,Forests,Material,250,Monster Manual,1
+"VAMPIRE, 5TH-LEVEL HUMAN FIGHTER",7,Medium,undead(augmented),5,ANY E,TEMPERATE,PLAINS,Material,250,Monster Manual,1
+VAMPIRE: ELITE 13TH-LEVEL HALF-ELF,15,Medium,undead(augmented),13,ANY E,TEMPERATE,FORESTS,Material,251,Monster Manual,1
+Vampire Spawn,4,Medium,undead(augmented),4,E,,Any,Material,253,Monster Manual,1
+Vargouille,2,Small,"outsider(evil, extraplanar)",1,NE,,Any,Any Evil,254,Monster Manual,1
+Wight,3,Medium,undead,4,LE,,Any,Material,255,Monster Manual,1
+Will-o'-wisp,6,Small,aberration(air),9,CE,Temperate,Marshes,Material,255,Monster Manual,1
+Winter Wolf,5,Large,magical beast(cold),6,NE,Cold,Forests,Material,256,Monster Manual,1
+Worg,2,Medium,magical beast,4,NE,Temperate,Plains,Material,256,Monster Manual,1
+Wraith,5,Medium,undead(incorporeal),5,LE,,Any,Material,258,Monster Manual,1
+"Wraith, Dread",11,Large,undead(incorporeal),16,LE,,Any,Material,258,Monster Manual,1
+Wyvern,6,Large,dragon,7,N,Warm,Hills,Material,259,Monster Manual,1
+Xill,6,Medium,outsider(extraplanar),5,LE,,Any,Ethereal,259,Monster Manual,1
+Gauth (Beholder),6,Medium,aberration,6,LE,Cold,Hills,Material,26,Monster Manual,1
+Yeth Hound,3,Medium,"outsider(evil, extraplanar)",3,NE,,Any,Any Evil,260,Monster Manual,1
+"Xorn, Average",6,Medium,"outsider(earth, extraplanar)",7,N,,Any,Elemental Earth,261,Monster Manual,1
+"Xorn, Elder",8,Large,"outsider(earth, extraplanar)",15,N,,Any,Elemental Earth,261,Monster Manual,1
+"Xorn, Minor",3,Small,"outsider(earth, extraplanar)",3,N,,Any,Elemental Earth,261,Monster Manual,1
+Yrthak,9,Huge,magical beast,12,N,Temperate,Mountains,Material,263,Monster Manual,1
+"Yuan-Ti, Pureblood",5,Medium,monstrous humanoid,6,CE,Warm,Forests/Underground,Material,263,Monster Manual,1
+"Yuan-Ti, Abomination",7,Large,monstrous humanoid,9,CE,Warm,Forests/Underground,Material,264,Monster Manual,1
+"Yuan-Ti, Halfblood",5,Medium,monstrous humanoid,7,CE,Warm,Forests/Underground,Material,264,Monster Manual,1
+"Zombie, Human Commoner",1/2,Medium,undead(augmented),2,NE,,Any,Material,266,Monster Manual,1
+"Zombie, Kobold",1/2,Small,undead(augmented),2,NE,Temperate,Forests,Material,266,Monster Manual,1
+"Zombie, Troglodyte",1,Medium,undead(augmented),4,NE,,Underground,Material,266,Monster Manual,1
+"Zombie, Bugbear",2,Medium,undead(augmented),6,NE,Temperate,Mountains,Material,267,Monster Manual,1
+"Zombie, Gray Render",6,Large,undead(augmented),20,NE,Temperate,Marshes,Material,267,Monster Manual,1
+"Zombie, Minotaur",4,Large,undead(augmented),12,NE,,Underground,Material,267,Monster Manual,1
+"Zombie, Ogre",3,Large,undead(augmented),8,NE,Temperate,Hills,Material,267,Monster Manual,1
+ZOMBIE: UMBER HULK,5,Large,undead(augmented),16,NE,,UNDERGROUND,Material,267,Monster Manual,1
+"Zombie, Wyvern",4,Large,undead(augmented),14,NE,Warm,Hills,Material,267,Monster Manual,1
+Ape,2,Large,animal,4,N,Warm,Forests,Material,268,Monster Manual,1
+Baboon,1/2,Medium,animal,1,N,Warm,Plains,Material,268,Monster Manual,1
+Badger,1/2,Small,animal,1,N,Temperate,Forests,Material,268,Monster Manual,1
+Bat,1/10,Diminutive,animal,1/4,N,Temperate,Deserts,Material,268,Monster Manual,1
+BEAR: BLACK,2,Medium,animal,3,N,Temperate,Forests,Material,269,Monster Manual,1
+BEAR: BROWN,4,Large,animal,6,N,COLD,FORESTS,Material,269,Monster Manual,1
+BEAR: POLAR,4,Large,animal,8,N,Cold,Plains,Material,269,Monster Manual,1
+BISON,2,Large,animal,5,N,Temperate,Plains,Material,269,Monster Manual,1
+Belker,6,Large,"elemental(air, extraplanar)",7,NE,,Any,Elemental Air,27,Monster Manual,1
+BOAR,2,Medium,animal,3,N,TEMPERATE,FORESTS,Material,270,Monster Manual,1
+Camel,1,Large,animal,3,N,Warm,Deserts,Material,270,Monster Manual,1
+Cat,1/4,Tiny,animal,1/2,N,Temperate,Plains,Material,270,Monster Manual,1
+CHEETAH,2,Medium,ANIMAL,13,N,WARM,PLAINS,Material,271,Monster Manual,1
+Crocodile,2,Medium,animal,3,N,WARM,Marshes,Material,271,Monster Manual,1
+"Crocodile, Giant",4,Huge,animal,7,N,WARM,Marshes,Material,271,Monster Manual,1
+Dog,1/3,Small,animal,1,N,Temperate, Plains,Material,271,Monster Manual,1
+"Dog, Riding",1,Medium,animal,2,N,Temperate, Plains,Material,272,Monster Manual,1
+Donkey,1/6,Medium,animal,2,N,Temperate, Deserts,Material,272,Monster Manual,1
+Elephant,7,Huge,animal,11,N,Warm,Plains,Material,272,Monster Manual,1
+Hawk,1/3,Tiny,animal,1,N,Temperate,Forests,Material,273,Monster Manual,1
+"Horse, Heavy",1,Large,animal,3,N,Temperate,Plains,Material,273,Monster Manual,1
+"Horse, Light",1,Large,animal,3,N,Temperate,Plains,Material,273,Monster Manual,1
+"Warhorse, Heavy",2,Large,animal,4,N,Temperate,Plains,Material,273,Monster Manual,1
+Hyena,1,Medium,animal,2,N,Warm,Deserts,Material,274,Monster Manual,1
+Leopard,2,Medium,animal,3,N,Warm,Forests,Material,274,Monster Manual,1
+Lion,3,Large,animal,5,N,Warm,Plains,Material,274,Monster Manual,1
+"Warhorse, Light",1,Large,animal,3,N,Temperate,Plains,Material,274,Monster Manual,1
+Lizard,1/6,Tiny,animal,1/2,N,Warm,Forests,Material,275,Monster Manual,1
+"Lizard, Monitor",2,Medium,animal,3,N,Warm,Forests,Material,275,Monster Manual,1
+Manta Ray,1,Large,animal(aquatic),4,N,Warm,Aquatic,Material,275,Monster Manual,1
+Monkey,1/6,Tiny,animal,1,N,Warm,Forests,Material,276,Monster Manual,1
+Mule,1,Large,animal,3,N,Warm,Plains,Material,276,Monster Manual,1
+Octopus,1,Small,animal(aquatic),2,N,Warm,Aquatic,Material,276,Monster Manual,1
+"Octopus, Giant",8,Large,animal(aquatic),8,N,Warm,Aquatic,Material,276,Monster Manual,1
+Owl,1/4,Tiny,animal,1,N,Temperate,Forests,Material,277,Monster Manual,1
+Pony,1/4,Medium,animal,2,N,Temperate,Plains,Material,277,Monster Manual,1
+"Pony, War",1/2,Medium,animal,2,N,Temperate,Plains,Material,277,Monster Manual,1
+Porpoise,1/2,Medium,animal,2,N,Temperate,Aquatic,Material,278,Monster Manual,1
+Rat,1/4,Tiny,animal,1/4,N,,Any,Material,278,Monster Manual,1
+Raven,1/6,Tiny,animal,1/4,N,Temperate,Forests,Material,278,Monster Manual,1
+Rhinoceros,4,Large,animal,8,N,Warm,Plains,Material,278,Monster Manual,1
+"Shark, Huge",4,Huge,animal(aquatic),10,N,Cold,Aquatic,Material,279,Monster Manual,1
+"Shark, Large",2,Large,animal(aquatic),7,N,Cold,Aquatic,Material,279,Monster Manual,1
+"Shark, Medium",1,Medium,animal(aquatic),3,N,Cold,Aquatic,Material,279,Monster Manual,1
+"Snake, Constrictor",2,Medium,animal,3,N,Warm,Forests,Material,279,Monster Manual,1
+Bodak,8,Medium,undead(extraplanar),9,CE,,Any,Abyss,28,Monster Manual,1
+BLINK DOG,2,Medium,magical beast,4,LG,Temperate,Plains,Material,28,Monster Manual,1
+"Snake, Constrictor, Giant",5,Huge,animal,11,N,Warm,Forests,Material,280,Monster Manual,1
+"Snake, Huge Viper",3,Huge,animal,6,N,Temperate,Marshes,Material,280,Monster Manual,1
+"Snake, Large Viper",2,Large,animal,3,N,Temperate,Marshes,Material,280,Monster Manual,1
+"Snake, Viper, Medium",1,Medium,animal,2,N,Temperate,Marshes,Material,280,Monster Manual,1
+"Snake, Viper, Small",1/2,Small,animal,1,N,Temperate,Marshes,Material,280,Monster Manual,1
+"Snake, Viper, Tiny",1/3,Tiny,animal,1/4,N,Temperate,Marshes,Material,280,Monster Manual,1
+Squid,1,Medium,animal(aquatic),3,N,Temperate, Aquatic,Material,281,Monster Manual,1
+"Squid, Giant",9,Huge,animal(aquatic),12,N,Temperate, Aquatic,Material,281,Monster Manual,1
+Tiger,4,Large,animal,6,N,Warm,Forests,Material,281,Monster Manual,1
+Toad,1/10,Diminutive,animal,1/4,N,Temperate,Marshes,Material,282,Monster Manual,1
+Weasel,1/4,Tiny,animal,1/2,N,Temperate,Hills,Material,282,Monster Manual,1
+"Whale, Baleen",6,Gargantuan,animal,12,N,Warm,Aquatic,Material,282,Monster Manual,1
+"Whale, Cachalot",7,Gargantuan,animal,12,N,Temperate,Aquatic,Material,283,Monster Manual,1
+"Whale, Orca",5,Huge,animal,9,N,Cold,Aquatic,Material,283,Monster Manual,1
+Wolf,1,Medium,animal,2,N,Temperate,Forests,Material,283,Monster Manual,1
+Wolverine,2,Medium,animal,3,N,Cold,Forests,Material,283,Monster Manual,1
+"Ant, Giant, Queen",2,Large,vermin,4,N,Temperate,Plains,Material,284,Monster Manual,1
+"Ant, Giant, Soldier",2,Medium,vermin,2,N,Temperate,Plains,Material,284,Monster Manual,1
+"Ant, Giant, Worker",1,Medium,vermin,2,N,Temperate,Plains,Material,284,Monster Manual,1
+"BOMBARDIER BEETLE, GIANT",,Medium,vermin,2,N,WARM,FORESTS,Material,284,Monster Manual,1
+"Bee, Giant",1,Medium,vermin,3,N,Temperate, Plains,Material,284,Monster Manual,1
+"Fire Beetle, Giant",1/3,Small,vermin,1,N,Warm,Plains,Material,285,Monster Manual,1
+"Praying Mantis, Giant",3,Large,vermin,4,N,Temperate,Forests,Material,285,Monster Manual,1
+"Stag Beetle, Giant",4,Large,vermin,7,N,Temperate,Forests,Material,285,Monster Manual,1
+"Wasp, Giant",3,Large,vermin,5,N,Temperate,Forests,Material,285,Monster Manual,1
+"Monstrous Centipede, Colossal",9,Colossal,vermin,24,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Gargantuan",6,Gargantuan,vermin,12,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Huge",2,Huge,vermin,6,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Large",1,Large,vermin,3,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Medium",1/2,Medium,vermin,1,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Small",1/4,Small,vermin,1/2,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Centipede, Tiny",1/8,Tiny,vermin,1/4,N,,Underground,Material,286,Monster Manual,1
+"Monstrous Scorpion, Huge",7,Huge,vermin,10,N,Warm,Deserts,Material,287,Monster Manual,1
+"Monstrous Scorpion, Large",3,Large,vermin,5,N,Warm,Deserts,Material,287,Monster Manual,1
+"Monstrous Scorpion, Medium",1,Medium,vermin,2,N,Warm,Deserts,Material,287,Monster Manual,1
+"Monstrous Scorpion, Small",1/2,Small,vermin,1,N,Warm,Deserts,Material,287,Monster Manual,1
+"Monstrous Scorpion, Tiny",1/4,Tiny,vermin,1/2,N,Warm,Deserts,Material,287,Monster Manual,1
+"Monstrous Scorpion, Colossal",12,Colossal,vermin,40,N,Warm,Deserts,Material,288,Monster Manual,1
+"Monstrous Scorpion, Gargantuan",10,Gargantuan,vermin,20,N,Warm,Deserts,Material,288,Monster Manual,1
+"Monstrous Spider, Medium",1,Medium,vermin,2,N,Temperate,Forests,Material,288,Monster Manual,1
+"Monstrous Spider, Small",1/2,Small,vermin,1,N,Temperate,Forests,Material,288,Monster Manual,1
+"Monstrous Spider, Tiny",1/4,Tiny,vermin,1/2,N,Temperate,Forests,Material,288,Monster Manual,1
+"Monstrous Spider, Colossal",11,Colossal,vermin,32,N,Temperate,Forests,Material,289,Monster Manual,1
+"Monstrous Spider, Gargantuan",8,Gargantuan,vermin,16,N,Temperate,Forests,Material,289,Monster Manual,1
+"Monstrous Spider, Huge",5,Huge,vermin,8,N,Temperate,Forests,Material,289,Monster Manual,1
+"Monstrous Spider, Large",2,Large,vermin,4,N,Temperate,Forests,Material,289,Monster Manual,1
+BUGBEAR,2,Medium,HUMANOID(GOBLINOID),3,CE,Temperate,MOUNTAINS,Material,29,Monster Manual,1
+Bulette,7,Huge,magical beast,9,N,Temperate,Hills,Material,30,Monster Manual,1
+CARRION CRAWLER,4,Large,ABERRATION,3,N,,UNDERGROUND,Material,30,Monster Manual,1
+CELESTIAL LION,4,Small,"magical beast(AUGMENTED,extraplanar)",5,AG,,Any,Celestia,31,Monster Manual,1
+CENTAUR,3,Large,MOUNSTROUS HUMANOID,4,NG,TEMPERATE,FORESTS,MATERIAL,32,Monster Manual,1
+Chaos Beast,7,Medium,"outsider(chaotic, extraplanar)",8,CN,,Any,Limbo,33,Monster Manual,1
+Chimera,7,Large,magical beast,9,CE,Temperate,Hills,Material,34,Monster Manual,1
+CHOKER,2,Small,ABERRATION,3,CE,,UNDERGROUND,MATRIAL,34,Monster Manual,1
+Chuul,7,Large,aberration(aquatic),11,CE,Temperate,Marshes,Material,35,Monster Manual,1
+Cloaker,5,Large,aberration,6,CN,,Underground,Material,36,Monster Manual,1
+Cockatrice,3,Small,magical beast,5,N,Temperate,Plains,Material,37,Monster Manual,1
+Couatl,10,Large,outsider(native),9,LG,Warm,Forests,Material,37,Monster Manual,1
+Darkmantle,1,Small,magical beast,1,N,,Underground,Material,38,Monster Manual,1
+Delver,9,Huge,aberration,15,N,,Underground,Material,39,Monster Manual,1
+Demon: Babau,6,Medium,"outsider(chaotic, evil, extraplanar)",7,CE,,Any,Abyss,40,Monster Manual,1
+Demon: Balor,20,Large,"outsider(chaotic, evil, extraplanar)",20,CE,,Any,Abyss,40,Monster Manual,1
+Demon: Bebilith,10,Huge,"outsider(chaotic, evil, extraplanar)",12,CE,,Any,Abyss,42,Monster Manual,1
+Demon: Dretch,2,Small,"outsider(chaotic, evil, extraplanar)",2,CE,,Any,Abyss,42,Monster Manual,1
+Demon: Glabrezu,13,Huge,"outsider(chaotic, evil, extraplanar)",12,CE,,Any,Abyss,42,Monster Manual,1
+Demon: Hezrou,11,Large,"outsider(chaotic, evil, extraplanar)",10,CE,,Any,Abyss,44,Monster Manual,1
+Demon: Marilith,17,Large,"outsider(chaotic, evil, extraplanar)",16,CE,,Any,Abyss,44,Monster Manual,1
+Demon: Nalfeshnee,14,Huge,"outsider(chaotic, evil, extraplanar)",14,CE,,Any,Abyss,45,Monster Manual,1
+Demon: Quasit,2,Tiny,"outsider(chaotic, evil, extraplanar)",3,CE,,Any,Abyss,46,Monster Manual,1
+Retriever,11,Huge,construct(extraplanar),10,CE,,Any,Abyss,46,Monster Manual,1
+Demon: Succubus,7,Medium,"outsider(chaotic, evil, extraplanar)",6,CE,,Any,Abyss,47,Monster Manual,1
+Demon: Vrock,9,Large,"outsider(chaotic, evil, extraplanar)",10,CE,,Any,Abyss,48,Monster Manual,1
+Derro,3,Small,monstrous humanoid,3,CE,,Underground,Material,49,Monster Manual,1
+Destrachan,8,Large,aberration,8,NE,,Underground,Material,49,Monster Manual,1
+Devil: Barbed Devil (hamatula),11,Medium,"outsider(evil, extraplanar, lawful)",12,LE,,Any,Baator (Nine Hells),51,Monster Manual,1
+Devil: Bearded Devil (barbazu),5,Medium,"outsider(evil, extraplanar, lawful)",6,LE,,Any,Baator (Nine Hells),52,Monster Manual,1
+Devil: Bone Devil (osyluth),9,Large,"outsider(evil, extraplanar, lawful)",10,LE,,Any,Baator (Nine Hells),52,Monster Manual,1
+Devil: Chain Devil (kyton),6,Medium,"outsider(evil, extraplanar, lawful)",8,LE,,Any,Baator (Nine Hells),53,Monster Manual,1
+Devil: Erinyes,8,Medium,"outsider(evil, extraplanar, lawful)",9,LE,,Any,Baator (Nine Hells),54,Monster Manual,1
+Devil: Hellcat (bezekira),7,Large,"outsider(evil, extraplanar, lawful)",8,LE,,Any,Baator (Nine Hells),54,Monster Manual,1
+Devil: Horned Devil (cornugon),16,Large,"outsider(evil, extraplanar, lawful)",15,LE,,Any,Baator (Nine Hells),55,Monster Manual,1
+Devil: Ice Devil (gelugon),13,Large,"outsider(evil, extraplanar, lawful)",14,LE,,Any,Baator (Nine Hells),56,Monster Manual,1
+Devil: Imp,2,Tiny,"outsider(evil, extraplanar, lawful)",3,LE,,Any,Baator (Nine Hells),56,Monster Manual,1
+Devil: Lemure,1,Medium,"outsider(evil, extraplanar, lawful)",2,LE,,Any,Baator (Nine Hells),57,Monster Manual,1
+Devil: Pit Fiend,20,Large,"outsider(evil, extraplanar, lawful)",18,LE,,Any,Baator (Nine Hells),57,Monster Manual,1
+Devourer,11,Large,undead(extraplanar),12,NE,,Any,Any Evil,58,Monster Manual,1
+Digester,6,Medium,magical beast,8,N,Warm,Forests,Material,58,Monster Manual,1
+"Dinosaur, Deinonychus",3,Medium,animal,4,N,Warm,Forests,Material,60,Monster Manual,1
+"Dinosaur, Elasmosaurus",7,Huge,animal,10,N,Warm,Aquatic,Material,60,Monster Manual,1
+"Dinosaur, Megaraptor",6,Large,animal,8,N,Warm,Forests,Material,60,Monster Manual,1
+"Dinosaur, Triceratops",9,Huge,animal,16,N,Temperate, Plains,Material,61,Monster Manual,1
+"Dinosaur, Tyrannosaurus",8,Huge,animal,18,N,Warm,Plains,Material,61,Monster Manual,1
+Dire Ape,3,Large,animal,5,N,Warm,Forests,Material,62,Monster Manual,1
+Dire Badger,2,Medium,animal,3,N,Temperate,Forests,Material,62,Monster Manual,1
+Dire Bat,2,Large,animal,4,N,Temperate,Deserts,Material,62,Monster Manual,1
+Dire Bear,7,Large,animal,12,N,Cold,Forests,Material,63,Monster Manual,1
+Dire Boar,4,Large,animal,7,N,Temperate,Forests,Material,63,Monster Manual,1
+Dire Lion,5,Large,animal,8,N,Warm,Plains,Material,63,Monster Manual,1
+Dire Rat,1/3,Small,animal,1,N,,Any,Material,64,Monster Manual,1
+Dire Shark,9,Huge,animal(aquatic),18,N,Cold,Aquatic,Material,64,Monster Manual,1
+Dire Tiger,8,Large,animal,16,N,Warm,Forests,Material,65,Monster Manual,1
+Dire Weasel,2,Medium,animal,3,N,Temperate,Hills,Material,65,Monster Manual,1
+Dire Wolf,3,Large,animal,6,N,Temperate,Forests,Material,65,Monster Manual,1
+Dire Wolverine,4,Large,animal,5,N,Cold,Forests,Material,66,Monster Manual,1
+Displacer Beast,4,Large,magical beast,6,LE,Temperate,Hills,Material,66,Monster Manual,1
+Displacer Beast Pack Lord,12,Huge,magical beast,18,LE,Cold,Hills,Material,66,Monster Manual,1
+Doppelganger,3,Medium,monstrous humanoid(shapechanger),4,N,,Any,Material,66,Monster Manual,1
+Aboleth,7,Huge,aberration(aquatic),8,LE,,Underground,Material,8,Monster Manual,1
+"Aboleth Mage, 10th-level Wizard",17,Huge,aberration(aquatic),18,LE,,Underground,Material,8,Monster Manual,1
+Dragon Turtle,9,Huge,dragon(aquatic),12,N,Temperate,Aquatic,Material,88,Monster Manual,1
+Dragonne,7,Large,magical beast,9,N,Temperate,Deserts,Material,89,Monster Manual,1
+Drider,7,Large,aberration,6,CE,,Underground,Material,89,Monster Manual,1
+Achaierai,5,Large,"outsider(evil, extraplanar, lawful)",6,LE,,Any,Any Lawful,9,Monster Manual,1
+Dryad,3,Medium,fey,4,CG,Temperate,Forests,Material,90,Monster Manual,1
+"DWARF, 1T-LEVEL WARRIOR",1/2,Medium,HUMANOID (DWARF),1,LG LN N,TEMPARETE,MOUNTAIN/ UNDERGROUND,Material,91,Monster Manual,1
+"DUERGAR, 1ST- LEVEL WARIOR",1,Medium,HUMANOID (DWARF),1,LE,,UNDERGROUND,MATERIAL,91,Monster Manual,1
+"Eagle, Giant",3,Large,magical beast,4,NG,Temperate,Mountains,Material,93,Monster Manual,1
+Eladrin: Bralani,6,Medium,"outsider(chaotic, extraplanar, good)",6,CG,,Any,Arborea,93,Monster Manual,1
+Eladrin: Ghaele,13,Medium,"outsider(chaotic, extraplanar, good)",10,CG,,Any,Arborea,94,Monster Manual,1
+"Elemental, Air, Elder",11,Huge,"elemental(air, extraplanar)",24,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Air, Greater",9,Huge,"elemental(air, extraplanar)",21,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Air, Huge",7,Huge,"elemental(air, extraplanar)",16,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Air, Large",5,Large,"elemental(air, extraplanar)",8,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Air, Medium",3,Medium,"elemental(air, extraplanar)",4,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Air, Small",1,Small,"elemental(air, extraplanar)",2,N,,Any,Elemental Air,96,Monster Manual,1
+"Elemental, Earth, Elder",11,Huge,"elemental(earth, extraplanar)",24,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Earth, Greater",9,Huge,"elemental(earth, extraplanar)",21,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Earth, Huge",7,Huge,"elemental(earth, extraplanar)",16,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Earth, Large",5,Large,"elemental(earth, extraplanar)",8,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Earth, Medium",3,Medium,"elemental(earth, extraplanar)",4,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Earth, Small",1,Small,"elemental(earth, extraplanar)",2,N,,Any,Elemental Earth,97,Monster Manual,1
+"Elemental, Fire, Elder",11,Huge,"elemental(extraplanar, fire)",24,N,,Any,Elemental Fire,99,Monster Manual,1
+"Elemental, Fire, Greater",9,Huge,"elemental(extraplanar, fire)",21,N,,Any,Elemental Fire,99,Monster Manual,1
+"Elemental, Fire, Huge",7,Huge,"elemental(extraplanar, fire)",16,N,,Any,Elemental Fire,99,Monster Manual,1
+"Elemental, Fire, Large",5,Large,"elemental(extraplanar, fire)",8,N,,Any,Elemental Fire,99,Monster Manual,1
+"Elemental, Fire, Medium",3,Medium,"elemental(extraplanar, fire)",4,N,,Any,Elemental Fire,99,Monster Manual,1
+"Elemental, Fire, Small",1,Small,"elemental(extraplanar, fire)",2,N,,Any,Elemental Fire,99,Monster Manual,1
+HALF-ELF,1/2,Medium,HUMANOID (ELF),1,CG,TEMPERATE, FOREST,Material,102,Monster Manual,1
+AQUATIC ELF,1/2,Medium,HUMANOID (ELF),1,CG,Temperate,Aquatic,Material,102,Monster Manual,1
+GRAY ELF,1/2,Medium,HUMANOID (ELF),1,CG,Temperate,Mountains,Material,102,Monster Manual,1
+WILD ELF,1/2,Medium,HUMANOID (ELF),1,CG,WARM,FOREST,Material,102,Monster Manual,1
+WOOD ELF,1/2,Medium,HUMANOID (ELF),1,N,TEMPERATE,FOREST,Material,102,Monster Manual,1
+"ELF, 1ST-LEVEL WARRIOR",1/2,Medium,HUMANOID (ELF),1,CG,TEMPERATE,FOREST,Material,102,Monster Manual,1
+"Abeil, Queen",12,Medium,monstrous humanoid,14,L,Temperate/Warm,Deserts/Hills/Plains,Material,22,Monster Manual II,1
+"Abeil, Soldier",6,Large,monstrous humanoid,6,L,Temperate/Warm,Deserts/Hills/Plains,Material,22,Monster Manual II,1
+"Abeil, Vassal",2,Medium,monstrous humanoid,1,L,Temperate/Warm,Deserts/Hills/Plains,Material,22,Monster Manual II,1
+Ash Rat,1,Small,magical beast(fire),1,CN,Warm,ANY,Material,23,Monster Manual II,1
+Asperi,4,Large,magical beast(cold),4,NG,,Mountains,Material,25,Monster Manual II,1
+"Automaton, Hammerer",3,Medium,construct,5,N,,Any/Underground,Material,27,Monster Manual II,1
+"Automaton, Pulverizer",3,Medium,construct,3,N,,Any/Underground,Material,27,Monster Manual II,1
+Avolakia,10,Large,aberration,10,NE,,Underground,Material,28,Monster Manual II,1
+Banshee,17,Medium,undead(incorporeal),26,NE,,Any/Underground,Material,30,Monster Manual II,1
+Bladeling,1,Medium,outsider(lawful),1,"LN, LE",,Any,Material,31,Monster Manual II,1
+Blood Ape,6,Large,magical beast,4,N,Warm,Forests/Mountains,Material,32,Monster Manual II,1
+BOOGLE,3,Small,MOUNSTROUS HUMANOID,4,CN,,ANY/UNDERGROUND,Material,33,Monster Manual II,1
+Bogun,1,Tiny,construct,2,N,,Any,Material,34,Monster Manual II,1
+Bone Ooze,21,Gargantuan,ooze,20,N,,Underground,Material,36,Monster Manual II,1
+Braxat,9,Large,monstrous humanoid,10,NE,,Deserts/Mountains,Material,37,Monster Manual II,1
+Breathdrinker,7,Medium,"elemental(air, evil)",8,CE,Temperate,ANY/Underground,Material,39,Monster Manual II,1
+Bronze Serpent,10,Huge,construct,16,N,,Any/Underground,Material,40,Monster Manual II,1
+Catoblepas,6,Huge,aberration,6,N,,Marshes,Material,41,Monster Manual II,1
+CELESTIAL: CERVIDAL,3,Medium,OUTSIDER (GOOD),4,NG,,FOREST,ELYSIUM,43,Monster Manual II,1
+CELESTIAL: LUPINAL,5,Medium,OUTSIDER (GOOD),8,NG,,FOREST/PLAINS/HILLS,ELYSIUM,43,Monster Manual II,1
+Chaond,1,Medium,outsider(native),1,C,,Any/Underground,Material,169,Monster Manual II,1
+CLOAKED APE,2,Medium,MAGICAL BEAST,4,N,WARM,FORESTS,Material,46,Monster Manual II,1
+Clockwork Horror: Adamantine Horror,9,Small,construct,16,LE,,Any/Underground,Material,47,Monster Manual II,1
+Clockwork Horror: ELECTRUM HORROR,4,Small,construct,4,LE,,Any/Underground,Material,47,Monster Manual II,1
+Clockwork Horror: Gold Horror,5,Small,construct,8,LE,,Any/Underground,Material,47,Monster Manual II,1
+Clockwork Horror: Platinum Horror,7,Small,construct,12,LE,,Any/Underground,Material,47,Monster Manual II,1
+Cloud Ray,16,Colossal,magical beast,30,N,Temperate/Warm,Deserts/Hills/Marshes/Plains,Material,49,Monster Manual II,1
+Corollax,1/2,Tiny,magical beast,1,N,Warm,Forests,Material,50,Monster Manual II,1
+Corpse Gatherer,19,Gargantuan,undead,30,N,,Any/Underground,Material,51,Monster Manual II,1
+Crimson Death,11,Medium,undead(incorporeal),13,NE,,Marshes,Material,53,Monster Manual II,1
+Darktentacles,7,Large,aberration,9,CE,,Marshes,Material,54,Monster Manual II,1
+Deathbringer,17,Large,undead,30,NE,,Any/Underground,Material,55,Monster Manual II,1
+Demon: Abyssal Maw,2,Medium,"outsider(chaotic, evil, extraplanar)",2,CE,,Any/Underground,Abyss,57,Monster Manual II,1
+Demon: Abyssal Ravager,5,Large,"outsider(chaotic, evil)",3,CE,,Any/Underground,Abyss,57,Monster Manual II,1
+Demon: Abyssal Skulker,2,Small,"outsider(chaotic, evil)",2,CE,,Any/Underground,Abyss,57,Monster Manual II,1
+Demon: Jarilith (tanar'ri),13,Large,"outsider(chaotic, evil)",10,CE,,Any/Underground,Abyss,60,Monster Manual II,1
+Demon: Jovoc (tanar'ri),5,Small,"outsider(chaotic, evil)",4,CE,,Any/Underground,Abyss,58,Monster Manual II,1
+Demon: Kelvezu (tanar'ri),18,Medium,"outsider(chaotic, evil)",12,CE,,Any/Underground,Abyss,60,Monster Manual II,1
+Demon: Palrethee (tanar'ri),8,Medium,"outsider(chaotic, evil, fire)",8,CE,,Any/Underground,Abyss,58,Monster Manual II,1
+Demon: Zovvut,9,Medium,"outsider(chaotic, evil)",10,CE,,Any/Underground,Abyss,58,Monster Manual II,1
+Desmodu,9,Large,monstrous humanoid,12,NG,,Underground,Material,62,Monster Manual II,1
+"Desmodu Bat, Guard",3,Large,animal,4,N,,Underground,Material,66,Monster Manual II,1
+"Desmodu Bat, Hunting",3,Medium,animal,4,N,,Underground,Material,66,Monster Manual II,1
+"Desmodu Bat, War",5,Huge,animal,10,N,,Underground,Material,66,Monster Manual II,1
+Devil: Advespa (baatezu),3,Large,"outsider(evil, lawful)",4,LE,,Any/Underground,Baator (Nine Hells),67,Monster Manual II,1
+Devil: Amnizu (baatezu),7,Medium,"outsider(evil, lawful)",9,LE,,Any/Underground,Baator (Nine Hells),67,Monster Manual II,1
+Devil: Malebranche (baatezu),9,Huge,"outsider(evil, lawful)",16,LE,,Any/Underground,Baator (Nine Hells),67,Monster Manual II,1
+Dinosaur: Allosaurus,7,Huge,animal,10,N,Warm,Forests/Hills/Marshes/Plains,Material,70,Monster Manual II,1
+Dinosaur: Ankylosaurus,7,Huge,animal,9,N,Warm,Forests/Hills/Marshes/Plains,Material,70,Monster Manual II,1
+Dinosaur: Cryptoclidus,3,Large,animal(aquatic),3,N,Warm,Aquatic,Material,70,Monster Manual II,1
+Dinosaur: Quetzalcoatlus,8,Huge,animal,10,N,Warm, Forests/Hills/Mountains,Material,72,Monster Manual II,1
+Dinosaur: Seismosaurus,12,Colossal,animal,32,N,Warm,Forests/Hills/Marshes/Plains,Material,72,Monster Manual II,1
+Dinosaur: Spinosaurus,13,Gargantuan,animal,20,N,Warm,Forests/Hills/Marshes/Plains,Material,72,Monster Manual II,1
+Dire Elephant,10,Gargantuan,animal,20,N,Warm,Forests/Plains,Material,75,Monster Manual II,1
+Dire Elk,7,Huge,animal,12,N,Cold/Temperate,Forests/Hills/Mountains,Material,75,Monster Manual II,1
+Dire Hawk,2,Medium,animal,5,N,,Aquatic/Forests/Hills/Plains/Underground,Material,76,Monster Manual II,1
+Dire Horse,4,Large,animal,8,N,,Any,Material,75,Monster Manual II,1
+Dire Snake,5,Huge,animal,7,N,Temperate/Warm,Aquatic/ANY/Underground,Material,76,Monster Manual II,1
+Dire Toad,3,Medium,animal,4,N,Temperate/Warm,Aquatic/Land/Underground,Material,76,Monster Manual II,1
+Dread Guard,2,Medium,construct,5,N,,Any/Underground,Material,87,Monster Manual II,1
+Dune Stalker,9,Medium,"outsider(earth, evil)",6,NE,,Deserts/Underground,Material,88,Monster Manual II,1
+Effigy,17,Medium,"undead(fire, incorporeal)",27,CE,,Any/Underground,Material,89,Monster Manual II,1
+Ether Scarab,1,Tiny,outsider(extraplanar),1,N,,Any/Underground,Ethereal,94,Monster Manual II,1
+Ethereal Doppelganger,15,Medium,"magical beast(extraplanar, shapechanger)",20,LE,,Any/Underground,Ethereal,94,Monster Manual II,1
+Ethereal Slayer,12,Medium,"outsider(chaotic, evil, extraplanar)",16,CE,,Any,Ethereal,96,Monster Manual II,1
+Famine Spirit,19,Medium,undead,32,NE,,Any/Underground,Material,96,Monster Manual II,1
+"Felldrake, Crested",1,Small,dragon,2,NG,,Any/Underground,Material,98,Monster Manual II,1
+"Felldrake, Horned",3,Medium,dragon,4,NG,,Any/Underground,Material,98,Monster Manual II,1
+"Felldrake, Spitting",2,Medium,dragon,3,NG,Temperate,Forests/Hills/Plains/Underground,Material,98,Monster Manual II,1
+Fiendwurm,28,Gargantuan,magical beast,24,CE,,Deserts/Plains/Underground,Material,99,Monster Manual II,1
+Fihyr,3,Small,aberration,4,CE,,Any,Material,100,Monster Manual II,1
+"Fihyr, Great",15,Medium,aberration,16,CE,,Any,Material,100,Monster Manual II,1
+Firbolg,12,Large,giant,13,N,Temperate,Forests/Hills,Material,101,Monster Manual II,1
+Fire Bat,3,Small,"elemental(extraplanar, fire)",6,NE,,Any,Elemental Fire,102,Monster Manual II,1
+Flesh Jelly,19,Gargantuan,ooze,18,N,Warm,Forests/Marshes/Plains,Material,104,Monster Manual II,1
+Fomorian,11,Huge,giant,15,NE,,Mountains/Underground,Material,105,Monster Manual II,1
+Forest Sloth,11,Large,animal,14,N,Warm,Forests,Material,106,Monster Manual II,1
+Frost Salamander,7,Medium,magical beast(cold),12,CE,Cold,Any,Material,107,Monster Manual II,1
+Galeb Duhr,9,Medium,elemental(earth),8,N,,Mountains,Material,107,Monster Manual II,1
+Gambol,5,Large,magical beast,8,CN,Warm,Forests,Material,108,Monster Manual II,1
+"Giant, Forest",11,Huge,giant,13,N,,Forests,Material,110,Monster Manual II,1
+"Giant, Mountain",26,Colossal,giant(earth),30,C,,Mountains,Material,112,Monster Manual II,1
+"Giant, Ocean",19,Huge,"giant(aquatic, cold)",18,G,,Any Aquatic,Material,112,Monster Manual II,1
+"Giant, Sun",12,Huge,giant(fire),13,N,Temperate/Warm,Deserts,Material,110,Monster Manual II,1
+Glimmerskin,8,Medium,outsider(incorporeal),12,N,,Any/Underground,Positive Energy,114,Monster Manual II,1
+"Golem, Brass",10,Large,construct,16,N,,Any/Underground,Material,116,Monster Manual II,1
+"Golem, Chain",5,Medium,construct,7,N,,Any/Underground,Material,44,Monster Manual II,1
+"Golem, Dragonflesh",13,Large,construct,30,N,,Any/Underground,Material,116,Monster Manual II,1
+"Golem, Stained Glass",5,Medium,construct,12,N,,Any/Underground,Material,116,Monster Manual II,1
+Gravecrawler,16,Small,undead(earth),25,N,,Any/Underground,Material,118,Monster Manual II,1
+Gravorg,8,Large,magical beast,10,N,,Any Underground,Material,119,Monster Manual II,1
+Greenvise,10,Huge,plant,12,N,Temperate/Warm,Hills/Marshes/Plains,Material,120,Monster Manual II,1
+Grell,3,Medium,aberration,5,NE,,Any/Underground,Material,121,Monster Manual II,1
+Grimalkin,2,Medium,magical beast(shapechanger),4,N,Temperate,Plains,Material,122,Monster Manual II,1
+Grizzly Mastodon,13,Huge,animal,15,N,Cold/Temperate,Forests/Hills,Material,123,Monster Manual II,1
+"Half-fiend, Durzagon",4,Medium,"outsider(evil, lawful, native)",5,LE,,Underground,Material,124,Monster Manual II,1
+Hellfire Wyrm,26,Huge,dragon(fire),23,LE,,Any/Underground,Material,125,Monster Manual II,1
+Hook Horror,6,Large,aberration,10,N,,Underground,Material,126,Monster Manual II,1
+Immoth,9,Large,"elemental(air, cold, extraplanar, water)",10,N,Cold,Any,"Elemental Air, Elemental Water",127,Monster Manual II,1
+"Ixitxachitl, Average",1,Small,aberration(aquatic),1,CE,Warm,Aquatic,Material,129,Monster Manual II,1
+"Ixitxachitl, Vampiric",3,Small,aberration(aquatic),2,CE,Warm,Aquatic,Material,129,Monster Manual II,1
+Jahi,16,Tiny,undead(incorporeal),25,LE,,Any/Underground,Material,130,Monster Manual II,1
+Jermlaine,1/2,Tiny,fey,1/2,NE,,Underground,Material,131,Monster Manual II,1
+Juggernaut,11,Huge,construct,18,N,,Any,Material,132,Monster Manual II,1
+Julajimus,12,Huge,aberration,16,NE,Temperate,Forests,Material,133,Monster Manual II,1
+Kopru,6,Medium,monstrous humanoid(aquatic),8,CE,Warm,Aquatic/Marshes,Material,134,Monster Manual II,1
+Leechwalker,10,Medium,vermin,13,N,,Marshes/Underground,Material,135,Monster Manual II,1
+Legendary Ape,7,Medium,animal,13,N,,Warm Forests/Mountains/Underground,Material,137,Monster Manual II,1
+Legendary Bear,9,Large,animal,20,N,,Forests/Hills/Mountains/Plains/Underground,Material,138,Monster Manual II,1
+Legendary Eagle,6,Small,animal,12,N,,Forests/Hills/Mountains/Plains,Material,137,Monster Manual II,1
+Legendary Horse,8,Large,animal,18,N,,Any,Material,138,Monster Manual II,1
+Legendary Shark,10,Huge,animal(aquatic),30,N,,Aquatic,Material,138,Monster Manual II,1
+Legendary Snake,8,Large,animal,16,N,Temperate/Warm, Aquatic/Land/Underground,Material,138,Monster Manual II,1
+Legendary Tiger,10,Large,animal,26,N,,Forests/Hills/Mountains/Plains/Underground,Material,138,Monster Manual II,1
+Legendary Wolf,7,Medium,animal,14,N,,Forests/Hills/Mountains/Plains/Underground,Material,137,Monster Manual II,1
+Leviathan,25,Colossal,magical beast(aquatic),32,N,,Aquatic,Material,139,Monster Manual II,1
+"Linnorm, Corpse Tearer",28,Gargantuan,dragon,28,NE,,Any,Material,141,Monster Manual II,1
+"Linnorm, Dread",25,Colossal,dragon,20,CE,,Any,Material,141,Monster Manual II,1
+"Linnorm, Gray",20,Huge,dragon,13,CE,,Hills/Mountains,Material,141,Monster Manual II,1
+Loxo,2,Large,monstrous humanoid,5,N,Warm,Plains,Material,144,Monster Manual II,1
+Lupinal,5,Medium,outsider(good),8,NG,,Forests/Hills/Plains,Elysium,43,Monster Manual II,1
+Marrash,5,Medium,"outsider(evil, extraplanar, lawful)",7,LE,Warm,Deserts/Forests,Any Evil,145,Monster Manual II,1
+Meenlock,3,Tiny,aberration,4,LE,Temperate,Forests/Underground,Material,146,Monster Manual II,1
+Megalodon,11,Gargantuan,animal(aquatic),24,N,,Aquatic,Material,147,Monster Manual II,1
+Megapede,20,Colossal,vermin,32,N,Warm,Deserts,Material,148,Monster Manual II,1
+Moonbeast,16,Huge,aberration,18,CE,,Any /Underground,Material,149,Monster Manual II,1
+Mooncalf,10,Large,magical beast,15,NE,,Hills/Mountains,Material,150,Monster Manual II,1
+Moonrat,1/4,Tiny,magical beast,1/4,E,,Any/Underground,Material,151,Monster Manual II,1
+Morkoth,5,Medium,aberration(aquatic),7,CE,,Aquatic,Material,152,Monster Manual II,1
+Mudmaw,7,Large,magical beast,8,N,Warm,Marshes,Material,153,Monster Manual II,1
+Myconid Average Worker,1,Small,plant,2,LN,,Underground,Material,155,Monster Manual II,1
+Myconid Circle Leader,6,Large,plant,5,LN,,Underground,Material,156,Monster Manual II,1
+Myconid Elder Worker,2,Medium,plant,3,LN,,Underground,Material,155,Monster Manual II,1
+Myconid Guard,4,Medium,plant,4,LN,,Underground,Material,156,Monster Manual II,1
+Myconid Junior Worker,1/2,Tiny,plant,1,LN,,Underground,Material,155,Monster Manual II,1
+Myconid Sovereign,7,Large,plant,6,LN,,Underground,Material,156,Monster Manual II,1
+Naga: Bone Naga,11,Large,undead,15,LE,Temperate/Warm,Any /Underground,Material,35,Monster Manual II,1
+Needlefolk,2,Medium,plant,3,N,,Forests,Material,158,Monster Manual II,1
+Neogi Spawn,1/4,Tiny,aberration,1/4,LE,Temperate/Warm, Any /Underground,Material,159,Monster Manual II,1
+"Neogi, Adult",4,Small,aberration,5,LE,Temperate/Warm,Any /Underground,Material,159,Monster Manual II,1
+"Neogi, Great Old Master",6,Huge,vermin,5,N,Temperate/Warm,Any /Underground,Material,159,Monster Manual II,1
+Nethersight Mastiff,8,Large,magical beast,10,N,Cold/Temperate,Any,Material,160,Monster Manual II,1
+Nightmare Beast,15,Huge,magical beast,15,CE,,Any,Material,161,Monster Manual II,1
+Nimblewright,7,Medium,construct,10,C,,Any/Underground,Material,162,Monster Manual II,1
+Ocean Strider,18,Huge,fey(aquatic),30,CN,,Aquatic,Material,163,Monster Manual II,1
+Orcwort,20,Colossal,plant,32,N,Temperate/Warm,Hills/Marshes/Plains,Material,165,Monster Manual II,1
+Ormyrr,6,Huge,monstrous humanoid,7,LN,Temperate/Warm,Aquatic,Material,167,Monster Manual II,1
+Phase Wasp,2,Tiny,magical beast,2,N,Temperate/Warm,Any,Material,168,Monster Manual II,1
+Phoenix,24,Large,magical beast,20,NG,,Any,Material,168,Monster Manual II,1
+"Psurlon, Average",5,Medium,aberration,7,LE,,Underground,Material,172,Monster Manual II,1
+"Psurlon, Elder",9,Medium,aberration,12,LE,,Underground,Material,172,Monster Manual II,1
+"Psurlon, Giant",15,Large,aberration,18,NE,,Underground,Material,172,Monster Manual II,1
+Ragewind,19,Large,undead,31,CE,,Any/Underground,Material,173,Monster Manual II,1
+"Raggamoffyn, Common",3,Medium,construct,3,N,,Any,Material,175,Monster Manual II,1
+Raggamoffyn: Guttersnipe,5,Medium,construct,8,N,,Any,Material,175,Monster Manual II,1
+Raggamoffyn: Shrapnyl,7,Large,construct,12,N,,Any,Material,175,Monster Manual II,1
+Raggamoffyn: Tatterdemanimal,1,Small,construct,1,CN,,Any,Material,175,Monster Manual II,1
+Rampager,12,Large,magical beast,14,CE,Temperate/Warm,Deserts/Hills/Plains,Material,177,Monster Manual II,1
+Reason Stealer,5,Medium,ooze,5,N,,Underground,Material,178,Monster Manual II,1
+Red Sundew,13,Huge,plant,15,N,Temperate/Warm,Forests,Material,179,Monster Manual II,1
+"Roc, Chaos",22,Colossal,magical beast,33,CN,Temperate/Warm,Mountains,Material,45,Monster Manual II,1
+Rogue Eidolon,9,Large,construct,9,CN,,Any,Material,180,Monster Manual II,1
+Rukarazyll,14,Large,"outsider(earth, evil)",12,CE,,Any,Material,181,Monster Manual II,1
+Runic Guardian,10,Large,construct,17,N,,Any/Underground,Material,182,Monster Manual II,1
+Shadow Spider,12,Huge,magical beast,13,N,,Underground,Material,184,Monster Manual II,1
+Sirine,5,Medium,fey(aquatic),4,CN,Temperate/Warm,Aquatic,Material,185,Monster Manual II,1
+Spawn Of Kyuss,5,Medium,undead,4,CE,,Any/Underground,Material,186,Monster Manual II,1
+Spell Weaver,10,Medium,monstrous humanoid,10,N,,Any,Material,187,Monster Manual II,1
+Spellgaunt,12,Large,magical beast,16,N,,Forests/Mountains/Underground,Material,188,Monster Manual II,1
+Spirit Of The Land,23,Huge,fey(incorporeal),20,N,,Any,Material,189,Monster Manual II,1
+Stone Spike,2,Medium,elemental(earth),3,N,,Any/Underground,Material,191,Monster Manual II,1
+Swamplight Lynx,7,Large,magical beast,10,N,,Marshes,Material,191,Monster Manual II,1
+Sylph,5,Small,outsider(air),3,N,Temperate/Warm,Mountains,Material,192,Monster Manual II,1
+Tempest,16,Gargantuan,"elemental(air, earth, fire, water)",24,CN,,Any,Material,193,Monster Manual II,1
+Teratomorph,16,Gargantuan,ooze,28,N,,Aquatic/Underground,Material,194,Monster Manual II,1
+Thri-kreen,1,Medium,monstrous humanoid,2,CN,Temperate/Warm,Deserts,Material,195,Monster Manual II,1
+Twig Blight,1/3,Small,plant,1,CE,Temperate,ANY/Underground,Material,197,Monster Manual II,1
+Vaporighu,9,Medium,outsider(evil),10,NE,,ANY/Underground,Material,197,Monster Manual II,1
+"Weird, Air",12,Large,"elemental(air, extraplanar)",15,N,,ANY/Underground,Elemental Air,91,Monster Manual II,1
+"Weird, Earth",12,Large,"elemental(earth, extraplanar)",15,N,,ANY/Underground,Elemental Earth,91,Monster Manual II,1
+"Weird, Fire",12,Large,"elemental(extraplanar, fire)",15,N,,ANY/Underground,Elemental Fire,91,Monster Manual II,1
+"Weird, Water",12,Large,"elemental(extraplanar, water)",15,N,,ANY/Underground,Elemental Water,91,Monster Manual II,1
+Windghost,15,Huge,aberration,18,L,Temperate/Warm,Any,Material,198,Monster Manual II,1
+Wortling,3,Small,plant,3,N,Temperate/Warm,Hills/Marshes/Plains,Material,165,Monster Manual II,1
+Wyste,5,Huge,aberration,5,N,,Underground,Material,200,Monster Manual II,1
+Yak Folk,4,Large,monstrous humanoid,5,NE,,Mountains,Material,200,Monster Manual II,1
+Yugoloth: Arcanaloth,17,Medium,"outsider(evil, extraplanar)",12,NE,,Any/Underground,Gehenna,203,Monster Manual II,1
+Yugoloth: Marraenoloth,10,Medium,"outsider(evil, extraplanar)",10,NE,,Aquatic,Gehenna,203,Monster Manual II,1
+Yugoloth: Yagnoloth,10,Large,"outsider(evil, extraplanar)",10,NE,,Any/Underground,Gehenna,203,Monster Manual II,1
+Zenythri,1,Medium,outsider(native),1,L,,Any/Underground,Material,169,Monster Manual II,1
+Armand,3,Small,monstrous humanoid,5,LN,Temperate,Deserts,Material,10,Monster Manual III,1
+Lurking Strangler,2,Tiny,aberration,2,LE,,Underground,Material,100,Monster Manual III,1
+Mastodon,9,Huge,animal,15,N,Temperate,Forests,Material,101,Monster Manual III,1
+Mindshredder Larva,1,Small,aberration,2,LE,,Underground,Material,102,Monster Manual III,1
+Mindshredder Warrior,4,Large,aberration,7,LE,,Underground,Material,103,Monster Manual III,1
+Mindshredder Zenthal,8,Medium,aberration,13,LE,,Underground,Material,104,Monster Manual III,1
+Mivilorn,11,Huge,"magical beast(chaotic, extraplanar)",24,CN,,Any,Pandemonium,107,Monster Manual III,1
+Mivilorn Elite Demon War Mount,16,Huge,"magical beast(chaotic, extraplanar)",30,CN,,Any,Pandemonium,107,Monster Manual III,1
+Necronaut,14,Gargantuan,"undead(chaotic, evil, extraplanar)",32,CE,,Any,Abyss,108,Monster Manual III,1
+Needletooth Swarm,6,Tiny,animal(swarm),11,N,Warm,Forests,Material,109,Monster Manual III,1
+"Armand Warden, 4th-level Monk",7,Small,monstrous humanoid,9,LN,Temperate,Deserts,Material,11,Monster Manual III,1
+Night Twist,12,Large,plant,15,NE,Temperate, Marshes,Material,110,Monster Manual III,1
+"Night Twist, Ancient",20,Huge,plant,25,NE,Temperate, Marshes,Material,111,Monster Manual III,1
+Nycter,2,Small,monstrous humanoid,3,N,Temperate,Forests,Material,113,Monster Manual III,1
+"Nycter Defender Of The Cave, 5th-level Druid",7,Small,monstrous humanoid,8,N,Temperate,Forests,Material,113,Monster Manual III,1
+Odopi,14,Huge,"aberration(chaotic, evil, extraplanar)",20,CE,,Any,Carceri,114,Monster Manual III,1
+"Odopi, Elder",18,Gargantuan,"aberration(chaotic, evil, extraplanar)",30,CE,,Any,Carceri,115,Monster Manual III,1
+"Ogre, Skullcrusher",5,Large,giant,8,NE,Warm,Hills,Material,117,Monster Manual III,1
+"Ogre, Skullcrusher Sergeant, 3rd-level Fighter",8,Large,giant,11,NE,Warm,Hills,Material,117,Monster Manual III,1
+Omnimental,15,Gargantuan,"elemental(air, earth, extraplanar, fire, water)",32,N,,Any,Elemental Fire,118,Monster Manual III,1
+"Otyugh, Lifeleech",8,Large,aberration,9,NE,,Underground,Material,119,Monster Manual III,1
+Astral Stalker,12,Medium,outsider,12,LE,,Any,Astral,12,Monster Manual III,1
+Petal,1,Tiny,fey,1,NG,Temperate,Forests,Material,120,Monster Manual III,1
+Phoelarch,6,Medium,monstrous humanoid(fire),7,CG,Temperate,Forests,Material,121,Monster Manual III,1
+Plague Brush,17,Colossal,plant(extraplanar),31,N,,Any,Carceri,124,Monster Manual III,1
+Plague Spewer,10,Huge,undead,16,NE,,Underground,Material,125,Monster Manual III,1
+Protean Scourge,12,Medium,monstrous humanoid(shapechanger),13,NE,Temperate,Plains,Material,127,Monster Manual III,1
+"Protean Scourge Arcanist, 4th-level Sorcerer",16,Medium,monstrous humanoid(shapechanger),17,NE,Temperate, Plains,Material,127,Monster Manual III,1
+Quaraphon,5,Large,aberration,9,CN,Temperate, Plains,Material,129,Monster Manual III,1
+"Quaraphon Bully, 5th-level Barbarian",10,Large,aberration,14,CN,Temperate, Plains,Material,129,Monster Manual III,1
+Avalancher,5,Large,magical beast(earth),6,N,Cold,Mountains,Material,13,Monster Manual III,1
+Rage Drake,9,Large,dragon,14,CE,Cold,Forests,Material,131,Monster Manual III,1
+"Rage Drake, Fiendish",13,Large,dragon,21,CE,Cold,Forests,Material,131,Monster Manual III,1
+Ragewalker,14,Large,fey,22,NE,Temperate, Plains,Material,132,Monster Manual III,1
+"Rakshasa, Ak'chazar",15,Medium,outsider(native),17,LE,Temperate,Mountains,Material,134,Monster Manual III,1
+"Rakshasa, Naztharune",11,Medium,outsider(native),11,LE,Warm,Marshes,Material,136,Monster Manual III,1
+"Redcap, Elder",7,Small,fey,12,CE,Temperate,Hills,Material,139,Monster Manual III,1
+"Redcap, Young",2,Small,fey,4,CE,Temperate,Hills,Material,139,Monster Manual III,1
+Battlebriar,15,Huge,plant,25,N,Temperate,Forests,Material,14,Monster Manual III,1
+Rejkar,5,Large,outsider(cold),5,LE,,Any,Baator (Nine Hells),140,Monster Manual III,1
+"Roper, Prismatic",9,Large,aberration,9,N,,Underground,Material,141,Monster Manual III,1
+Rot Reaver,6,Medium,aberration,10,NE,,Any,Material,142,Monster Manual III,1
+"Rot Reaver, Necrothane",12,Medium,aberration,20,NE,,Any,Material,143,Monster Manual III,1
+Runehound,3,Medium,aberration,5,NE,Temperate,Marshes,Material,145,Monster Manual III,1
+"Mummy, Salt",8,Medium,undead,12,CE,,Underground,Material,146,Monster Manual III,1
+Sea Tiger,6,Huge,animal,10,N,,Aquatic,Material,147,Monster Manual III,1
+Seryulin,7,Large,aberration(aquatic),10,N,,Underground,Material,149,Monster Manual III,1
+"Seryulin, Greater",10,Huge,aberration(aquatic),21,N,,Underground,Material,149,Monster Manual III,1
+Warbound Impaler (Lesser Battlebriar),7,Large,plant,12,N,Temperate, Forests,Material,15,Monster Manual III,1
+"Shifter, 1st-level Warrior",1/2,Medium,humanoid(shapechanger),1,N,Temperate,Plains,Material,150,Monster Manual III,1
+Shimmerling Swarm,8,Fine,fey(swarm),11,CN,Temperate, Forests,Material,152,Monster Manual III,1
+Shredstorm,8,Fine,construct(swarm),14,N,,Any,Material,153,Monster Manual III,1
+Shrieking Terror: Five-headed Terror,10,Medium,aberration(extraplanar),15,NE,,Any,Carceri,155,Monster Manual III,1
+Shrieking Terror: Ten-headed Terror,13,Large,aberration(extraplanar),20,NE,,Any,Carceri,155,Monster Manual III,1
+Siege Crab,14,Gargantuan,vermin(aquatic),20,N,Warm,Aquatic,Material,157,Monster Manual III,1
+"Siege Crab, Greater",18,Colossal,vermin(aquatic),32,N,Warm,Aquatic,Material,157,Monster Manual III,1
+Skindancer,11,Large,monstrous humanoid,15,NE,,Underground,Material,158,Monster Manual III,1
+Slaughterstone Behemoth,15,Huge,construct(earth),29,N,,Underground,Material,159,Monster Manual III,1
+Bearhound,7,Large,magical beast,10,NG,Temperate,Forests,Material,16,Monster Manual III,1
+Slaughterstone Eviscerator,12,Large,construct(earth),15,N,,Underground,Material,160,Monster Manual III,1
+Snowflake Ooze,5,Medium,ooze(cold),6,N,Cold,Mountains,Material,161,Monster Manual III,1
+Splinterwaif,2,Medium,fey,2,NE,Temperate,Hills,Material,165,Monster Manual III,1
+Splinterwaif Knave,6,Medium,fey,6,NE,Temperate,Plains,Material,165,Monster Manual III,1
+Ssvaklor,10,Medium,dragon,15,CE,Temperate,Marshes,Material,166,Monster Manual III,1
+Stonesinger,7,Large,aberration(earth),9,NE,,Underground,Material,168,Monster Manual III,1
+Summoning Ooze,4,Medium,ooze,5,N,,Underground,Material,169,Monster Manual III,1
+Boneclaw,5,Large,undead,10,CE,,Any,Material,17,Monster Manual III,1
+Susurrus,7,Large,aberration,8,N,,Underground,Material,170,Monster Manual III,1
+Swamp Strider Swarm,5,Diminutive,vermin(swarm),9,N,Warm,Marshes,Material,171,Monster Manual III,1
+Thorn,4,Small,fey,6,NG,Temperate,Forests,Material,172,Monster Manual III,1
+"Topiary Guardian, Boar",3,Medium,plant,5,N,,Any,Material,174,Monster Manual III,1
+"Topiary Guardian, Lion",7,Large,plant,10,N,,Any,Material,174,Monster Manual III,1
+"Topiary Guardian, Triceratops",13,Huge,plant,20,N,,Any,Material,174,Monster Manual III,1
+Trilloch,8,Small,"outsider(chaotic, extraplanar, incorporeal)",8,CN,,Any,Negative Energy,176,Monster Manual III,1
+"Troll, Cave",8,Large,giant,9,CE,,Underground,Material,177,Monster Manual III,1
+"Troll, Crystalline",7,Large,giant,10,CN,Temperate,Mountains,Material,178,Monster Manual III,1
+"Troll, Forest",4,Medium,giant,5,CE,Temperate,Forests,Material,179,Monster Manual III,1
+Bonedrinker,6,Medium,undead,11,CE,,Any,Material,18,Monster Manual III,1
+"Troll, Mountain",10,Huge,giant,15,CE,,Mountains,Material,180,Monster Manual III,1
+"Troll, War",12,Large,monstrous humanoid,12,LE,,Any,Material,181,Monster Manual III,1
+Vasuthant,2,Small,undead,2,CE,,Any,Material,182,Monster Manual III,1
+"Vasuthant, Horrific",17,Huge,undead,25,CE,,Any,Material,183,Monster Manual III,1
+Vermin Lord,17,Large,monstrous humanoid,25,NE,,Underground,Material,184,Monster Manual III,1
+Visilight,5,Medium,outsider(lawful),5,LN,,Any,Mechanus,186,Monster Manual III,1
+Voidmind Grimlock,2,Medium,monstrous humanoid(AUGMENTED),2,LE,,Underground,Material,187,Monster Manual III,1
+"Warforged, 1st-level Warrior",1/2,Medium,construct(living),1,LN,,Any ,Material,190,Monster Manual III,1
+Warforged Charger,5,Large,construct(living),4,LN,,Any ,Material,191,Monster Manual III,1
+"Warforged Scout, 1st-level Warrior",1/2,Small,construct(living),1,LN,,Any ,Material,193,Monster Manual III,1
+Witchknife,4,Medium,monstrous humanoid,9,N,Warm,Deserts,Material,195,Monster Manual III,1
+"Witchknife Captain, 3rd-level Rogue",7,Medium,monstrous humanoid,12,N,Warm,Deserts,Material,195,Monster Manual III,1
+Wood Woad,4,Medium,plant,8,N,Temperate,Forests,Material,196,Monster Manual III,1
+"Autumn, 9th-level Woodling Human Druid",11,Medium,humanoid(AUGMENTED),9,NG,Warm,Forests,Material,197,Monster Manual III,1
+Brood Keeper,16,Huge,magical beast,22,N,Warm,Plains,Material,20,Monster Manual III,1
+"Yugoloth, Canoloth",5,Medium,"outsider(evil, extraplanar)",6,NE,,Any,Gehenna,200,Monster Manual III,1
+"Yugoloth, Mezzoloth",6,Medium,"outsider(evil, extraplanar)",10,NE,,Any,Gehenna,201,Monster Manual III,1
+"Yugoloth, Nycaloth",10,Large,"outsider(evil, extraplanar)",14,NE,,Any,Gehenna,203,Monster Manual III,1
+"Yugoloth, Nycaloth Commander",17,Huge,"outsider(evil, extraplanar)",25,NE,,Any,Gehenna,203,Monster Manual III,1
+"Yugoloth, Ultraloth",13,Medium,"outsider(evil, extraplanar)",18,NE,,Any,Gehenna,204,Monster Manual III,1
+Zezir,6,Medium,magical beast(fire),9,CE,Warm,Deserts,Material,205,Monster Manual III,1
+Brood Keeper Larva Swarm,12,Tiny,magical beast(swarm),22,N,Warm,Plains,Material,21,Monster Manual III,1
+Cadaver Collector,12,Large,construct,17,LN,,Any,Material,22,Monster Manual III,1
+"Cadaver Collector, greater",17,Huge,construct,35,LN,,Any,Material,23,Monster Manual III,1
+"Changeling, 1st-level Warrior",1/2,Medium,humanoid(shapechanger),1,N,,Any,Material,25,Monster Manual III,1
+Charnel Hound,13,Huge,undead,21,CE,Cold,Plains,Material,26,Monster Manual III,1
+Chelicera,6,Medium,vermin,12,N,Warm,Mountains,Material,27,Monster Manual III,1
+Chraal,6,Large,elemental(cold),9,NE,,Any,Elemental Water,29,Monster Manual III,1
+Cinder Swarm,13,Fine,"elemental(fire, swarm)",16,NE,,Any,Elemental Fire,30,Monster Manual III,1
+"Conflagration Ooze, Infernal",13,Huge,"ooze(evil, extraplanar, fire)",15,LE,,Any,Baator (Nine Hells),31,Monster Manual III,1
+Conflagration Ooze,7,Large,ooze(fire),7,CE,,Underground,Material,32,Monster Manual III,1
+Deathshrieker,15,Medium,undead(incorporeal),18,CE,,Any,Material,33,Monster Manual III,1
+"Deathshrieker, Advanced",19,Medium,undead(incorporeal),25,CE,,Any,Material,33,Monster Manual III,1
+Demon: Arrow Demon (Tanar'ri),7,Medium,"outsider(chaotic, evil, extraplanar)",10,CE,,Any,Abyss,34,Monster Manual III,1
+Demon: Sorrowsworn Demon (Tanar'ri),17,Large,"outsider(chaotic, evil, extraplanar)",18,CE,,Any,Abyss,34,Monster Manual III,1
+"Dinosaur, Battletitan",16,Huge,animal,36,N,Warm,Plains,Material,38,Monster Manual III,1
+"Dinosaur, Bloodstriker",6,Large,animal,9,N,Temperate,Deserts,Material,39,Monster Manual III,1
+"Dinosaur, Fleshraker",2,Medium,animal,4,N,Temperate,Forests,Material,40,Monster Manual III,1
+"Dinosaur, Swindlespitter",1,Small,animal,2,N,Warm,Forests,Material,41,Monster Manual III,1
+Dracotaur,3,Large,dragon,3,NE,Temperate, Marshes,Material,43,Monster Manual III,1
+"Dracotaur Rager, 4th-level Barbarian",7,Large,dragon,7,CE,Temperate, Marshes,Material,43,Monster Manual III,1
+Dragon Eel,11,Large,dragon(aquatic),14,NE,Temperate,Aquatic,Material,44,Monster Manual III,1
+Dread Blossom Swarm,6,Tiny,"plant(extraplanar, swarm)",7,N,,Any,Beastlands,45,Monster Manual III,1
+Drowned,8,Medium,undead,20,CE,,Any,Material,46,Monster Manual III,1
+Dust Wight,7,Medium,undead(earth),16,CE,,Any,Material,47,Monster Manual III,1
+"Elemental, Storm, Elder",12,Huge,"elemental(air, extraplanar)",24,N,,Any,Elemental Air,49,Monster Manual III,1
+"Elemental, Storm, Greater",10,Huge,"elemental(air, extraplanar)",21,N,,Any,Elemental Air,49,Monster Manual III,1
+"Elemental, Storm, Huge",8,Huge,"elemental(air, extraplanar)",16,N,,Any,Elemental Air,49,Monster Manual III,1
+"Elemental, Storm, Large",6,Large,"elemental(air, extraplanar)",8,N,,Any,Elemental Air,49,Monster Manual III,1
+"Elemental, Storm, Medium",4,Medium,"elemental(air, extraplanar)",4,N,,Any,Elemental Air,49,Monster Manual III,1
+"Elemental, Storm, Small",2,Small,"elemental(air, extraplanar)",2,N,,Any,Elemental Air,49,Monster Manual III,1
+Ephemeral Swarm,5,Tiny,"undead(incorporeal, swarm)",12,CE,,Any,Ethereal,50,Monster Manual III,1
+Feral Yowler,5,Medium,magical beast,7,CE,Temperate,Mountains,Material,51,Monster Manual III,1
+Geriviar,19,Huge,giant,26,NE,Temperate,Marshes,Material,52,Monster Manual III,1
+"Giant, Death",16,Huge,giant,23,NE,Temperate,Deserts,Material,54,Monster Manual III,1
+"Giant, Eldritch",15,Huge,giant,25,NE,Temperate,Mountains,Material,57,Monster Manual III,1
+"Giant, Eldritch, Confessor, 11th-level Cleric",20,Huge,giant,36,NE,Temperate,Mountains,Material,57,Monster Manual III,1
+"Giant, Sand",10,Large,"giant(earth, fire)",15,LN,Warm,Deserts,Material,59,Monster Manual III,1
+"Giant, Sand Champion, 5th-level Fighter",15,Large,"giant(earth, fire)",20,LN,Warm,Deserts,Material,59,Monster Manual III,1
+Glaistig,6,Medium,fey,6,CN,Temperate,Forests,Material,61,Monster Manual III,1
+"Glaistig Mindbender, 5th-level Sorcerer",8,Medium,fey,11,CN,Temperate,Forests,Material,61,Monster Manual III,1
+"Gnoll, Flind",2,Medium,humanoid,2,NE,Warm,Plains,Material,62,Monster Manual III,1
+Goatfolk (ibixian),2,Medium,monstrous humanoid,3,N,Temperate,Plains,Material,63,Monster Manual III,1
+"Forestkith Goblin, 1st-level Barbarian",1,Small,humanoid(goblinoid),1,CE,Temperate,Forests,Material,65,Monster Manual III,1
+"Forestkith Goblin, 1st-level Warrior",1/2,Small,humanoid(goblinoid),1,CE,Temperate,Forests,Material,65,Monster Manual III,1
+"Golem, Alchemical",11,Large,construct,22,N,,Any,Material,66,Monster Manual III,1
+"Golem, Gloom",7,Large,"construct(evil, extraplanar)",8,NE,,Any,Hades,68,Monster Manual III,1
+"Golem, Hangman",13,Large,construct,18,N,,Any,Material,69,Monster Manual III,1
+"Golem, Mud",11,Large,construct,15,N,,Any,Material,70,Monster Manual III,1
+"Golem, Prismatic",18,Large,"construct(extraplanar, good, incorporeal)",20,NG,,Any,Elysium,71,Monster Manual III,1
+"Golem, Shadesteel",11,Medium,construct(extraplanar),18,N,,Any,Shadow,73,Monster Manual III,1
+"Golem, Shadesteel, Greater",14,Large,construct(extraplanar),27,N,,Any,Shadow,73,Monster Manual III,1
+"Golem, Web",7,Large,construct,11,N,,Any,Material,74,Monster Manual III,1
+Grimweird,11,Medium,undead,12,LE,,Any,Material,75,Monster Manual III,1
+Grisgol,15,Large,construct,19,N,,Any,Material,76,Monster Manual III,1
+Gulgar,9,Large,monstrous humanoid(earth),10,N,Temperate, Mountains,Material,77,Monster Manual III,1
+Harpoon Spider,4,Large,aberration,5,CE,,Underground,Material,81,Monster Manual III,1
+"Harpoon Spider, Dread",9,Huge,aberration,9,CE,,Underground,Material,81,Monster Manual III,1
+Harssaf,5,Medium,monstrous humanoid(fire),6,LE,Warm,Deserts,Material,82,Monster Manual III,1
+Ironclad Mauler,9,Large,magical beast,15,NE,,Any,Material,84,Monster Manual III,1
+Justicator,13,Large,outsider(lawful),17,LN,,Any,,85,Monster Manual III,1
+"Kenku Sneak, 1st-level Rogue",1,Medium,humanoid,1,NE,Temperate, Plains,Material,87,Monster Manual III,1
+"Kenku, 1st-level Warrior",1/2,Medium,humanoid,1,NE,Temperate,Plains,Material,87,Monster Manual III,1
+Knell Beetle,10,Large,vermin,12,N,,Underground,Material,88,Monster Manual III,1
+"Knell Beetle, Lesser",5,Medium,vermin,6,N,,Underground,Material,89,Monster Manual III,1
+Arcane Ooze,9,Huge,ooze,15,N,,Underground,Material,9,Monster Manual III,1
+Lhosk,4,Large,monstrous humanoid,8,CN,Warm,Forests,Material,90,Monster Manual III,1
+Chilling Fog,9,Large,ooze(AUGMENTED),9,N,Cold,Marshes,Material,92,Monster Manual III,1
+Glitterfire,6,Medium,ooze(AUGMENTED),5,N,,Any,Material,92,Monster Manual III,1
+Living Blasphemy,13,Huge,"ooze(evil,AUGMENTED)",13,NE,,Any,Material,93,Monster Manual III,1
+Sickening Sleep,2,Medium,ooze(AUGMENTE),1,N,,Underground,Material,94,Monster Manual III,1
+"Lizardfolk, Blackscale",3,Large,monstrous humanoid(reptilian),4,N,Temperate,Forests,Material,95,Monster Manual III,1
+"Lizardfolk, Poison Dusk Lieutenant, 4th-level Rang",4,Small,humanoid(reptilian),4,N,Temperate,Marshes,Material,97,Monster Manual III,1
+"Lizardfolk, Poison Dusk, 1st-level Ranger",1,Small,humanoid(reptilian),1,N,Temperate, Marshes,Material,97,Monster Manual III,1
+Lumi,2,Medium,outsider,2,LN,,Any,Positive Energy,99,Monster Manual III,1
+"Lumi Crusader, 2nd-level Fighter/6th-level Cleric",8,Medium,outsider,10,LN,,Any,Positive Energy,99,Monster Manual III,1
+Cyclonic Ravager (Air Avatar),15,Large,"elemental(air, extraplanar)",26,NE,,Any,Elemental Air,10,Monster Manual IV,1
+"Minotaur, Greathorn",7,Large,monstrous humanoid(earth),11,CE,,Underground,Material,100,Monster Manual IV,1
+Nagatha,7,Medium,monstrous humanoid,8,CE,Temperate,Marshes,Material,102,Monster Manual IV,1
+Necrosis Carnex,3,Medium,undead,4,NE,,Any,Material,104,Monster Manual IV,1
+Oaken Defender,12,Huge,plant,18,NG,Temperate,Forests,Material,106,Monster Manual IV,1
+Ogre Scout,5,Large,giant,8,NE,Temperate,Hills/Underground,Material,109,Monster Manual IV,1
+Ogre Tempest,9,Large,giant,10,CE,Temperate,Hills/Underground,Material,109,Monster Manual IV,1
+Holocaust Disciple (Fire Avatar),15,Large,"elemental(extraplanar, fire)",26,NE,,Any,Elemental Fire,11,Monster Manual IV,1
+Ogre Guard Thrall,6,Large,giant,4,N,Temperate,Hills/Underground,Material,110,Monster Manual IV,1
+Orc Berserker (Raging),4,Medium,humanoid,4,CE,,Any ,Material,114,Monster Manual IV,1
+Orc War Howler (Raging),4,Medium,humanoid,4,CE,,Any ,Material,114,Monster Manual IV,1
+Orc Battle Priest,1,Medium,humanoid,1,CE,,Any ,Material,115,Monster Manual IV,1
+Orc Plague Speaker,7,Medium,"outsider(augmented humanoid, evil, native)",5,NE,,Any ,Material,116,Monster Manual IV,1
+Half-Orc Infiltrator,3,Medium,humanoid,3,NE,,Any ,Material,117,Monster Manual IV,1
+Plague Walker,3,Medium,undead,6,CE,,Any,Material,120,Monster Manual IV,1
+Quanlos,6,Small,magical beast,6,N,Temperate/Warm, Forests/Marshes,Material,122,Monster Manual IV,1
+Sail Snake,2,Medium,animal,3,N,Warm,Any,Material,124,Monster Manual IV,1
+Skiurid,1/2,Tiny,magical beast(extraplanar),1/2,NE,,Any,Shadow,126,Monster Manual IV,1
+Waterveiled Assassin (Water Avatar),15,Large,"elemental(extraplanar, water)",26,NE,,Any,Elemental Water,13,Monster Manual IV,1
+Blackspawn Exterminator (Spawn of Tiamat),10,Medium,monstrous humanoid(dragonblood),14,CE,Warm, Marshes,Material,131,Monster Manual IV,1
+Blackspawn Stalker (Spawn of Tiamat),9,Large,magical beast(dragonblood),10,CE,Temperate/Warm,Forests/Marshes,Material,134,Monster Manual IV,1
+Bluespawn Burrower (Spawn of Tiamat),9,Large,magical beast(dragonblood),12,LE,Warm,Deserts,Material,138,Monster Manual IV,1
+Bluespawn Godslayer (Spawn of Tiamat),10,Huge,monstrous humanoid(dragonblood),12,LE,Temperate/Warm,Deserts,Material,140,Monster Manual IV,1
+Bluespawn Stormlizard (Spawn of Tiamat),6,Large,magical beast(dragonblood),6,LE,Warm,Any ,Material,142,Monster Manual IV,1
+Greenspawn Leaper (Spawn of Tiamat),2,Medium,magical beast(dragonblood),3,NE,Temperate/Warm, Forests,Material,144,Monster Manual IV,1
+Greenspawn Razorfiend (Spawn of Tiamat),7,Large,magical beast(dragonblood),10,LE,Temperate/Warm,Forests/Marshes,Material,146,Monster Manual IV,1
+Greenspawn Sneak (Spawn of Tiamat),2,Small,monstrous humanoid(dragonblood),2,LE,Temperate/Warm,Forests/Marshes,Material,148,Monster Manual IV,1
+Balhannoth,10,Large,aberration,14,CN,,Underground,Material,15,Monster Manual IV,1
+Redspawn Arcaniss (Spawn of Tiamat),6,Medium,monstrous humanoid(dragonblood),8,CE,Warm,Hills,Material,152,Monster Manual IV,1
+Redspawn Firebelcher (Spawn of Tiamat),6,Large,"magical beast(dragonblood, fire)",8,CE,Warm,Hills,Material,154,Monster Manual IV,1
+Whitespawn Hordeling (Spawn of Tiamat),1,Small,monstrous humanoid(dragonblood),2,CE,Cold,Any ,Material,155,Monster Manual IV,1
+Whitespawn Berserker (Raging) (Spawn of Tiamat),6,Medium,"monstrous humanoid(cold, dragonblood)",8,CE,Cold,Any ,Material,160,Monster Manual IV,1
+Whitespawn Hunter (Spawn of Tiamat),4,Medium,"monstrous humanoid(cold, dragonblood)",6,CE,Cold,Deserts/Mountains/Plains,Material,160,Monster Manual IV,1
+Whitespawn Iceskidder (Spawn of Tiamat),6,Large,"magical beast(cold, dragonblood)",9,CE,Cold,Marshes/Plains,Material,162,Monster Manual IV,1
+Tomb Spider,6,Large,magical beast,8,NE,Temperate,Forests/Underground,Material,164,Monster Manual IV,1
+Tomb Spider Broodswarm,2,Tiny,magical beast(swarm),3,NE,Temperate,Forests/Underground,Material,164,Monster Manual IV,1
+Web Mummy,4,Medium,undead,4,NE,Temperate,Forests/Underground,Material,165,Monster Manual IV,1
+Varag,1,Medium,humanoid(goblinoid),3,CE,Warm,Hills,Material,168,Monster Manual IV,1
+Varag Pack Leader,5,Medium,humanoid(goblinoid),7,LE,Warm,Hills,Material,168,Monster Manual IV,1
+Verdant Prince,11,Medium,fey,16,NE,Temperate,Forests,Material,172,Monster Manual IV,1
+Vitreous Drinker,11,Medium,undead,14,NE,,Any,Material,174,Monster Manual IV,1
+Windrazor (Windblade),1,Small,outsider(extraplanar),2,CE,,Any,Pandemonium,176,Monster Manual IV,1
+Windscythe (Windblade),4,Large,outsider(extraplanar),8,CE,,Any,Pandemonium,177,Monster Manual IV,1
+Blighted Bloodfire,12,Huge,"outsider(augmented ooze, fire)",12,NE,,Underground,Material,18,Monster Manual IV,1
+Bloodfire Ooze,7,Huge,ooze(fire),12,NE,,Underground,Material,18,Monster Manual IV,1
+Wizened Elder,2,Medium,plant,4,CN,Cold,Plains,Material,180,Monster Manual IV,1
+Wrackspawn,3,Medium,"outsider(chaotic, evil, extraplanar)",4,CE,,Any,Abyss,182,Monster Manual IV,1
+"Yuan-Ti, Pureblood Slayer",10,Medium,monstrous humanoid,12,NE,Warm,Forests/Underground,Material,184,Monster Manual IV,1
+"Yuan-Ti, Halfblood Deceiver",6,Medium,monstrous humanoid,9,CE,Warm,Forests/Underground,Material,185,Monster Manual IV,1
+"Yuan-Ti, Abomination Cult Leader",9,Medium,monstrous humanoid,13,CE,Warm,Forests/Underground,Material,186,Monster Manual IV,1
+Yuan-Ti Ignan,7,Medium,monstrous humanoid(fire),11,CE,Warm,Forests,Material,188,Monster Manual IV,1
+Yugoloth: Corruptor of Fate,5,Medium,"outsider(evil, extraplanar)",7,NE,,Any,Gehenna,190,Monster Manual IV,1
+Yugoloth: Corruptor of Fate Assassin,10,Medium,"outsider(evil, extraplanar)",12,NE,,Any,Gehenna,190,Monster Manual IV,1
+Yugoloth: Voor,4,Large,"outsider(evil, extraplanar)",5,NE,,Any,Gehenna,193,Monster Manual IV,1
+"Yugoloth: Voor, Dreadful Lasher",9,Huge,"outsider(evil, extraplanar)",15,NE,,Any,Gehenna,193,Monster Manual IV,1
+Zern,6,Medium,monstrous humanoid,8,NE,,Any,Material,195,Monster Manual IV,1
+Zern Arcanovore,7,Small,aberration,10,LE,,Underground,Material,197,Monster Manual IV,1
+Zern Blade Thrall,4,Large,monstrous humanoid,5,NE,,Any,Material,198,Monster Manual IV,1
+Bloodhulk Crusher,8,Huge,undead,20,NE,,Any,Material,21,Monster Manual IV,1
+Bloodhulk Giant,6,Large,undead,14,NE,,Any,Material,21,Monster Manual IV,1
+Briarvex,6,Large,plant,8,NE,,Forests,Material,26,Monster Manual IV,1
+Clockroach,1,Small,construct,1,N,,Any,Material,28,Monster Manual IV,1
+Clockwork Mender,1/2,Tiny,construct,1,LN,,Any,Mechanus,30,Monster Manual IV,1
+Clockwork Mender Swarm,3,Tiny,construct,4,LN,,Any,Mechanus,30,Monster Manual IV,1
+Clockwork Pony,3,Medium,construct,6,N,,Any,Material,32,Monster Manual IV,1
+Clockwork Stallion,3,Large,construct,6,N,,Any,Material,32,Monster Manual IV,1
+Concordant Killer,19,Large,outsider(extraplanar),19,N,,Any,None,34,Monster Manual IV,1
+Corrupture,9,Huge,ooze(aquatic),11,N,,Any,Material,34,Monster Manual IV,1
+Defacer,6,Medium,undead,11,NE,,Any,Material,34,Monster Manual IV,1
+Demon: Deathdrinker,18,Huge,"outsider(chaotic, evil, extraplanar)",27,CE,,Any,Abyss,40,Monster Manual IV,1
+Demon: Kastighur (tanar'ri),11,Huge,"outsider(chaotic, evil, extraplanar)",15,CE,,Any,Abyss,42,Monster Manual IV,1
+Demon: Nashrou,2,Large,"outsider(chaotic, evil, extraplanar)",4,CE,,Any,Abyss,44,Monster Manual IV,1
+Demon: Whisper Demon,9,Medium,"outsider(chaotic, evil, extraplanar)",12,CE,,Any,Abyss,46,Monster Manual IV,1
+Demonet Swarm,2,Tiny,"outsider(evil, extraplanar, swarm)",3,NE,,Any,Any Evil,48,Monster Manual IV,1
+Demonhive Attendant,2,Small,"outsider(evil, extraplanar)",3,NE,Temperate/Warm,Any,Any Evil,48,Monster Manual IV,1
+Demonhive Queen,6,Large,"outsider(evil, extraplanar)",8,NE,Temperate/Warm,Any,Abyss,50,Monster Manual IV,1
+Dwarf Ancestor,6,Large,outsider(native),5,LG,,Underground,Material,52,Monster Manual IV,1
+"Giant, Craa'ghoran",10,Huge,giant(earth),15,NE,,Mountains,Material,60,Monster Manual IV,1
+Githyanki Gish,8,Medium,humanoid(extraplanar),7,LE,,Any,Astral,62,Monster Manual IV,1
+Githyanki Soldier,4,Medium,humanoid(extraplanar),3,LE,,Any,Astral,62,Monster Manual IV,1
+Githyanki Captain,10,Medium,humanoid(extraplanar),9,LE,,Any,Astral,63,Monster Manual IV,1
+Gnoll Fiendish Cleric of Yeenoghu,4,Medium,humanoid,5,CE,Warm,Forests/Hills/Plains,Material,67,Monster Manual IV,1
+Gnoll Half-Fiend Warlock,6,Medium,humanoid,6,CE,Warm,Forests/Hills/Plains,Material,67,Monster Manual IV,1
+Gnoll Slave-Taker,3,Medium,humanoid,4,CE,Warm,Forests/Hills/Plains,Material,67,Monster Manual IV,1
+"Golem, Fang",6,Large,construct,8,N,,Any,Material,72,Monster Manual IV,1
+Howler Wasp,1,Small,aberration,2,CE,Warm,Any,Material,74,Monster Manual IV,1
+Inferno Spider,8,Large,"elemental(extraplanar, fire)",14,N,Warm,Any,Elemental Fire,76,Monster Manual IV,1
+Joystealer,5,Medium,fey,6,NE,,Any,Material,78,Monster Manual IV,1
+Black Rock Triskelion (Earth Avatar),18,Large,"elemental(earth, extraplanar)",26,NE,,Any,Elemental Earth,8,Monster Manual IV,1
+Archon: Justice Archon,6,Medium,"outsider(archon, extraplanar, good, lawful)",6,LG,,Any,Celestia,80,Monster Manual IV,1
+Archon: Justice Archon Champion,10,Medium,"outsider(archon, extraplanar, good, lawful)",10,LG,,Any,Celestia,81,Monster Manual IV,1
+Lizardfolk: Dark Talon Champion,4,Medium,humanoid(reptilian),5,NE,Temperate,Marshes,Material,83,Monster Manual IV,1
+Lizardfolk: Dark Talon Soldier,2,Medium,humanoid(reptilian),2,NE,Temperate,Marshes,Material,83,Monster Manual IV,1
+Lizardfolk: Dark Talon Shaman,6,Medium,humanoid(reptilian),7,NE,Temperate,Marshes,Material,84,Monster Manual IV,1
+Lizardfolk: Dark Talon Wasp Rider,2,Medium,humanoid(reptilian),2,NE,Temperate,Marshes,Material,84,Monster Manual IV,1
+"Lizardfolk: Yarshag, Dark Talon King",11,Medium,humanoid(reptilian),12,NE,Temperate,Marshes,Material,85,Monster Manual IV,1
+Lodestone Marauder,9,Large,aberration,11,N,,Any/Underground,Material,90,Monster Manual IV,1
+Demon: Lolth-Touched Bebilith,11,Huge,"outsider(chaotic, evil, extraplanar,AUGMENTED)",12,CE,,Any,Abyss,92,Monster Manual IV,1
+Lolth-Touched Drow Ranger,7,Medium,humanoid(AUGMENTED),5,CE,,Underground,Material,92,Monster Manual IV,1
+Lolth-Touched Monstrous Spider,3,Large,vermin(AUGMENTED),4,CE,,Underground,Material,93,Monster Manual IV,1
+Lunar Ravager,7,Large,fey,14,CE,,Any,Material,95,Monster Manual IV,1
+Mageripper Swarm,6,Tiny,aberration(swarm),10,CN,Temperate, Any,Material,98,Monster Manual IV,1
+Banshrae,8,Medium,fey,15,CE,,forests,Material,10,Monster Manual V,1
+BLACKWING,8,Large,undead,12,NE,,mountain/Underground,Material,12,Monster Manual V,1
+BURROW ROOT,8,Large,plant,12,N,,marsh/plain/hill,Material,14,Monster Manual V,1
+DALMOSH,17,Gargantuan,"outsider (chaotic, evil, extraplanar)",26,CE,temperate,any,Flesh Mountains of the Abyss,16,Monster Manual V,1
+DEADBORN VULTURE,8,Large,magical beast,9,NE,,Any,Material,18,Monster Manual V,1
+DEMON: ADARU,10,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",13,CE,,Any,"the Infinite Layers of the Abyss,444th layer",20,Monster Manual V,1
+DEMON: Carnage Demon,4,Medium,"outsider (chaotic, evil, extraplanar)",3,CE,,Any,the Infinite Layers of the Abyss,22,Monster Manual V,1
+DEMON: Draudnu,10,Medium,"outsider (chaotic, evil, extraplanar, obyrith)",14,CE,,Any,the Infinite Layers of the Abyss 600th layer,24,Monster Manual V,1
+DEMON: GADACRO,3,Small,"outsider (chaotic, evil, extraplanar, tanar’ri)",4,CE,,Any,the Infinite Layers of the Abyss 422th layer,26,Monster Manual V,1
+DEMON: Solamith,8,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",11,CE,,Any,the Infinite Layers of the Abyss,28,Monster Manual V,1
+DEMONTHORN MANDRAKE,5,Large,plant (extraplanar),7,NE,,forest/Underground,"the Abyss, the Nine Hells, and Gehenna",30,Monster Manual V,1
+DEVIL: GULTHIR,6,Large,"outsider (baatezu, evil, extraplanar, lawful)",6,LE,,Any,the Nine Hells of Baator 2 layer,32,Monster Manual V,1
+DEVIL: Remmanon,15,Medium,"outsider (baatezu, evil, extraplanar, lawful)",18,LE,,Any,the Nine Hells of Baator,34,Monster Manual V,1
+DEVIL: STITCHED DEVIL,9,Large,"outsider (evil, extraplanar, lawful)",8,LE,,Any,the Gray Waste of Hades,36,Monster Manual V,1
+CHORRANATHAU THE INSCRUTABLE,18,Gargantuan,dragon(AUGMENTED),30,CN,,Mountain,Material,40,Monster Manual V,1
+Morlicantha,13,Large,dragon(AUGMENTED),19,LG,,Any,Material,42,Monster Manual V,1
+SINGH THE IMMENSE,14,Medium,humanoid(AUGMENTED),13,N,,Any,Material,45,Monster Manual V,1
+ELEMENTAL MAGE: KEN-KUNI,8,Large,giant (earth),8,NE,,Hill/mountain,Material,48,Monster Manual V,1
+Arcadian Avenger,6,Medium,"outsider (extraplanar, good, lawful)",8,LG,,Any,Peaceable Kingdoms of Arcadia,8,Monster Manual V,1
+"Satyr, Anarchic",5,Medium,"fey(extraplanar,AUGMENTED)",5,CN,,Any,Arborea,107,Planar Handbook,1
+Astral Kraken,16,Gargantuan,vermin(extraplanar),20,N,,Any,Astral,109,Planar Handbook,1
+Axiomatic Dragonne,7,Large,"magical beast(extraplanar,AUGMENTED)",9,LN,,Any,Acheron,110,Planar Handbook,1
+Dharculus,9,Medium,aberration(extraplanar),8,N,,Any,Ethereal,112,Planar Handbook,1
+"Dwarf, Frost",1,Medium,humanoid(extraplanar),1,CE,,Any,Abyss,113,Planar Handbook,1
+"Elementite Swarm, Air",4,Tiny,"elemental(air, extraplanar, swarm)",7,N,,Any,Elemental Air,114,Planar Handbook,1
+"Elementite Swarm, Earth",4,Tiny,"elemental(earth, extraplanar, swarm)",7,N,,Any,Elemental Earth,115,Planar Handbook,1
+"Elementite Swarm, Fire",4,Tiny,"elemental(extraplanar, fire, swarm)",7,N,,Any,Elemental Fire,116,Planar Handbook,1
+"Elementite Swarm, Water",4,Tiny,"elemental(extraplanar, swarm, water)",7,N,,Any,Elemental Water,116,Planar Handbook,1
+Elsewhale,7,Gargantuan,magical beast(extraplanar),12,NG,Temperate,Aquatic,,117,Planar Handbook,1
+Elysian Thrush,1/4,Tiny,"magical beast(extraplanar, good)",1,NG,,Any,Elysium,118,Planar Handbook,1
+Xac-yel (Energon),5,Medium,"outsider(extraplanar, fire, incorporeal)",5,N,,Any,Gehenna,119,Planar Handbook,1
+Xac-yij (Energon),5,Medium,"outsider(extraplanar, incorporeal)",5,N,,Any,Limbo,120,Planar Handbook,1
+Xap-yaup (Energon),5,Medium,"outsider(extraplanar, incorporeal)",5,N,,Any,Beastlands,121,Planar Handbook,1
+Xong-yong (Energon),5,Medium,"outsider(extraplanar, incorporeal)",5,N,,Any,Acheron,121,Planar Handbook,1
+Xor-yost (Energon),5,Medium,"outsider(cold, extraplanar, incorporeal)",5,N,,Any,Baator (Nine Hells),122,Planar Handbook,1
+Entropic Ogre Mage,10,Large,"outsider(augmented giant, extraplanar)",5,LE,,Any,Negative Energy,123,Planar Handbook,1
+Gaspar,10,Huge,magical beast(extraplanar),14,N,,Any,Beastlands,124,Planar Handbook,1
+"Gnome, Fire",1,Small,humanoid(extraplanar),1,NG,,Any,"Bytopia, Elemental Fire",125,Planar Handbook,1
+Limbo Stalker,8,Large,"magical beast(chaotic, extraplanar)",8,CN,,Any,Limbo,126,Planar Handbook,1
+"Nightmare, Lesser",4,Large,"outsider(evil, extraplanar)",6,NE,,Any,Hades,127,Planar Handbook,1
+Pack Fiend,8,Large,"magical beast(evil, extraplanar)",8,NE,,Any,Hades,128,Planar Handbook,1
+Shadow Jelly,6,Large,ooze(extraplanar),6,N,,Any,Shadow,129,Planar Handbook,1
+Unraveler,9,Large,"outsider(extraplanar, incorporeal, lawful)",8,LN,,Any,Any Inner,130,Planar Handbook,1
+Vivacious Dire Tiger,11,Large,"outsider(augmented animal, extraplanar, incorporeal)",16,N,,Any,Positive Energy,131,Planar Handbook,1
+Void Ooze,8,Large,ooze(extraplanar),10,N,,Any,Negative Energy,132,Planar Handbook,1
+"Barghest, Greater",5,Large,"outsider(evil, extraplanar, lawful, shapechanger)",9,LE,,Any,Any Evil,23,Monster Manual,1
+Celestial Badger,1/2,Small,magical beast(extraplanar),1,CG,,Any,Celestia,268,Monster Manual,1
+"Genie, Djinni (noble)",8,Large,"outsider(air, extraplanar)",7,CG,,Any,Elemental Air,114,Monster Manual,1
+ELEMENTAL MAGE: KEN-LI,10,Large,giant (fire),12,CE,,Hill/mountain,Material,48,Monster Manual V,1
+ELEMENTAL MAGE: KEN-SUN,13,Large,giant (air),17,LE,,Hill/mountain,Material,49,Monster Manual V,1
+EMBER GUARD,13,Huge,"outsider (evil, extraplanar, fire, lawful)",13,LE,,Undergroun/Any,Elemental Plane of Fire,52,Monster Manual V,1
+ETHEREAL DEFILER,16,Large,aberration (extraplanar),22,CE,,Any,Ethereal Plane,54,Monster Manual V,1
+FETID FUNGUS,1,Medium,plant,2,N,,Forest/marsh/underground,Material,56,Monster Manual V,1
+FROSTWIND VIRAGO,16,Medium,fey,30,NE,cold,Mountain/cold underground,Material,58,Monster Manual V,1
+GARNGRATH,20,Colossal,magical beast (extraplanar),28,CE,,Any,the Windswept Depths of Pandemonium,60,Monster Manual V,1
+GEM SCARAB,2,Small,magical beast,2,N,,Deserts,Material,62,Monster Manual V,1
+GOD-BLOODED CREATURE: Nozgûg (Raging),8,Medium, humanoid(AUGMENTED),7,CE,,Any/Underground,Material,64,Monster Manual V,1
+GOLEM: Force Golem,4,Large, ,4,N,,Any,Material,68,Monster Manual V,1
+GOLEM: MAGMACORE GOLEM,4,Medium,construct,4,N,,Any,Material,70,Monster Manual V,1
+GRAVEYARD SLUDGE,4,Large,ooze,6,N,,Any /Underground,Material,72,Monster Manual V,1
+GREENSPAWN ZEALOT,5,Medium,monstrous humanoid (dragonblood),6,LE,,Any/Underground,Material,74,Monster Manual V,1
+GUULVORG,13,Huge,magical beast,14,NE,Temperate,Forests,Material,76,Monster Manual V,1
+HAUNT: Bridge Haunt,7,Medium,undead (incorporeal),12,NE,,Any,Material,78,Monster Manual V,1
+HAUNT: Forest Haunt,10,Huge,undead (incorporeal),12,NE,,Forest,Material,80,Monster Manual V,1
+HAUNT: Taunting Haunt,4,Medium,undead (incorporeal),6,CN,,Any,Material,82,Monster Manual V,1
+HOBGOBLIN: HOBGOBLIN DUSKBLADE,3,Medium,humanoid (goblinoid),3,LE,,hill/mountain,Material,84,Monster Manual V,1
+HOBGOBLIN: HOBGOBLIN SPELLSCOURGE,5,Medium,monstrous humanoid (goblinoid),5,LE,,hill/mountain,Material,85,Monster Manual V,1
+HOBGOBLIN: HOBGOBLIN WARCASTER,4,Medium,monstrous humanoid (goblinoid),4,LE,,hill/mountain,Material,86,Monster Manual V,1
+HOBGOBLIN: HOBGOBLIN WARSOUL,10,Medium,monstrous humanoid (goblinoid),8,LE,,hill/mountain,Material,87,Monster Manual V,1
+ILLURIEN,15,Large,"outsider (evil, extraplanar)",20,NE,,Any,the Athenaeum Nefarious,90,Monster Manual V,1
+JAEBRIN,1,Medium,fey,1,CN,temperate,Any,Material,92,Monster Manual V,1
+KUO-TOA: Crazed Kuo-Toa,3,Medium,monstrous humanoid (aquatic),4,CE,,Aquatic/Underground,Material,94,Monster Manual V,1
+KUO-TOA: KUO-TOA EXALTED WHIP,7,Medium,monstrous humanoid (aquatic),10,NE,,Aquatic/Underground,Material,95,Monster Manual V,1
+KUO-TOA: KUO-TOA HARPOONER,4,Medium,monstrous humanoid (aquatic),4,NE,,Aquatic/Underground,Material,96,Monster Manual V,1
+KUO-TOA: KUO-TOA MONITOR,6,Medium,monstrous humanoid (aquatic),6,LE,,Aquatic/Underground,Material,97,Monster Manual V,1
+MALASTOR,16,Gargantuan,magical beast,20,CE,,Plains/Hills/Forests/Deserts/Mountains,Material,100,Monster Manual V,1
+MERCHURION,17,Huge,construct (living construct),22,CE,,Any,Material,102,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon disciple,10,medium,aberration,12,NE,,underground,Material,104,Monster Manual V,1
+MIND FLAYERS OF THOON: Shadow Flayer,8,medium,aberration,8,NE,,underground,Material,107,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon Infiltrator,5,Medium,monstrous humanoid,5,CE,,Any/Undergraund,Material,109,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon Thrall,3,Medium,monstrous humanoid(AUGMENTED),3,LE,,Any/Underground,Material,111,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon Soldier,8,Medium,construct,10,N,,Any/underground,Material,113,Monster Manual V,1
+MIND FLAYERS OF THOON: Madcrafter of Thoon,10,Huge,aberration,10,N,,underground,Material,114,Monster Manual V,1
+MIND FLAYERS OF THOON: Scyther of Thoon,6,Medium,construct,9,N,,Any/underground,Material,116,Monster Manual V,1
+MIND FLAYERS OF THOON: Stormcloud of Thoon,5,Medium,construct,8,N,,any/aquatic/underground,Material,118,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon Hulk,13,Large,construct,15,NE,,underground,Material,120,Monster Manual V,1
+MIND FLAYERS OF THOON: Thoon Elder Brain,15,Large,aberration,12,NE,,underground,Material,121,Monster Manual V,1
+MOCKERY BUGS: Mockery Monarch,14,Large,magical Beast,20,NE,,Any/Underground,Material,126,Monster Manual V,1
+MOCKERY BUGS: Mockery Drone,9,Medium,magical Beast,12,NE,,Any/Underground,Material,127,Monster Manual V,1
+PHANTOM: Kugan,7,Medium,undead(AUGMENTED),8,CE,,Any/Underground,Material,130,Monster Manual V,1
+RUIN CHANTER,14,Medium,"fey (air, earth)",20,CN,,Any,Material,132,Monster Manual V,1
+Ruin Elemental,10,Large,elemental (earth),14,N,,Any,Material,134,Monster Manual V,1
+RYLKAR: Rylkar Harridan,9,Huge,magical beast,10,NE,,Underground,Material,136,Monster Manual V,1
+RYLKAR: Rylkar Madclaw,3,small,magical beast,4,NE,,Underground,Material,137,Monster Manual V,1
+RYLKAR: Rylkar Tormentor,6,Medium,magical beast,8,NE,,Underground,Material,138,Monster Manual V,1
+RYLKAR: Rylkspawn Swarm,4,Tiny,magical beast (swarm),7,NE,,Underground,Material,138,Monster Manual V,1
+SANGUINEOUS DRINKER,5,Medium,undead,10,CE,,Underground,Material,142,Monster Manual V,1
+SCOURING CONSTRUCT: Scouring Slinger,18,Huge,construct,42,N,,any/underground/aquatic,Material,144,Monster Manual V,1
+SCOURING CONSTRUCT: Slinger Scorpion,,small,construct,1,N,,any/underground/aquatic,Material,145,Monster Manual V,1
+SCOURING CONSTRUCT: SCOURING STANCHION,18,Huge,construct,30,N,,any/underground/aquatic,Material,145,Monster Manual V,1
+SHAEDLING,2,Medium,fey,4,CE,,floreSt,Material,148,Monster Manual V,1
+SHARDSOUL SLAYER,5,Medium,construct,6,CE,,Any/Underground,Material,150,Monster Manual V,1
+SIEGE BEETLE,16,Gargantuan,vermin (extraplanar),20,N,,Underground,the iron battlefi elds of Acheron,152,Monster Manual V,1
+SKULL LORD,7,Medium,undead,12,LE,,Underground,Material,154,Monster Manual V,1
+BONESPUR,3,Large,undead,4,LE,,Underground,Material,156,Monster Manual V,1
+SERPENTIR,4,Large,undead,8,CE,,Underground,Material,158,Monster Manual V,1
+SPECTRAL RIDER,6,Medium,undead,7,LE,,Any/Underground,Material,160,Monster Manual V,1
+SPAWN OF JUIBLEX: Lesser Spawn of Juiblex,6,Large,"elemental (extraplanar, water)",8,CE,,Underground,the Demiplane of Filth,162,Monster Manual V,1
+SPAWN OF JUIBLEX: Greater Spawn of Juiblex,10,Huge,"elemental (extraplanar, water)",11,CE,,Underground,the Demiplane of Filth,162,Monster Manual V,1
+SPAWN OF JUIBLEX: Elder Spawn of Juiblex,14,Gargantuan,"elemental (extraplanar, water)",16,CE,,Underground,the Demiplane of Filth,163,Monster Manual V,1
+SPIRRAX,18,Gargantuan,aberration (extraplanar),26,LE,,any,Material,166,Monster Manual V,1
+STEELWING,14,Huge,magical beast (extraplanar),15,N,,any,one of the four layers of the Infernal Battlefield of Acheron,168,Monster Manual V,1
+THRYM HOUND,10,Huge,magical beast,13,NE,Cold,mountain/hill/underground,Material,170,Monster Manual V,1
+TIRBANA: Tirbana Eyewing,1/2,Tiny,magical beast,1,LN,,Any/Underground,Material,172,Monster Manual V,1
+TIRBANA: Tirbana Drowser,2,small,magical beast,3,LN,,Any/Underground,Material,173,Monster Manual V,1
+TIRBANA: Tirbana Slayer,4,Medium,magical beast,6,LN,,Any/Underground,Material,173,Monster Manual V,1
+TIRBANA: Tirbana Spawner,5,Medium,magical beast,6,LN,,Any/Underground,Material,174,Monster Manual V,1
+"TROLL, BLADERAGER",8,Large,giant,6,CE,Cold,Mountain ,Material,180,Monster Manual V,1
+TUSK TERROR,8,Medium,magical beast,13,CN,temperate,hills/mountains/forests,Material,182,Monster Manual V,1
+USHEMOI: Arkamoi,4,Medium,monstrous humanoid,4,NE,,Forests,Material,184,Monster Manual V,1
+USHEMOI: Hadrimoi,5,Medium,monstrous humanoid,9,NE,,Forests,Material,185,Monster Manual V,1
+USHEMOI: Lashemoi,1,Medium,monstrous humanoid,2,NE,,Forests,Material,186,Monster Manual V,1
+USHEMOI: Turlemoi,8,Large,monstrous humanoid,12,NE,,Forests,Material,187,Monster Manual V,1
+VAMPIRES: The Black Duke,19,Medium,undead (augmented humanoid),17,CE,,Any/Underground,Material,190,Monster Manual V,1
+VAMPIRES: The Red Widow,17,Medium,undead (augmented humanoid),15,NE,,Any/Underground,Material,193,Monster Manual V,1
+VERDANT REAVER,5,Large,Plant,6,N,temperate,forests,Material,196,Monster Manual V,1
+VINESPAWN,7,Large,Plant,12,N,temperate/warm, forests,Material,198,Monster Manual V,1
+VIVISECTOR,4,Medium,aberration,7,LE,,Underground,Material,200,Monster Manual V,1
+WILD HUNT: Master of the Hunt,22,Large,FEY,32,CN,,Any/Underground,Material,202,Monster Manual V,1
+WILD HUNT: Hound of the Hunt,18,Large,magical beast,20,CN,,Any/Underground,Material,202,Monster Manual V,1
+ARMANITE,7,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",9,CE,,FOREST/PLAINS/DESERT,Abyss,28,Fiendish Codex I - Hordes of the Abyss,1
+BAR-LGURA,5,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",6,CE,,FOREST/MOUNTAIN,Abyss,29,Fiendish Codex I - Hordes of the Abyss,1
+BROODSWARM,6,TINY,"outsider (chaotic, evil, extraplanar, SWARM)",8,CE,,ANY/UNDERGROUND,Abyss,31,Fiendish Codex I - Hordes of the Abyss,1
+BULEZAU,9,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",10,CE,,ANY/UNDERGROUND,Abyss,33,Fiendish Codex I - Hordes of the Abyss,1
+CHASME,10,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",9,CE,,FOREST/PLAINS/ UNDERGROUND,Abyss,34,Fiendish Codex I - Hordes of the Abyss,1
+DYBBUK,8,Medium,"outsider (chaotic, evil, extraplanar, incorporeal, loumara)",10,CE,,Any/Underground,ABYSS,36,Fiendish Codex I - Hordes of the Abyss,1
+EKOLID,4,small,"outsider (chaotic, evil, extraplanar, obyrith)",6,CE,,Deserts,ABYSS,38,Fiendish Codex I - Hordes of the Abyss,1
+GORISTRO,16,HUGE,"outsider (chaotic, evil, extraplanar, tanar’ri)",24,CE,,UNDERGROUND,ABYSS,40,Fiendish Codex I - Hordes of the Abyss,1
+GUECUBU,4,Medium,"outsider (chaotic, evil, extraplanar, incorporeal, loumara)",4,CE,,ANY/UNDERGROUND,ABYSS,41,Fiendish Codex I - Hordes of the Abyss,1
+LILITU,12,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",14,CE,,ANY/UNDERGROUND,ABYSS,43,Fiendish Codex I - Hordes of the Abyss,1
+MANE,1,small,"outsider (chaotic, evil, extraplanar, tanar’ri)",1,CE,,ANY/UNDERGROUND,ABYSS,45,Fiendish Codex I - Hordes of the Abyss,1
+MOLYDEUS,19,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",19,CE,,ANY/UNDERGROUND,ABYSS,46,Fiendish Codex I - Hordes of the Abyss,1
+NABASSU: Juvenile Nabassu,5,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",5,CE,,ANY/UNDERGROUND,ABYSS,48,Fiendish Codex I - Hordes of the Abyss,1
+NABASSU: Mature Nabassu,15,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",15,CE,,ANY/UNDERGROUND,ABYSS,49,Fiendish Codex I - Hordes of the Abyss,1
+RUTTERKIN,3,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",5,CE,,ANY/UNDERGROUND,ABYSS,51,Fiendish Codex I - Hordes of the Abyss,1
+SIBRIEX,15,Large,"outsider (chaotic, evil, extraplanar, obyrith)",15,CE,,ANY/UNDERGROUND,ABYSS,52,Fiendish Codex I - Hordes of the Abyss,1
+YOCHLOL,8,Medium,"outsider (chaotic, evil, extraplanar, shapechanger)",10,CE,,ANY/Underground,the Demonweb,54,Fiendish Codex I - Hordes of the Abyss,1
+BAPHOMET,20,Huge,"outsider (chaotic, evil, extraplanar, tanar’ri)",24,CE,,Underground,Abyss,58,Fiendish Codex I - Hordes of the Abyss,1
+DAGON,22,Gargantuan,"outsider (aquatic, chaotic, evil, extraplanar, obyrith)",25,CE,,Aquatic/Underground,Abyss,59,Fiendish Codex I - Hordes of the Abyss,1
+DEMOGORGON,23,Huge,"outsider (aquatic, chaotic, evil, extraplanar, tanar’ri)",27,CE,,Aquatic/Underground/Forest,Abyss,61,Fiendish Codex I - Hordes of the Abyss,1
+FRAZ-URB’LUU,21,Huge,"outsider (chaotic, evil, extraplanar, tanar’ri)",24,CE,,Any,Abyss,63,Fiendish Codex I - Hordes of the Abyss,1
+GRAZ’ZT,22,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",27,CE,,Any/Underground,Abyss,65,Fiendish Codex I - Hordes of the Abyss,1
+JUIBLEX,19,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",21,CE,,ANY/Underground,Abyss,66,Fiendish Codex I - Hordes of the Abyss,1
+KOSTCHTCHIE,21,Huge,"outsider (chaotic, cold, evil, extraplanar, tanar’ri)",23,CE,cold,mountain/hills/forest,Abyss,68,Fiendish Codex I - Hordes of the Abyss,1
+MALCANTHET,21,Medium,"outsider (chaotic, evil, extraplanar, tanar’ri)",25,CE,,ANY,Abyss,69,Fiendish Codex I - Hordes of the Abyss,1
+OBOX-OB,22,Huge,"outsider (chaotic, evil, extraplanar, obyrith)",26,CE,,ANY/Underground,Abyss,71,Fiendish Codex I - Hordes of the Abyss,1
+ORCUS,22,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",26,CE,,ANY/Underground,Abyss,73,Fiendish Codex I - Hordes of the Abyss,1
+PALE NIGHT,21,Medium,"outsider (chaotic, evil, extraplanar, incorporeal, obyrith) ",24,CE,,ANY/Underground,Abyss,74,Fiendish Codex I - Hordes of the Abyss,1
+PAZUZU,22,Medium,"outsider (chaotic, evil, extraplanar, obyrith)",22,CE,,ANY/Underground,Abyss,76,Fiendish Codex I - Hordes of the Abyss,1
+YEENOGHU,20,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",24,CE,,ANY/Underground,Abyss,78,Fiendish Codex I - Hordes of the Abyss,1
+ZUGGTMOY,21,Large,"outsider (chaotic, evil, extraplanar, tanar’ri)",26,CE,,ANY/Underground,Abyss,79,Fiendish Codex I - Hordes of the Abyss,1
+Fiendish Kobolds,9,small,"humanoid (reptilian, extraplanar)",4,LE,,ANY/Underground,The Nine Hells,40,Fiendish Codex II - Tyrants of the Nine Hells,1
+Worm of Minauros,15,Gargantuan,magical beast,25,N,,MARSH,Material,49,Fiendish Codex II - Tyrants of the Nine Hells,1
+Hell Louse,3,Large,"vermin (magical beast, fiendish, extraplanar)",6,LE,,ANY/Underground,The Nine Hells,64,Fiendish Codex II - Tyrants of the Nine Hells,1
+Tybalt the Cursed,10,Medium,humanoid (hellbred),10,LG,,ANY/Underground,Material,79,Fiendish Codex II - Tyrants of the Nine Hells,1
+Night Terror,,Large,magical beast (augmented animal),8,N,,ANY/Underground,Material,80,Fiendish Codex II - Tyrants of the Nine Hells,1
+Trienath Salazar,12,Medium,outsider (native),12,CN,,ANY/Underground,Material,89,Fiendish Codex II - Tyrants of the Nine Hells,1
+Galena Todrick,12,Medium,humanoid (hellbred),12,NE,,ANY/Underground,Material,92,Fiendish Codex II - Tyrants of the Nine Hells,1
+Camren Lightbringer,13,Medium,outsider (native),12,CG,,ANY/Underground,Material,95,Fiendish Codex II - Tyrants of the Nine Hells,1
+Halagrad Doomhammer,10,Medium,humanoid,10,LG,,ANY/Underground,Material,98,Fiendish Codex II - Tyrants of the Nine Hells,1
+ABISHAI: Black Abishai,5,Medium,"outsider (baatezu, evil, extraplanar, lawful)",5,LE,,ANY/Underground,The Nine Hells,109,Fiendish Codex II - Tyrants of the Nine Hells,1
+ABISHAI: Blue Abishai,7,Medium,"outsider (baatezu, evil, extraplanar, lawful)",7,LE,,ANY/Underground,The Nine Hells,109,Fiendish Codex II - Tyrants of the Nine Hells,1
+ABISHAI: Green Abishai,6,Medium,"outsider (baatezu, evil, extraplanar, lawful)",6,LE,,ANY/Underground,The Nine Hells,109,Fiendish Codex II - Tyrants of the Nine Hells,1
+ABISHAI: Red Abishai,8,Medium,"outsider (baatezu, evil, extraplanar, lawful)",8,LE,,ANY/Underground,The Nine Hells,110,Fiendish Codex II - Tyrants of the Nine Hells,1
+ABISHAI: White Abishai,4,Medium,"outsider (baatezu, evil, extraplanar, lawful)",4,LE,,ANY/Underground,The Nine Hells,110,Fiendish Codex II - Tyrants of the Nine Hells,1
+AMNIZU,7,Medium,"outsider (baatezu, evil, extraplanar, lawful)",9,LE,,ANY/Underground,The Nine Hells,112,Fiendish Codex II - Tyrants of the Nine Hells,1
+ASSASSIN DEVIL,11,Medium,"outsider (baatezu, evil, extraplanar, lawful)",14,LE,,ANY/Underground,The Nine Hells,114,Fiendish Codex II - Tyrants of the Nine Hells,1
+AYPEROBOS SWARM,12,Diminutive,"outsider (baatezu, evil, extraplanar, lawful, swarm)",12,LE,,ANY/Underground,The Nine Hells,115,Fiendish Codex II - Tyrants of the Nine Hells,1
+HARVESTER DEVIL (FALXUGON),7,Medium,"outsider (baatezu, evil, extraplanar, lawful)",9,LE,,ANY/Underground,The Nine Hells,117,Fiendish Codex II - Tyrants of the Nine Hells,1
+HELLFIRE ENGINE,19,Huge,construct,44,N,,ANY/Underground,The Nine Hells,119,Fiendish Codex II - Tyrants of the Nine Hells,1
+KALABON,1/2,small,"outsider (evil, extraplanar, lawful)",1,LE,,ANY/Underground,The Nine Hells,120,Fiendish Codex II - Tyrants of the Nine Hells,1
+LEGION DEVIL,3,Medium,"outsider (baatezu, evil, extraplanar, lawful)",3,LE,,ANY/Underground,The Nine Hells,122,Fiendish Codex II - Tyrants of the Nine Hells,1
+MALEBRANCHE,14,Huge,"outsider (baatezu, evil, extraplanar, lawful)",16,LE,,ANY/Underground,The Nine Hells,124,Fiendish Codex II - Tyrants of the Nine Hells,1
+NARZUGON,5,Medium,"outsider (baatezu, evil, extraplanar, lawful)",7,LE,,ANY/Underground,The Nine Hells,125,Fiendish Codex II - Tyrants of the Nine Hells,1
+NUPPERIBO,2,Medium,"outsider (baatezu, evil, extraplanar, lawful)",2,LE,,ANY/Underground,The Nine Hells,127,Fiendish Codex II - Tyrants of the Nine Hells,1
+ORTHON,8,Large,"outsider (baatezu, evil, extraplanar, lawful)",7,LE,,ANY/Underground,The Nine Hells,128,Fiendish Codex II - Tyrants of the Nine Hells,1
+PAELIRYON,18,Large,"outsider (baatezu, evil, extraplanar, lawful)",18,LE,,ANY/Underground,The Nine Hells,130,Fiendish Codex II - Tyrants of the Nine Hells,1
+PAIN DEVIL,7,Medium,"outsider (baatezu, evil, extraplanar, lawful)",8,LE,,ANY/Underground,The Nine Hells,132,Fiendish Codex II - Tyrants of the Nine Hells,1
+PLEASURE DEVIL,11,Medium,"outsider (baatezu, evil, extraplanar, lawful)",12,LE,,ANY/Underground,The Nine Hells,134,Fiendish Codex II - Tyrants of the Nine Hells,1
+SPINED DEVIL (SPINAGON),4,small,"outsider (baatezu, evil, extraplanar, lawful)",3,LE,,Hill/Mountain,The Nine Hells,136,Fiendish Codex II - Tyrants of the Nine Hells,1
+STEEL DEVIL (BUEROZA),6,Medium,"outsider (baatezu, evil, extraplanar, lawful)",6,LE,,ANY/Underground,The Nine Hells,137,Fiendish Codex II - Tyrants of the Nine Hells,1
+XERFILSTYX,15,Large,"outsider (baatezu, evil, extraplanar, lawful)",15,LE,,ANY/Underground,The Nine Hells,138,Fiendish Codex II - Tyrants of the Nine Hells,1
+"BEL, LORD OF THE FIRST: Aspect of Bel",20,Large,"outsider (baatezu, evil, extraplanar, lawful)",22,LE,,ANY/Underground,The Nine Hells,142,Fiendish Codex II - Tyrants of the Nine Hells,1
+"DISPATER, LORD OF THE SECOND: Aspect of Dispater",21,Medium,"outsider (baatezu, evil, extraplanar, lawful)",28,LE,,ANY/Underground,The Nine Hells,143,Fiendish Codex II - Tyrants of the Nine Hells,1
+"MAMMON, LORD OF THE THIRD: Aspect of Mammon",21,Huge,"outsider (baatezu, evil, extraplanar, lawful)",28,LE,,ANY/Underground,The Nine Hells,145,Fiendish Codex II - Tyrants of the Nine Hells,1
+"BELIAL AND FIERNA, LORDS OF THE FOURTH: Aspect of Belial",21,Medium,"outsider (baatezu, evil, extraplanar, lawful)",30,LE,,ANY/Underground,The Nine Hells,146,Fiendish Codex II - Tyrants of the Nine Hells,1
+"BELIAL AND FIERNA, LORDS OF THE FOURTH: Aspect of Fierna",19,Medium,"outsider (baatezu, evil, extraplanar, lawful)",28,LE,,ANY/Underground,The Nine Hells,147,Fiendish Codex II - Tyrants of the Nine Hells,1
+"LEVISTUS, LORD OF THE FIFTH: Aspect of Levistus",21,Medium,"outsider (baatezu, evil, extraplanar, lawful)",25,LE,,ANY/Underground,The Nine Hells,148,Fiendish Codex II - Tyrants of the Nine Hells,1
+"GLASYA, LORD OF THE SIXTH: Aspect of Glasya",22,Large,"outsider (baatezu, evil, extraplanar, lawful)",28,LE,,ANY/Underground,The Nine Hells,150,Fiendish Codex II - Tyrants of the Nine Hells,1
+"BAALZEBUL, LORD OF THE SEVENTH: Aspect of Baalzebul",23,Huge,"outsider (baatezu, evil, extraplanar, lawful)",30,LE,,ANY/Underground,The Nine Hells,151,Fiendish Codex II - Tyrants of the Nine Hells,1
+"MEPHISTOPHELES, LORD OF THE EIGHTH: Aspect of Mephistopheles",24,Large,"outsider (baatezu, evil, extraplanar, lawful)",30,LE,,ANY/Underground,The Nine Hells,153,Fiendish Codex II - Tyrants of the Nine Hells,1
+"ASMODEUS, LORD OF THE NINTH: Aspect of Asmodeus",27,Large,"outsider (baatezu, evil, extraplanar, lawful)",32,LE,,ANY/Underground,The Nine Hells,155,Fiendish Codex II - Tyrants of the Nine Hells,1
+Dragon wyrmiling black,3,TINY,DRAGON (WATER),4,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon very young black,4,small,DRAGON (WATER),7,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon young black,5,Medium,DRAGON (WATER),10,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon juvenile black,7,Medium,DRAGON (WATER),13,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon young adult black,9,Large,DRAGON (WATER),16,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon adult black,11,Large,DRAGON (WATER),19,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon mature adult black,14,Huge,DRAGON (WATER),22,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon old black,16,Huge,DRAGON (WATER),25,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon very old black,18,Huge,DRAGON (WATER),28,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon ancient black,19,Huge,DRAGON (WATER),31,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon wyrm black,20,Gargantuan,DRAGON (WATER),34,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon great wyrm black,22,Gargantuan,DRAGON (WATER),37,CE,warm,marhes,material,71,Monster Manual ,1
+Dragon wyrmiling BLUE,3,small,DRAGON (EARTH),6,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon very young BLUE,4,Medium,DRAGON (EARTH),9,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon young BLUE,6,Medium,DRAGON (EARTH),12,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon juvenile BLUE,8,Large,DRAGON (EARTH),15,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon young adult BLUE,11,Large,DRAGON (EARTH),18,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon adult BLUE,14,Huge,DRAGON (EARTH),21,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon mature adult BLUE,16,Huge,DRAGON (EARTH),24,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon old BLUE,18,Huge,DRAGON (EARTH),27,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon very old BLUE,19,Huge,DRAGON (EARTH),30,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon ancient BLUE,21,Gargantuan,DRAGON (EARTH),33,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon wyrm BLUE,23,Gargantuan,DRAGON (EARTH),36,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon great wyrm BLUE,25,Gargantuan,DRAGON (EARTH),39,LE,TEMPERATE,DESERTS,material,72,Monster Manual ,1
+Dragon wyrmiling GREEN DRAGON,3,small,DRAGON (AIR),5,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon very young GREEN DRAGON,4,Medium,DRAGON (AIR),8,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon young GREEN DRAGON,5,Medium,DRAGON (AIR),11,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon juvenile GREEN DRAGON,8,Large,DRAGON (AIR),14,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon young adult GREEN DRAGON,11,Large,DRAGON (AIR),17,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon adult GREEN DRAGON,13,Huge,DRAGON (AIR),20,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon mature adult GREEN DRAGON,16,Huge,DRAGON (AIR),23,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon old GREEN DRAGON,18,Huge,DRAGON (AIR),26,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon very old GREEN DRAGON,19,Huge,DRAGON (AIR),29,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon ancient GREEN DRAGON,21,Gargantuan,DRAGON (AIR),32,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon wyrm GREEN DRAGON,22,Gargantuan,DRAGON (AIR),35,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon great wyrm GREEN DRAGON,24,Gargantuan,DRAGON (AIR),38,LE,temperate,forests,material,74,Monster Manual ,1
+Dragon wyrmiling RED,4,Medium,DRAGON (FIRE),7,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon very young RED,5,Large,DRAGON (FIRE),10,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon young RED,7,Large,DRAGON (FIRE),13,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon juvenile RED,10,Large,DRAGON (FIRE),16,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon young adult RED,13,Huge,DRAGON (FIRE),19,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon adult RED,15,Huge,DRAGON (FIRE),22,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon mature adult RED,18,Huge,DRAGON (FIRE),25,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon old RED,20,Gargantuan,DRAGON (FIRE),28,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon very old RED,21,Gargantuan,DRAGON (FIRE),31,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon ancient RED,23,Gargantuan,DRAGON (FIRE),34,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon wyrm RED,24,Gargantuan,DRAGON (FIRE),37,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon great wyrm RED,26,Colossal,DRAGON (FIRE),40,CE,WARM,MOUNTAINS,material,75,Monster Manual ,1
+Dragon wyrmiling WITHE,2,TINY,DRAGON (COLD),3,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon very young WITHE,3,small,DRAGON (COLD),6,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon young WITHE,4,Medium,DRAGON (COLD),9,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon juvenile WITHE,6,Medium,DRAGON (COLD),12,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon young adult WITHE,8,Large,DRAGON (COLD),15,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon adult WITHE,10,Large,DRAGON (COLD),18,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon mature adult WITHE,12,Huge,DRAGON (COLD),21,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon old WITHE,15,Huge,DRAGON (COLD),24,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon very old WITHE,17,Huge,DRAGON (COLD),27,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon ancient WITHE,18,Huge,DRAGON (COLD),30,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon wyrm WITHE,19,Gargantuan,DRAGON (COLD),33,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon great wyrm WITHE,21,Gargantuan,DRAGON (COLD),36,CE,COLD, MOUNTAINS,material,77,Monster Manual ,1
+Dragon wyrmiling BRASS,3,TINY,DRAGON (FIRE),4,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon very young BRASS,4,small,DRAGON (FIRE),7,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon young BRASS,6,Medium,DRAGON (FIRE),10,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon juvenile BRASS,8,Medium,DRAGON (FIRE),13,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon young adult BRASS,10,Large,DRAGON (FIRE),16,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon adult BRASS,12,Large,DRAGON (FIRE),19,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon mature adult BRASS,15,Huge,DRAGON (FIRE),22,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon old BRASS,17,Huge,DRAGON (FIRE),25,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon very old BRASS,19,Huge,DRAGON (FIRE),28,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon ancient BRASS,20,Huge,DRAGON (FIRE),31,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon wyrm BRASS,21,Gargantuan,DRAGON (FIRE),34,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon great wyrm BRASS,23,Gargantuan,DRAGON (FIRE),37,CG,WARM,DESERTS,material,79,Monster Manual ,1
+Dragon wyrmiling BRONZE,3,small,DRAGON (WATER),6,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon very young BRONZE,5,Medium,DRAGON (WATER),9,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon young BRONZE,7,Medium,DRAGON (WATER),12,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon juvenile BRONZE,9,Large,DRAGON (WATER),15,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon young adult BRONZE,12,Large,DRAGON (WATER),18,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon adult BRONZE,15,Huge,DRAGON (WATER),21,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon mature adult BRONZE,17,Huge,DRAGON (WATER),24,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon old BRONZE,19,Huge,DRAGON (WATER),27,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon very old BRONZE,20,Huge,DRAGON (WATER),30,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon ancient BRONZE,22,Gargantuan,DRAGON (WATER),33,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon wyrm BRONZE,23,Gargantuan,DRAGON (WATER),36,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon great wyrm BRONZE,25,Gargantuan,DRAGON (WATER),39,LG,TEMPERATE,HILLS ,material,80,Monster Manual ,1
+Dragon wyrmiling COOPER,3,TINY,DRAGON (EARTH),5,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon very young COOPER,5,small,DRAGON (EARTH),8,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon young COOPER,7,Medium,DRAGON (EARTH),11,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon juvenile COOPER,9,Medium,DRAGON (EARTH),14,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon young adult COOPER,11,Large,DRAGON (EARTH),17,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon adult COOPER,14,Large,DRAGON (EARTH),20,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon mature adult COOPER,16,Huge,DRAGON (EARTH),23,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon old COOPER,19,Huge,DRAGON (EARTH),26,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon very old COOPER,20,Huge,DRAGON (EARTH),29,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon ancient COOPER,22,Huge,DRAGON (EARTH),32,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon wyrm COOPER,23,Gargantuan,DRAGON (EARTH),35,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon great wyrm COOPER,25,Gargantuan,DRAGON (EARTH),38,CG,WARM,HILLS,material,82,Monster Manual ,1
+Dragon wyrmiling GOLD,5,Medium,DRAGON (FIRE),8,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon very young GOLD,7,Large,DRAGON (FIRE),11,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon young GOLD,9,Large,DRAGON (FIRE),14,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon juvenile GOLD,11,Large,DRAGON (FIRE),17,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon young adult GOLD,14,Huge,DRAGON (FIRE),20,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon adult GOLD,16,Huge,DRAGON (FIRE),23,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon mature adult GOLD,19,Huge,DRAGON (FIRE),26,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon old GOLD,21,Gargantuan,DRAGON (FIRE),29,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon very old GOLD,22,Gargantuan,DRAGON (FIRE),32,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon ancient GOLD,24,Gargantuan,DRAGON (FIRE),35,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon wyrm GOLD,25,Colossal,DRAGON (FIRE),38,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon great wyrm GOLD,27,Colossal,DRAGON (FIRE),41,LG,WARM,PLAINS,material,84,Monster Manual ,1
+Dragon wyrmiling SILVER,4,small,DRAGON (COLD),7,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon very young SILVER,5,Medium,DRAGON (COLD),10,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon young SILVER,7,Medium,DRAGON (COLD),13,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon juvenile SILVER,10,Large,DRAGON (COLD),16,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon young adult SILVER,13,Large,DRAGON (COLD),19,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon adult SILVER,15,Huge,DRAGON (COLD),22,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon mature adult SILVER,18,Huge,DRAGON (COLD),25,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon old SILVER,20,Huge,DRAGON (COLD),28,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon very old SILVER,21,Huge,DRAGON (COLD),31,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon ancient SILVER,23,Gargantuan,DRAGON (COLD),34,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon wyrm SILVER,24,Gargantuan,DRAGON (COLD),37,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon great wyrm SILVER,26,Colossal,DRAGON (COLD),40,LG,TEMPERATE,MOUNTAINS,material,86,Monster Manual ,1
+Dragon wyrmiling Amethyst,3,small,DRAGON (EARTH),6,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon very young Amethyst,4,Medium,DRAGON (EARTH),9,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon young Amethyst,6,Medium,DRAGON (EARTH),12,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon juvenile  Amethyst,8,Large,DRAGON (EARTH),15,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon young adult Amethyst,11,Large,DRAGON (EARTH),18,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon adult Amethyst,14,Huge,DRAGON (EARTH),21,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon mature adult Amethyst,16,Huge,DRAGON (EARTH),24,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon old Amethyst,18,Huge,DRAGON (EARTH),27,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon very old Amethyst,19,Huge,DRAGON (EARTH),30,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon ancient Amethyst,21,Gargantuan,DRAGON (EARTH),33,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon wyrm Amethyst,23,Gargantuan,DRAGON (EARTH),36,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon great wyrm Amethyst,25,Gargantuan,DRAGON (EARTH),39,N,,Underground,The Inner Planes,79,Monster Manual II,1
+Dragon wyrmiling Crystal,2,small,DRAGON (AIR),5,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon very young Crystal,3,Medium,DRAGON (AIR),8,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon young Crystal,4,Medium,DRAGON (AIR),11,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon juvenile Crystal,7,Large,DRAGON (AIR),14,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon young adult Crystal,10,Large,DRAGON (AIR),17,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon adult Crystal,12,Huge,DRAGON (AIR),20,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon mature adult Crystal,15,Huge,DRAGON (AIR),23,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon old Crystal,17,Huge,DRAGON (AIR),26,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon very old Crystal,18,Huge,DRAGON (AIR),29,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon ancient Crystal,20,Gargantuan,DRAGON (AIR),32,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon wyrm Crystal,21,Gargantuan,DRAGON (AIR),35,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon great wyrm Crystal,23,Gargantuan,DRAGON (AIR),38,CN,TEMPERATE/COLD,MOUNTAINS,The Inner Planes,81,Monster Manual II,1
+Dragon wyrmiling Esmerald,2,small,DRAGON (AIR),6,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon very young Esmerald,4,Medium,DRAGON (AIR),9,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon young Esmerald,6,Medium,DRAGON (AIR),12,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon juvenile Esmerald,8,Large,DRAGON (AIR),15,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon young adult Esmerald,11,Large,DRAGON (AIR),18,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon adult Esmerald,14,Huge,DRAGON (AIR),21,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon mature adult Esmerald,16,Huge,DRAGON (AIR),24,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon old Esmerald,18,Huge,DRAGON (AIR),27,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon very old Esmerald,19,Huge,DRAGON (AIR),30,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon ancient Esmerald,21,Gargantuan,DRAGON (AIR),33,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon wyrm Esmerald,22,Gargantuan,DRAGON (AIR),36,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon great wyrm Esmerald,24,Gargantuan,DRAGON (AIR),39,LN,,UNDERGROUND,The Inner Planes,82,Monster Manual II,1
+Dragon wyrmiling Sapphire,2,TINY,DRAGON (EARTH),5,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon very young Sapphire,4,small,DRAGON (EARTH),8,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon young Sapphire,6,Medium,DRAGON (EARTH),11,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon juvenile Sapphire,8,Medium,DRAGON (EARTH),14,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon young adult Sapphire,10,Large,DRAGON (EARTH),17,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon adult Sapphire,13,Large,DRAGON (EARTH),20,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon mature adult Sapphire,15,Huge,DRAGON (EARTH),23,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon old Sapphire,18,Huge,DRAGON (EARTH),26,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon very old Sapphire,19,Huge,DRAGON (EARTH),29,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon ancient Sapphire,21,Huge,DRAGON (EARTH),32,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon wyrm Sapphire,22,Gargantuan,DRAGON (EARTH),35,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon great wyrm Sapphire,24,Gargantuan,DRAGON (EARTH),38,LN,,UNDERGROUND,The Inner Planes,84,Monster Manual II,1
+Dragon wyrmiling Topaz,3,small,DRAGON (WATER),7,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon very young Topaz,4,Medium,DRAGON (WATER),10,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon young Topaz,6,Medium,DRAGON (WATER),13,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon juvenile Topaz,9,Large,DRAGON (WATER),16,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon young adult Topaz,12,Large,DRAGON (WATER),19,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon adult Topaz,14,Huge,DRAGON (WATER),22,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon mature adult Topaz,17,Huge,DRAGON (WATER),25,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon old Topaz,19,Huge,DRAGON (WATER),28,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon very old Topaz,20,Huge,DRAGON (WATER),31,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon ancient Topaz,22,Gargantuan,DRAGON (WATER),34,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon wyrm Topaz,23,Gargantuan,DRAGON (WATER),37,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon great wyrm Topaz,25,Colossal,DRAGON (WATER),40,CN,,Aquatic,The Inner Planes,85,Monster Manual II,1
+Dragon wyrmiling Brown,2,Medium,DRAGON (EARTH),6,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon very young Brown,3,Large,DRAGON (EARTH),9,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon young Brown,5,Large,DRAGON (EARTH),12,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon juvenile Brown,7,Large,DRAGON (EARTH),15,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon young adult Brown,10,Huge,DRAGON (EARTH),18,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon adult Brown,13,Huge,DRAGON (EARTH),21,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon mature adult Brown,15,Huge,DRAGON (EARTH),24,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon old Brown,17,Gargantuan,DRAGON (EARTH),27,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon very old Brown,18,Gargantuan,DRAGON (EARTH),30,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon ancient Brown,20,Gargantuan,DRAGON (EARTH),33,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon wyrm Brown,22,Colossal,DRAGON (EARTH),36,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon great wyrm Brown,24,Colossal,DRAGON (EARTH),39,NE,,Desert,Material,38,Monster of Faerun,1
+Dragon wyrmiling Deep,2,TINY,DRAGON (EARTH),6,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon very young Deep,4,small,DRAGON (EARTH),9,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon young Deep,6,Medium,DRAGON (EARTH),12,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon juvenile Deep,8,Medium,DRAGON (EARTH),15,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon young adult Deep,11,Large,DRAGON (EARTH),18,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon adult Deep,14,Large,DRAGON (EARTH),21,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon mature adult Deep,16,Huge,DRAGON (EARTH),24,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon old Deep,18,Huge,DRAGON (EARTH),27,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon very old Deep,19,Huge,DRAGON (EARTH),30,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon ancient Deep,21,Huge,DRAGON (EARTH),33,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon wyrm Deep,22,Gargantuan,DRAGON (EARTH),36,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon great wyrm Deep,24,Gargantuan,DRAGON (EARTH),39,CE,,UNDERGROUND,Material,40,Monster of Faerun,1
+Dragon wyrmiling Fang,2,TINY,DRAGON (AIR),3,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon very young Fang,3,small,DRAGON (AIR),6,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon young Fang,4,Medium,DRAGON (AIR),9,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon juvenile Fang,6,Large,DRAGON (AIR),12,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon young adult Fang,8,Large,DRAGON (AIR),15,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon adult Fang,10,Large,DRAGON (AIR),18,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon mature adult Fang,12,Huge,DRAGON (AIR),21,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon old Fang,15,Huge,DRAGON (AIR),24,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon very old Fang,17,Gargantuan,DRAGON (AIR),27,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon ancient Fang,18,Gargantuan,DRAGON (AIR),30,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon wyrm Fang,19,Gargantuan,DRAGON (AIR),33,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon great wyrm Fang,21,Gargantuan,DRAGON (AIR),36,CN,,MOUNTAINS,Material,41,Monster of Faerun,1
+Dragon wyrmiling SHADOW,2,TINY,DRAGON (SHADOW),4,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon very young SHADOW,3,small,DRAGON (SHADOW),7,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon young SHADOW,5,small,DRAGON (SHADOW),10,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon juvenile SHADOW,7,Medium,DRAGON (SHADOW),13,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon young adult SHADOW,10,Medium,DRAGON (SHADOW),16,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon adult SHADOW,12,Large,DRAGON (SHADOW),19,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon mature adult SHADOW,15,Large,DRAGON (SHADOW),22,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon old SHADOW,17,Huge,DRAGON (SHADOW),25,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon very old SHADOW,18,Huge,DRAGON (SHADOW),28,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon ancient SHADOW,20,Huge,DRAGON (SHADOW),31,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon wyrm SHADOW,21,Gargantuan,DRAGON (SHADOW),34,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon great wyrm SHADOW,23,Gargantuan,DRAGON (SHADOW),37,CE,,UNDERGROUND,Material,42,Monster of Faerun,1
+Dragon wyrmiling SONG,2,TINY,DRAGON (ELECTRICITY),5,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon very young SONG,4,small,DRAGON (ELECTRICITY),8,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon young SONG,6,small,DRAGON (ELECTRICITY),11,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon juvenile SONG,8,Medium,DRAGON (ELECTRICITY),14,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon young adult SONG,10,Medium,DRAGON (ELECTRICITY),17,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon adult SONG,13,Large,DRAGON (ELECTRICITY),20,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon mature adult SONG,15,Large,DRAGON (ELECTRICITY),23,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon old SONG,18,Huge,DRAGON (ELECTRICITY),26,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon very old  SONG,19,Huge,DRAGON (ELECTRICITY),29,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon ancient SONG,21,Huge,DRAGON (ELECTRICITY),32,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon wyrm SONG,22,Huge,DRAGON (ELECTRICITY),35,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+Dragon great wyrm SONG,24,Gargantuan,DRAGON (ELECTRICITY),38,CG/CN,,ANY,MATERIAL,44,Monster of Faerun,1
+"DEMOGORGON, PRINCE OF DEMONS",30,HUGE,OUTSIDER(CHAOTIC/EVIL),39,CE,,ANY/UNDERGROUND,THE LAYER OF THE ABYSS,125,BOOK OF VILE DARKNESS,1
+"GRAZ´ZT, THE DARK PRINCE",24,Large,OUTSIDER(CHAOTIC/EVIL),36,CE,,ANY/UNDERGROUND,THE LAYER OF THE ABYSS,130,BOOK OF VILE DARKNESS,1
+"JUIBLEX, THE FACELESS LORD",20,Large,OUTSIDER(CHAOTIC/EVIL),26,CE,,ANY/UNDERGROUND,THE LAYER OF THE ABYSS,134,BOOK OF VILE DARKNESS,1
+"ORCUS, DEMON PRINCE OF THE UNDEAD",28,LARGE,OUTSIDER(CHAOTIC/EVIL),37,CE,,ANY/UNDERGROUND,THE LAYER OF THE ABYSS,136,BOOK OF VILE DARKNESS,1
+"YEENOGHU, DEMON PRINCE OF GNOLLS",22,LARGE,OUTSIDER(CHAOTIC/EVIL),33,CE,,ANY/UNDERGROUND,THE LAYER OF THE ABYSS,140,BOOK OF VILE DARKNESS,1
+"BEL, LORD OF THE FIRST",20,LARGE,OUTSIDER(EVIL/LAWFUL),26,LE,,ANY/UNDERGROUND,THE NINE HELLS,143,BOOK OF VILE DARKNESS,1
+"DISPATER, LORD OF THE SECOND",26,Medium,OUTSIDER(EVIL/LAWFUL),34,LE,,ANY/UNDERGROUND,THE NINE HELLS,145,BOOK OF VILE DARKNESS,1
+"MAMMON, LORD OF THE THIRD",25,HUGE,OUTSIDER(EVIL/LAWFUL),34,LE,,ANY/UNDERGROUND,THE NINE HELLS,148,BOOK OF VILE DARKNESS,1
+"BELIAL/FIERNA, LORD OF THE FOURTH",24,Medium,"Outsider (Evil, Lawful)",36,LE,,ANY/UNDERGROUND,THE NINE HELLS,151,BOOK OF VILE DARKNESS,1
+"LEVISTUS, LORD OF THE FIFTH",25,Medium,"Outsider (Evil, Lawful)",33,LE,,ANY/UNDERGROUND,THE NINE HELLS,154,BOOK OF VILE DARKNESS,1
+"THE HAG COUNTESS, LORD OF THE SIXTH",22,Medium,OUTSIDER(EVIL),33,LE,,ANY/UNDERGROUND,THE NINE HELLS,156,BOOK OF VILE DARKNESS,1
+"BAALZEBUL, LORD OF THE SEVENTH",29,HUGE,"Outsider (Evil, Lawful)",38,LE,,ANY/UNDERGROUND,THE NINE HELLS,158,BOOK OF VILE DARKNESS,1
+"MEPHISTOPHELES, LORD OF THE EIGHTH",29,LARGE,"Outsider (Evil, Lawful)",38,LE,,ANY/UNDERGROUND,THE NINE HELLS,161,BOOK OF VILE DARKNESS,1
+"ASMODEUS, LORD OF THE NINTH",32,LARGE,"Outsider (Evil, Lawful)",35,LE,,ANY/UNDERGROUND,THE NINE HELLS,165,BOOK OF VILE DARKNESS,1
+NEOGI: ADULT,3,SMALL,ABERRATION,5,LE,WARM,MARSHES,MATERIAL,90,LORDS OF MADNESS,1
+NEOGI: SPAWN,1/3,TINY,ABERRATION,1,LE,WARM,MARSHES,MATERIAL,91,LORDS OF MADNESS,1
+NEOGI: GREAT OLD MASTER,6,HUGE,ABERRATION,10,CE,WARM,MARSHES,MATERIAL,91,LORDS OF MADNESS,1
+GRELL: PHILOSOPHER,5,Medium,ABERRATION,9,NE,,UNDERGROUND,MATERIAL,108,LORDS OF MADNESS,1
+TSOCHAR,4,SMALL,ABERRATION(SHAPECHANGER),4,CE,COLD,FOREST,MATERIAL,121,LORDS OF MADNESS,1
+SHADOW CHOKER,3,SMALL,"ABERRATION(EXTRAPLANAR,AUGMENTED)",3,NE,,ANY/UNDERGROUND,PLANE OF SHADOW,166,LORDS OF MADNESS,1
+CAPTURED BUGBEAR: COMMON RAGGAMOFFYN,4,Medium,GOBLINOID(AUGMENTED),6,N,,ANY,MATERIAL,205,MONSTER MANUAL II,1
+CHIMERIC ANKHEG,9,LARGE,MAGICAL BEAST(AUGMENTED),9,CE,TEMPERATE/WARM,FOREST/PLAINS/UNDERGROUND,MATERIAL,207,MONSTER MANUAL II,1
+DEATH KNIGHT: 7TH-LEVEL FIGHTER/3RD-LEVEL BLACKGUARD,13,MEDIUM,UNDEAD(AUGMENTED),10,LE,,ANY/UNDERGROUND,MATERIAL,208,MONSTER MANUAL II,1
+HALF-GOLEM: FLESH,4,MEDIUM,CONSTRUCT(AUGMENTED),1,ANY,,ANY/UNDERGROUND,MATERIAL,211,MONSTER MANUAL II,1
+HALF-GOLEM: CLAY,4,MEDIUM,CONSTRUCT(AUGMENTED),1,ANY,,ANY/UNDERGROUND,MATERIAL,211,MONSTER MANUAL II,1
+HALF-GOLEM: STONE,4,MEDIUM,CONSTRUCT(AUGMENTED),1,ANY,,ANY/UNDERGROUND,MATERIAL,211,MONSTER MANUAL II,1
+HALF-GOLEM: IRON,4,MEDIUM,CONSTRUCT(AUGMENTED),1,ANY,,ANY/UNDERGROUND,MATERIAL,211,MONSTER MANUAL II,1
+MINOTAUR OF LEGEND,6,LARGE,OUTSIDER(AUGMENTED),6,CE,,UNDERGROUND,MATERIAL,214,MONSTER MANUAL II,1
+SPELLSTICHED GHAST,4,MEDIUM,UNDEAD(AUGMENTED),4,CE,,ANY/UNDERGROUND,MATERIAL,216,MONSTER MANUAL II,1
+TAURIC HOBGOBLIN-GRIFFON,5,LARGE,MONSTROUS HUMANOID(AUGMENTED),8,LE,TEMPERATE/WARM,HILLS/MOUNTAIN,MATERIAL,217,MONSTER MANUAL II,1
+TITANIC TOAD,13,Gargantuan,ANIMAL(AUGMENTED),25,N,TEMPERATE/WARM,ANY/AQUATIC,MATERIAL,218,MONSTER MANUAL II,1
+WARBEAST RHINOCEROS,5,LARGE,ANIMAL(AUGMENTED),9,N,WARM,PLAINS,MATERIAL,219,MONSTER MANUAL II,1
+RAZOR BOAR,10,LARGE,BEAST,15,N,TEMPERATE/WARM,FOREST/MOUNTAIN,MATERIAL,220,MONSTER MANUAL II,1
+SCORPIONFOLK,7,LARGE,MONSTROUS HUMANOID,12,LE,WARM,DESERTS/PLAINS/HILLS,MATERIAL,221,MONSTER MANUAL II,1
+HELL HOUN BEAST OF XVIM,4,MEDIUM,"OUTSIDER(EVIL,FIRE,LAWFUL,AUGMENTED)",5,LE,,ANY/UNDERGROUND,MATERIAL,86,MONSTER OF FAERUN,1
+CURST,6,MEDIUM,UNDEAD(AUGMENTED),5,CN,,ANY/UNDERGROUND,MATERIAL,87,MONSTER OF FAERUN,1
+LYCANTHROPE: WEREBAT,4,HUGE,SHAPECHANGER(AUGMENTED),4,NE,TEMPERATE/WARM,DESERT/FOREST/HILLS/PLAINS/UNDERGROUND,MATERIAL,92,MONSTER OF FAERUN,1
+LYCANTHROPE: WERECROCODILE,6,HUGE,SHAPECHANGER(AUGMENTED),7,NE,WARM,MARSHES,MATERIAL,92,MONSTER OF FAERUN,1
+LYCANTHROPE: WERESHARK,4,LARGE,SHAPECHANGER(AUGMENTED),7,NE,,AQUATIC,MATERIAL,92,MONSTER OF FAERUN,1
+REVENANT,8,MEDIUM,UNDEAD(AUGMENTED),7,N,,ANY/UNDERGROUND,MATERIAL,94,MONSTER OF FAERUN,1
+YUAN-TI: TAINTED ONE,6,MEDIUM,MONSTROUS HUMANOID(AUGMENTED),5,CE,WARM,ANY,MATERIAL,96,MONSTER OF FAERUN,1
+YUAN-TI: BROODGUARD,5,MEDIUM,MONSTROUS HUMANOID(AUGMENTED),5,CE,WARM,ANY,MATERIAL,96,MONSTER OF FAERUN,1
+"BARACHIEL, THE MESSENGER",22,LARGE,"Outsider (Archon, Extraplanar, Good, Lawful)",33,LG,,ANY,Seven Mounting Heavens of Celestia,125,BOOK OF EXALTED DEEDS,1
+"DOMIEL, THE MERCY-BRINGER",24,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",30,LG,,ANY,Seven Mounting Heavens of Celestia,127,BOOK OF EXALTED DEEDS,1
+"ERATHAOL, THE SEER",25,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",28,LG,,ANY,Seven Mounting Heavens of Celestia,128,BOOK OF EXALTED DEEDS,1
+"PISTIS SOPHIA, THE ASCETIC",26,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",29,LG,,ANY,Seven Mounting Heavens of Celestia,130,BOOK OF EXALTED DEEDS,1
+"RAZIEL, THE CRUSADER",28,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",36,LG,,ANY,Seven Mounting Heavens of Celestia,132,BOOK OF EXALTED DEEDS,1
+"SEALTIEL, THE DEFENDER",29,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",38,LG,,ANY,Seven Mounting Heavens of Celestia,134,BOOK OF EXALTED DEEDS,1
+"ZAPHKIEL, THE WATCHER",32,Large,"Outsider (Archon, Extraplanar, Good, Lawful)",35,LG,,ANY,Seven Mounting Heavens of Celestia,136,BOOK OF EXALTED DEEDS,1
+"TALISID, THE CELESTIAL LION",30,Large,"Outsider (Extraplanar, Good, Guardinal)",40,NG,,ANY,Blessed Fields of Elysium,138,BOOK OF EXALTED DEEDS,1
+"SATHIA, THE SKY DUCHESS",26,Large,"Outsider (Extraplanar, Good, Guardinal)",34,NG,,ANY,Blessed Fields of Elysium,141,BOOK OF EXALTED DEEDS,1
+"MANATH, THE HORNED DUKE",20,MEDIUM,"Outsider (Extraplanar, Good, Guardinal)",26,NG,,ANY,Blessed Fields of Elysium,142,BOOK OF EXALTED DEEDS,1
+"VHARA, DUCHESS OF THE FIELDS",24,HUGE,"Outsider (Extraplanar, Good, Guardinal)",32,NG,,ANY,Blessed Fields of Elysium,144,BOOK OF EXALTED DEEDS,1
+"KHARASH, THE STALKER",22,Large,"Outsider (Extraplanar, Good, Guardinal)",33,NG,,ANY,Blessed Fields of Elysium,145,BOOK OF EXALTED DEEDS,1
+"BHARRAI, THE GREAT BEAR",28,HUGE,"Outsider (Extraplanar, Good, Guardinal)",31,NG,,ANY,Blessed Fields of Elysium,148,BOOK OF EXALTED DEEDS,1
+"MORWEL, QUEEN OF STARS",31,MEDIUM,"Outsider(Chaotic, Eladrin, Extraplanar, Good)",39,CG,,ANY,Olympian Glades of Arborea,150,BOOK OF EXALTED DEEDS,1
+"FAERINAAL, THE QUEEN’S CONSORT",29,MEDIUM,"Outsider(Chaotic, Eladrin, Extraplanar, Good)",32,CG,,ANY,Olympian Glades of Arborea,153,BOOK OF EXALTED DEEDS,1
+"GWYNHARWYF, THE WHIRLING FURY",26,MEDIUM,"Outsider(Chaotic, Eladrin, Extraplanar, Good)",26,CG,,ANY,Olympian Glades of Arborea,155,BOOK OF EXALTED DEEDS,1
+SPELLWARPED ETTIN,7,Large,ABERRATION(AUGMENTED GIANT),10,CE,COLD,HILLS,MATERIAL,162,MONSTER MANUAL III,1
+WOODLING MONITOR LIZARD,4,MEDIUM,ANIMAL(AUGMENTED),3,N,WARM,FOREST,MATERIAL,197,MONSTER MANUAL III,1
+DROW: LOLTH´S STING,5,MEDIUM,HUMANOID(ELF),4,NE,,UNDERGROUND,MATERIAL,55,MONSTER MANUAL IV,1
+DROW: DRAK SNIPER,7,MEDIUM,HUMANOID(ELF),6,CE,,UNDERGROUND,MATERIAL,56,MONSTER MANUAL IV,1
+DROW: ARCANE GUARD,8,MEDIUM,HUMANOID(ELF),7,NE,,UNDERGROUND,MATERIAL,56,MONSTER MANUAL IV,1
+DROW: DROW PRIESTESS,9,MEDIUM,HUMANOID(ELF),8,NE,,UNDERGROUND,MATERIAL,57,MONSTER MANUAL IV,1
+HALF-FIEND GNOLL WARLOCK,6,MEDIUM,"OUTSIDER(AUGMENTED HUMANOID, NATIVE)",6,CE,WARM,PLAINS/HILLS,MATERIAL,68,MONSTER MANUAL IV,1
